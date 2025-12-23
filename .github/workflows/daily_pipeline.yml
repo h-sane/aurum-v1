@@ -1,0 +1,54 @@
+name: Aurum-V1 Daily Pipeline
+
+on:
+  schedule:
+    # Runs at 18:00 UTC = 11:30 PM IST (Daily)
+    - cron: '0 18 * * *'
+  # Allows manual trigger from GitHub "Actions" tab for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Aurum Controller
+        run: |
+          python main.py
+
+      - name: Commit & Push (Activity Log)
+        run: |
+          # Configure Git Bot
+          git config --global user.name "Aurum-Bot"
+          git config --global user.email "bot@aurum.local"
+          
+          # 1. Check for Data Updates (The CSV)
+          git add data/gold_prices.csv
+          
+          # 2. Force a 'Heartbeat' update to ensure a Green Square everyday
+          # (Even if gold price didn't change/market closed, we log the check)
+          date > last_run_log.txt
+          git add last_run_log.txt
+          
+          # 3. Commit logic
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "ETL Pipeline: Daily Sync [$(date +'%Y-%m-%d')]"
+            git push
+          fi
