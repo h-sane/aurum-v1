@@ -3,7 +3,7 @@ from src.scout import Scout
 from src import ledger
 from src import prophet
 from src.sentinel import Sentinel
-from src import dashboard  # <--- Import Dashboard
+from src import dashboard
 
 def main():
     print("--- Aurum-V1 Pipeline Initiated ---")
@@ -25,32 +25,28 @@ def main():
         print(f"💾 Transaction Saved: {result.timestamp}")
         print("::set-output name=commit_type::data")
         
-        # 3. Analytics
+        # 3. Analytics (Only run heavy ML/Sentiment if we have NEW data)
         print("--- Triggering Analytics ---")
         try:
             prophet.run_oracle()
-            
             try:
                 bot = Sentinel()
                 bot.analyze_market_mood()
             except Exception as e:
                 print(f"⚠️ Sentinel Failed (Non-Critical): {e}")
-                
         except Exception as e:
             print(f"⚠️ Oracle Failed: {e}")
 
-        # 4. Publish Dashboard (Runs only on new data)
-        try:
-            dashboard.generate_readme()
-        except Exception as e:
-            print(f"⚠️ Dashboard Generation Failed: {e}")
-            
     else:
         print("⏭️  Idempotent Skip: Data for today already exists.")
         print("::set-output name=commit_type::skip")
-        
-        # DEBUG: Force update README even if no new data (Good for testing)
+
+    # 4. Publish Dashboard (ALWAYS RUN THIS)
+    # We moved this OUTSIDE the 'if' block so the README updates every time.
+    try:
         dashboard.generate_readme()
+    except Exception as e:
+        print(f"⚠️ Dashboard Generation Failed: {e}")
 
 if __name__ == "__main__":
     main()
