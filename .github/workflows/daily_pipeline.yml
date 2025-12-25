@@ -33,9 +33,9 @@ jobs:
 
       - name: Commit & Push (Activity Log)
         run: |
-          # Configure Git Bot
-          git config --global user.name "Aurum-Bot"
-          git config --global user.email "bot@aurum.local"
+          # Configure Git Identity (MUST MATCH YOUR GITHUB ACCOUNT)
+          git config --global user.name "h-sane"
+          git config --global user.email "hussainpalan1282@gmail.com"
           
           # 1. Check for Data Updates (The CSV)
           git add data/gold_prices.csv
