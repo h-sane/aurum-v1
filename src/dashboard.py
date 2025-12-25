@@ -45,7 +45,7 @@ def generate_readme():
     chart = "```mermaid\n"
     chart += "xychart-beta\n"
     chart += '    title "Gold Price Trend (30 Days - 10g 22K)"\n'
-    chart += '    x-axis [ ' + ", ".join([d.split("-")[2] for d in dates]) + " ]\n" 
+    chart += '    x-axis [ ' + ", ".join([d[5:] for d in dates]) + " ]\n" 
     chart += '    y-axis "Price (INR)" ' + f"{min(prices)-500} --> {max(prices)+500}\n"
     chart += '    line [' + ", ".join(map(str, prices)) + "]\n"
     chart += "```"
