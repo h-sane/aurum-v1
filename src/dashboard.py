@@ -23,7 +23,8 @@ def generate_readme():
         return
 
     # Extract Stats
-    price = data['current_price']
+    price_10g = data['current_price']
+    price_1g = int(price_10g / 10)  # Calculate 1 gram price
     prediction = data['forecast_price']
     trend = data['trend_signal']
     rsi = data['rsi']
@@ -40,11 +41,11 @@ def generate_readme():
     dates = data['history']['dates']
     prices = data['history']['prices']
     
-    # Mermaid xychart syntax (GitHub supports this!)
+    # Mermaid xychart syntax
     chart = "```mermaid\n"
     chart += "xychart-beta\n"
-    chart += '    title "Gold Price Trend (30 Days)"\n'
-    chart += '    x-axis [ ' + ", ".join([d.split("-")[2] for d in dates]) + " ]\n" # Just Show Days
+    chart += '    title "Gold Price Trend (30 Days - 10g 22K)"\n'
+    chart += '    x-axis [ ' + ", ".join([d.split("-")[2] for d in dates]) + " ]\n" 
     chart += '    y-axis "Price (INR)" ' + f"{min(prices)-500} --> {max(prices)+500}\n"
     chart += '    line [' + ", ".join(map(str, prices)) + "]\n"
     chart += "```"
@@ -53,34 +54,55 @@ def generate_readme():
     md = f"""
 # 🏆 Aurum-V1: Autonomous Gold Intelligence
 
-> **"A robust, self-correcting ETL pipeline that tracks, predicts, and analyzes the Indian Gold Market (22K) using Holt-Winters Exponential Smoothing and VADER Sentiment Analysis."**
+> **"A robust, self-correcting ETL pipeline that tracks, predicts, and analyzes the Indian Gold Market using Machine Learning and NLP."**
 
 ### ⚡ Live Market Intelligence
-| Metric | Status | Value |
-| :--- | :--- | :--- |
-| **Current Price (10g)** | {trend_symbol} | **₹{price:,}** |
-| **Tomorrow's Forecast** | 🔮 | **₹{prediction:,}** |
-| **Market Trend** | 📊 | **{trend}** |
-| **RSI Strength** | 📉 | **{rsi}** (0-100) |
-| **News Sentiment** | 🌍 | **{sentiment}** ({score}) |
+| Metric | Status | Value | Description |
+| :--- | :--- | :--- | :--- |
+| **Price (10g)** | {trend_symbol} | **₹{price_10g:,}** | Standard Jewellery Unit (22K) |
+| **Price (1g)** | 🔹 | **₹{price_1g:,}** | Per Gram Unit |
+| **Forecast** | 🔮 | **₹{prediction:,}** | Predicted price for tomorrow |
+| **Momentum** | 📉 | **RSI {rsi}** | 0-30=Cheap, 70-100=Expensive |
+| **Mood** | 🌍 | **{sentiment}** | Analysis of Global News Feeds |
 
 ---
 
 ### 📈 Price Action (Last 30 Days)
 {chart}
 
-### 🧠 The Oracle's Analysis
-* **Technical View:** The market is currently **{trend}**. The Relative Strength Index (RSI) is **{rsi}**, suggesting the asset is {'Overbought (Risk of Pullback)' if rsi > 70 else 'Oversold (Buy Opportunity)' if rsi < 30 else 'Stable'}.
-* **Fundamental View:** Sentinel analysis of global news feeds indicates a **{sentiment}** environment.
+---
+
+### 🧠 The Oracle's Report
+* **Technical Analysis:** The market is currently **{trend}**. The RSI is **{rsi}**.
+    * *What this means:* {'The price is rising aggressively. Be cautious of a sudden drop.' if rsi > 70 else 'The price has dropped significantly. It might be a good time to buy.' if rsi < 30 else 'The market is stable with no extreme buying or selling pressure.'}
+* **Fundamental Analysis:** Our Sentinel Bot scanned global news and detected a **{sentiment}** environment (Score: {score}).
     * *Top Headline:* "{headlines[0] if headlines else 'No Major News'}"
 
 ---
 
-### 🏗️ Architecture
-* **Ingestion:** Custom `curl_cffi` driver to bypass WAFs on Indian financial sites.
-* **Persistence:** Atomic CSV ledger with idempotent checks to prevent data corruption.
-* **Prediction:** Holt-Winters Exponential Smoothing (Additive Trend) trained on a 64-day sliding window.
-* **Context:** NLP Sentiment Analysis (VADER) on Google News RSS feeds to detect Geopolitical Risk ("War Premium").
+### 📚 How to Read This Dashboard
+**1. What is RSI (Relative Strength Index)?**
+Think of RSI as a speedometer for the price (0 to 100).
+* **> 70 (Overbought):** The price went up too fast. It usually crashes soon after.
+* **< 30 (Oversold):** The price dropped too fast. It usually bounces back up.
+
+**2. Why Analyze News Sentiment?**
+Gold is a "Fear Asset." 
+* When the world is **scared** (War, Pandemic, Recession), people buy Gold -> **Price Goes UP.**
+* When the world is **happy** (Peace, Strong Economy), people sell Gold -> **Price Goes DOWN.**
+* *Our Sentinel Bot reads the news to see if the world is scared or happy.*
+
+**3. What is Bullish vs. Bearish?**
+* **🟢 Bullish:** The trend is UP (Like a Bull attacking with horns up).
+* **🔴 Bearish:** The trend is DOWN (Like a Bear swiping with paws down).
+
+---
+
+### 🏗️ Technical Architecture
+* **Ingestion:** Custom `curl_cffi` driver (mimics Chrome 120) to bypass WAFs.
+* **Storage:** Atomic CSV ledger to prevent data corruption.
+* **Prediction:** Holt-Winters Exponential Smoothing (Statistical ML).
+* **Context:** VADER Sentiment Analysis on Google News RSS feeds.
 
 ---
 *Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} IST | Automated by GitHub Actions*
@@ -90,7 +112,7 @@ def generate_readme():
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(md)
     
-    print("✅ README.md updated successfully.")
+    print("✅ README.md updated with Educational Sections.")
 
 if __name__ == "__main__":
     generate_readme()
