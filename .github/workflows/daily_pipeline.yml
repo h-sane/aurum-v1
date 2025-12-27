@@ -37,15 +37,13 @@ jobs:
           git config --global user.name "h-sane"
           git config --global user.email "hussainpalan1282@gmail.com"
           
-          # 1. Check for Data Updates (The CSV)
-          git add data/gold_prices.csv
-          
-          # 2. Force a 'Heartbeat' update to ensure a Green Square everyday
-          # (Even if gold price didn't change/market closed, we log the check)
+          # Force the "Heartbeat" update
           date > last_run_log.txt
-          git add last_run_log.txt
           
-          # 3. Commit logic
+          # Stage ALL changes (README.md, json files, csv, log)
+          git add .
+          
+          # Commit logic
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
