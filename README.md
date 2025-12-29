@@ -15,12 +15,31 @@
 
 ---
 
-### 🧠 The Oracle's Report
-*Based on 30 days of data, Currency strength, and Global News.*
+### 📊 Market Trend Analysis
+*Visualizing the price action over the last 30 days.*
 
+![Gold Trend Chart](assets/trend_chart.png)
+
+---
+
+### ⏳ The Time Machine: Accuracy & Trend
+*Comparing the Past, Present, and Future.*
+
+| Timeline | Price (10g) | Change (₹) | Insight |
+| :--- | :--- | :--- | :--- |
+| **Yesterday** (Actual) | ₹133,297 | - | Historical Anchor |
+| **Today** (Live) | **₹127,649** | 🔻 ₹5,648 | **Actual Market Rate** |
+| **Tomorrow** (AI Forecast) | `₹129,706` | 🔺 ₹2,057 | *Stable 🌊* |
+
+> **🎯 AI Accuracy Tracker:** > Yesterday's prediction error was **N/A (Calibrating)**.  
+> *The model learns from this error to improve future forecasts.*
+
+---
+
+### 🧠 The Oracle's Report
 * **Prediction:** The model expects prices to move **🔺 ₹2,057** tomorrow.
 * **Confidence Check:** Market volatility is **Stable 🌊**. RSI is at **61.89**.
-* **Accuracy Tracker:** Yesterday's prediction error was **N/A (Calibrating)**.
+* **Key Drivers:** Predictions are now weighted by **USD/INR Exchange Rates** and **Global News Sentiment**.
 
 ---
 
@@ -29,4 +48,4 @@
 * **Key Headlines:**
 
 ---
-*Last Updated: 2025-12-29 23:57:17 IST*
+*Last Updated: 2025-12-30 00:14:48 IST*

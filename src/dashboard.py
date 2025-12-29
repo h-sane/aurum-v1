@@ -22,24 +22,34 @@ def get_arrow(value):
     return "➖"
 
 def generate_plot(history):
-    dates = history['dates']
-    prices = history['prices']
+    dates = history.get('dates', [])
+    prices = history.get('prices', [])
     
-    plt.figure(figsize=(10, 4))
-    plt.plot(dates, prices, marker='o', linestyle='-', color='#d4af37', linewidth=2, markersize=4)
-    plt.title(f"Gold Price Trend (Last {len(dates)} Days)", fontsize=14, color='#333333')
-    plt.grid(True, linestyle='--', alpha=0.5)
-    plt.xticks(rotation=45, fontsize=8)
-    plt.tight_layout()
-    
-    img_path = "assets/trend_chart.png"
+    if not dates or not prices: return
+
+    # Create Asset Folder
     if not os.path.exists("assets"):
         os.makedirs("assets")
-    plt.savefig(img_path)
+        
+    plt.figure(figsize=(10, 5))
+    # Plot Line
+    plt.plot(dates, prices, marker='o', linestyle='-', color='#d4af37', linewidth=2.5, markersize=5, label='Gold Price (10g)')
+    
+    # Add Title & Grid
+    plt.title(f"Gold Price Trend (Last {len(dates)} Days)", fontsize=14, fontweight='bold', color='#333333')
+    plt.grid(True, linestyle='--', alpha=0.3)
+    plt.xticks(rotation=45, fontsize=8)
+    plt.yticks(fontsize=9)
+    plt.legend()
+    plt.tight_layout()
+    
+    # Save
+    img_path = "assets/trend_chart.png"
+    plt.savefig(img_path, dpi=100)
     plt.close()
 
 def generate_readme():
-    print("--- 📝 Generating Futuristic Dashboard (1g & 10g Support) ---")
+    print("--- 📝 Generating Hybrid Dashboard (Visuals + Intelligence) ---")
     
     data = load_json(DATA_FILE)
     mood = load_json(MOOD_FILE)
@@ -95,12 +105,31 @@ def generate_readme():
 
 ---
 
-### 🧠 The Oracle's Report
-*Based on {len(data.get('history', {}).get('prices', []))} days of data, Currency strength, and Global News.*
+### 📊 Market Trend Analysis
+*Visualizing the price action over the last 30 days.*
 
+![Gold Trend Chart](assets/trend_chart.png)
+
+---
+
+### ⏳ The Time Machine: Accuracy & Trend
+*Comparing the Past, Present, and Future.*
+
+| Timeline | Price (10g) | Change (₹) | Insight |
+| :--- | :--- | :--- | :--- |
+| **Yesterday** (Actual) | {fmt_price(price_yest_10g)} | - | Historical Anchor |
+| **Today** (Live) | **{fmt_price(price_today_10g)}** | {get_arrow(delta_10g)} {fmt_price(abs(delta_10g))} | **Actual Market Rate** |
+| **Tomorrow** (AI Forecast) | `{fmt_price(forecast_10g)}` | {get_arrow(delta_forecast)} {fmt_price(abs(delta_forecast))} | *{volatility}* |
+
+> **🎯 AI Accuracy Tracker:** > Yesterday's prediction error was **{accuracy_display}**.  
+> *The model learns from this error to improve future forecasts.*
+
+---
+
+### 🧠 The Oracle's Report
 * **Prediction:** The model expects prices to move **{get_arrow(delta_forecast)} {fmt_price(abs(delta_forecast))}** tomorrow.
 * **Confidence Check:** Market volatility is **{volatility}**. RSI is at **{rsi}**.
-* **Accuracy Tracker:** Yesterday's prediction error was **{accuracy_display}**.
+* **Key Drivers:** Predictions are now weighted by **USD/INR Exchange Rates** and **Global News Sentiment**.
 
 ---
 
@@ -120,7 +149,7 @@ def generate_readme():
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(md)
     
-    print("✅ Dashboard Updated with 1g & 10g Metrics.")
+    print("✅ Hybrid Dashboard Generated (Charts + Analytics Restored).")
 
 if __name__ == "__main__":
     generate_readme()
