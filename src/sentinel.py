@@ -62,6 +62,11 @@ class Sentinel:
         significant_keywords = []
         
         for h in headlines:
+            # FILTER: Ignore meta-news and prediction spam
+            ignore_words = ["prediction", "forecast", "outlook", "opinion", "target"]
+            if any(w in h.lower() for w in ignore_words):
+                continue  # Skip this headline
+                
             score = self.sia.polarity_scores(h)['compound']
             
             # --- DOMAIN LOGIC: The "War Premium" ---

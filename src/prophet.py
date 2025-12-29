@@ -43,25 +43,29 @@ def run_oracle():
     model = ExponentialSmoothing(prices, trend='add', damped_trend=False).fit()
     forecast_value = int(model.forecast(1)[0])
     
-    # --- 2. ACCURACY TRACKING ---
-    # Check yesterday's log to see what we predicted for TODAY
+    # --- 2. ACCURACY TRACKING (Corrected) ---
     pred_log = load_prediction_log()
     today_str = datetime.now().strftime('%Y-%m-%d')
+    # Calculate yesterday's date
     yesterday_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
     
-    accuracy_metric = "N/A"
-    error_diff = 0
+    accuracy_metric = "N/A (Tracking Started)" 
+    error_diff = None 
     
-    # Did we have a prediction for today?
-    if today_str in pred_log:
-        predicted_for_today = pred_log[today_str]
+    # CRITICAL FIX: Compare ACTUAL TODAY vs PREDICTED YESTERDAY
+    if yesterday_str in pred_log:
+        predicted_yesterday = pred_log[yesterday_str]
         actual_today = prices[-1]
-        error_diff = actual_today - predicted_for_today
-        accuracy_metric = f"₹{abs(error_diff)}" # Absolute error
         
-        print(f"🎯 Accuracy Check: Predicted ₹{predicted_for_today} vs Actual ₹{actual_today} (Diff: {error_diff})")
-    
-    # Log TOMORROW'S prediction
+        # Error = Actual - Predicted
+        error_diff = actual_today - predicted_yesterday
+        accuracy_metric = f"₹{abs(error_diff)}"
+        
+        print(f"🎯 Accuracy Check: Predicted (Yest) ₹{predicted_yesterday} vs Actual ₹{actual_today} (Diff: {error_diff})")
+    else:
+        print(f"⚠️ No prediction found for {yesterday_str}. First run?")
+
+    # Log TOMORROW'S prediction for future checking
     tomorrow_str = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d')
     pred_log[tomorrow_str] = forecast_value
     save_prediction_log(pred_log)

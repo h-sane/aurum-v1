@@ -60,6 +60,31 @@ def generate_readme():
     chart_mood += f'    "Bullish Factors" : {pos_pct}\n'
     chart_mood += f'    "Bearish Factors" : {neg_pct}\n```'
 
+    # --- LOGIC: RSI Reality Check ---
+    rsi_val = data['rsi']
+    trend_signal = data['trend_signal']
+    
+    momentum_label = "NEUTRAL ⚪"
+    momentum_desc = "Stable Market"
+    confidence = "⭐⭐⭐ (High)"
+    
+    if rsi_val > 70:
+        momentum_label = "OVERHEATED ⚠️"
+        momentum_desc = "Price Too High - Risk of Crash"
+        # If model predicts UP but market is Overheated -> LOW CONFIDENCE
+        if "BULLISH" in trend_signal:
+            confidence = "⭐ (Low - Divergence)"
+            
+    elif rsi_val < 30:
+        momentum_label = "OVERSOLD 💎"
+        momentum_desc = "Price Too Low - Potential Bounce"
+    elif rsi_val > 50:
+        momentum_label = "BULLISH 🟢"
+        momentum_desc = "Healthy Upward Trend"
+    else:
+        momentum_label = "BEARISH 🔴"
+        momentum_desc = "Downward Trend"
+
     # --- BUILD MARKDOWN ---
     md = f"""
 # 🔱 Aurum-V1: Market Command Center
@@ -68,10 +93,10 @@ def generate_readme():
 
 <div align="center">
 
-| 🏛️ Current Price (10g) | 🔮 Tomorrow's Forecast | 📉 Market Momentum | 🌍 Global Mood |
+| 🏛️ Current Price (10g) | 🔮 Tomorrow's Forecast | 📉 Market Status | 🧠 Model Confidence |
 | :---: | :---: | :---: | :---: |
-| **{fmt_price(price_today)}** | **{fmt_price(forecast)}** | **{data['trend_signal']}** | **{sentiment}** |
-| {get_arrow(delta_yest)} {fmt_delta(delta_yest)} vs yest | {get_arrow(delta_forecast)} {fmt_delta(delta_forecast)} predicted | RSI: {data['rsi']} | Score: {score} |
+| **{fmt_price(price_today)}** | **{fmt_price(forecast)}** | **{momentum_label}** | **{confidence}** |
+| {get_arrow(delta_yest)} {fmt_delta(delta_yest)} vs yest | {get_arrow(delta_forecast)} {fmt_delta(delta_forecast)} predicted | RSI: {rsi_val} | *Based on RSI Check* |
 
 </div>
 
@@ -84,10 +109,10 @@ def generate_readme():
 | :--- | :--- | :--- | :--- |
 | **Yesterday** (Actual) | {fmt_price(price_yest)} | - | Historical Anchor |
 | **Today** (Live) | **{fmt_price(price_today)}** | {fmt_delta(delta_yest)} | **Actual Market Rate** |
-| **Tomorrow** (AI Forecast) | `{fmt_price(forecast)}` | {fmt_delta(delta_forecast)} | *Volatility: {data['volatility_status']}* |
+| **Tomorrow** (AI Forecast) | `{fmt_price(forecast)}` | {fmt_delta(delta_forecast)} | *{momentum_desc}* |
 
-> **🎯 AI Accuracy Tracker:** > The model's prediction for today deviated by **{fmt_delta(accuracy_err)} INR** from the actual price.  
-> *(Note: This metric refines automatically over time as the Feedback Loop gathers data.)*
+> **🎯 AI Accuracy Tracker:** > Yesterday's prediction for today was: **{fmt_delta(accuracy_err) if accuracy_err is not None else 'N/A (No Record)'}** off from reality.  
+> *(Note: We use a 1-day lag to measure true predictive performance.)*
 
 ---
 
