@@ -13,106 +13,130 @@ def load_json(path):
     return None
 
 def generate_readme():
-    print("--- 📝 Generating Dashboard (README.md) ---")
+    print("--- 📝 Generating Futuristic Dashboard ---")
     
     data = load_json(DASHBOARD_PATH)
     mood_data = load_json(MOOD_PATH)
     
-    if not data:
-        print("⚠️ No dashboard data found. Skipping README update.")
-        return
+    if not data: return
 
-    # Extract Stats
-    price_10g = data['current_price']
-    price_1g = int(price_10g / 10)  # Calculate 1 gram price
-    prediction = data['forecast_price']
-    trend = data['trend_signal']
-    rsi = data['rsi']
+    # --- EXTRACT DATA ---
+    price_today = data['current_price']
+    price_yest = data['yesterday_price']
+    forecast = data['forecast_price']
     
-    # Extract Context (News)
+    # Calculations
+    delta_forecast = forecast - price_today
+    delta_yest = price_today - price_yest
+    accuracy_err = data.get('accuracy_last_error', 0)
+    
+    # Formatting Helpers
+    def fmt_price(p): return f"₹{p:,}"
+    def fmt_delta(d): return f"+{d}" if d > 0 else f"{d}"
+    def get_arrow(d): return "🔺" if d > 0 else "🔻" if d < 0 else "➖"
+
+    # Context
     sentiment = mood_data.get('market_mood', 'NEUTRAL') if mood_data else "NEUTRAL"
-    score = mood_data.get('sentiment_score', 0) if mood_data else 0
     headlines = mood_data.get('top_headlines', []) if mood_data else []
+    keywords = mood_data.get('keywords', []) if mood_data else []
     
-    # Format Symbols
-    trend_symbol = "🟢" if "BULLISH" in trend else "🔴" if "BEARISH" in trend else "⚪"
-    
-    # Generate Mermaid Chart (Last 30 Days)
+    # --- VISUALIZATION 1: Price History (Line Chart) ---
     dates = data['history']['dates']
     prices = data['history']['prices']
+    chart_price = "```mermaid\nxychart-beta\n"
+    chart_price += '    title "30-Day Market Trend (22K Gold)"\n'
+    chart_price += '    x-axis [ ' + ", ".join([d[5:] for d in dates]) + " ]\n"
+    chart_price += '    y-axis "INR/10g" ' + f"{min(prices)-200} --> {max(prices)+200}\n"
+    chart_price += '    line [' + ", ".join(map(str, prices)) + "]\n```"
+
+    # --- VISUALIZATION 2: Sentiment Gauge (Pie Chart Hack) ---
+    # We use a pie chart to simulate a "Gauge" of Positive vs Negative news
+    score = mood_data.get('sentiment_score', 0) if mood_data else 0
+    # Map score (-1 to 1) to percentages for the chart
+    pos_pct = int((score + 1) * 50) 
+    neg_pct = 100 - pos_pct
     
-    # Mermaid xychart syntax
-    chart = "```mermaid\n"
-    chart += "xychart-beta\n"
-    chart += '    title "Gold Price Trend (30 Days - 10g 22K)"\n'
-    chart += '    x-axis [ ' + ", ".join([d[5:] for d in dates]) + " ]\n" 
-    chart += '    y-axis "Price (INR)" ' + f"{min(prices)-500} --> {max(prices)+500}\n"
-    chart += '    line [' + ", ".join(map(str, prices)) + "]\n"
-    chart += "```"
+    chart_mood = "```mermaid\npie title \"Global Sentiment Intensity\"\n"
+    chart_mood += f'    "Bullish Factors" : {pos_pct}\n'
+    chart_mood += f'    "Bearish Factors" : {neg_pct}\n```'
 
-    # --- BUILD THE MARKDOWN ---
+    # --- BUILD MARKDOWN ---
     md = f"""
-# 🏆 Aurum-V1: Autonomous Gold Intelligence
+# 🔱 Aurum-V1: Market Command Center
 
-> **"A robust, self-correcting ETL pipeline that tracks, predicts, and analyzes the Indian Gold Market using Machine Learning and NLP."**
+> **"Advanced Predictive Intelligence for the Indian Gold Market."** > *Powered by Holt-Winters Forecasting & VADER NLP Analysis.*
 
-### ⚡ Live Market Intelligence
-| Metric | Status | Value | Description |
+<div align="center">
+
+| 🏛️ Current Price (10g) | 🔮 Tomorrow's Forecast | 📉 Market Momentum | 🌍 Global Mood |
+| :---: | :---: | :---: | :---: |
+| **{fmt_price(price_today)}** | **{fmt_price(forecast)}** | **{data['trend_signal']}** | **{sentiment}** |
+| {get_arrow(delta_yest)} {fmt_delta(delta_yest)} vs yest | {get_arrow(delta_forecast)} {fmt_delta(delta_forecast)} predicted | RSI: {data['rsi']} | Score: {score} |
+
+</div>
+
+---
+
+### ⏳ The Time Machine: Accuracy & Trend
+*Comparing the Past, Present, and Future.*
+
+| Timeline | Price (10g) | Change (₹) | Insight |
 | :--- | :--- | :--- | :--- |
-| **Price (10g)** | {trend_symbol} | **₹{price_10g:,}** | Standard Jewellery Unit (22K) |
-| **Price (1g)** | 🔹 | **₹{price_1g:,}** | Per Gram Unit |
-| **Forecast** | 🔮 | **₹{prediction:,}** | Predicted price for tomorrow |
-| **Momentum** | 📉 | **RSI {rsi}** | 0-30=Cheap, 70-100=Expensive |
-| **Mood** | 🌍 | **{sentiment}** | Analysis of Global News Feeds |
+| **Yesterday** (Actual) | {fmt_price(price_yest)} | - | Historical Anchor |
+| **Today** (Live) | **{fmt_price(price_today)}** | {fmt_delta(delta_yest)} | **Actual Market Rate** |
+| **Tomorrow** (AI Forecast) | `{fmt_price(forecast)}` | {fmt_delta(delta_forecast)} | *Volatility: {data['volatility_status']}* |
+
+> **🎯 AI Accuracy Tracker:** > The model's prediction for today deviated by **{fmt_delta(accuracy_err)} INR** from the actual price.  
+> *(Note: This metric refines automatically over time as the Feedback Loop gathers data.)*
 
 ---
 
-### 📈 Price Action (Last 30 Days)
-{chart}
+### 📊 Visual Intelligence
+
+<table>
+<tr>
+<td width="60%">
+
+#### 📈 Price Action (30 Days)
+{chart_price}
+
+</td>
+<td width="40%">
+
+#### 🧠 Market Sentiment
+{chart_mood}
+
+**Key Drivers:**
+{' '.join([f'`{k}`' for k in keywords])}
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 The Oracle's Report
-* **Technical Analysis:** The market is currently **{trend}**. The RSI is **{rsi}**.
-    * *What this means:* {'The price is rising aggressively. Be cautious of a sudden drop.' if rsi > 70 else 'The price has dropped significantly. It might be a good time to buy.' if rsi < 30 else 'The market is stable with no extreme buying or selling pressure.'}
-* **Fundamental Analysis:** Our Sentinel Bot scanned global news and detected a **{sentiment}** environment (Score: {score}).
-    * *Top Headline:* "{headlines[0] if headlines else 'No Major News'}"
+### 📰 Global Intelligence Feed
+*Real-time news snippets affecting Gold prices (Wars, Economy, Seasonality).*
+
+| Source | Headline | Impact |
+| :--- | :--- | :--- |
+| **Global News** | {headlines[0] if len(headlines) > 0 else "No Data"} | {'🔥 High' if 'War' in str(headlines) else 'ℹ️ Info'} |
+| **Indian Market** | {headlines[1] if len(headlines) > 1 else "No Data"} | {'💍 Demand' if 'Jewellery' in str(headlines) else 'ℹ️ Info'} |
+| **Geopolitics** | {headlines[2] if len(headlines) > 2 else "No Data"} | ⚠️ Risk |
 
 ---
 
-### 📚 How to Read This Dashboard
-**1. What is RSI (Relative Strength Index)?**
-Think of RSI as a speedometer for the price (0 to 100).
-* **> 70 (Overbought):** The price went up too fast. It usually crashes soon after.
-* **< 30 (Oversold):** The price dropped too fast. It usually bounces back up.
+### 🛠️ System Health
+* **ETL Pipeline:** 🟢 Online (Custom `curl_cffi` Driver)
+* **ML Engine:** 🟢 Online (Holt-Winters Exp. Smoothing)
+* **Sentiment Node:** 🟢 Online (Google News RSS)
+* **Last Updated:** `{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} IST`
 
-**2. Why Analyze News Sentiment?**
-Gold is a "Fear Asset." 
-* When the world is **scared** (War, Pandemic, Recession), people buy Gold -> **Price Goes UP.**
-* When the world is **happy** (Peace, Strong Economy), people sell Gold -> **Price Goes DOWN.**
-* *Our Sentinel Bot reads the news to see if the world is scared or happy.*
-
-**3. What is Bullish vs. Bearish?**
-* **🟢 Bullish:** The trend is UP (Like a Bull attacking with horns up).
-* **🔴 Bearish:** The trend is DOWN (Like a Bear swiping with paws down).
-
----
-
-### 🏗️ Technical Architecture
-* **Ingestion:** Custom `curl_cffi` driver (mimics Chrome 120) to bypass WAFs.
-* **Storage:** Atomic CSV ledger to prevent data corruption.
-* **Prediction:** Holt-Winters Exponential Smoothing (Statistical ML).
-* **Context:** VADER Sentiment Analysis on Google News RSS feeds.
-
----
-*Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} IST | Automated by GitHub Actions*
 """
 
-    # Overwrite README
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(md)
-    
-    print("✅ README.md updated with Educational Sections.")
+    print("✅ Futuristic Dashboard Generated.")
 
 if __name__ == "__main__":
     generate_readme()

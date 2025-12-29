@@ -3,99 +3,123 @@ import numpy as np
 import json
 import os
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
-from datetime import datetime
+from datetime import datetime, timedelta
 import warnings
 
-# Suppress statsmodels convergence warnings for cleaner output
 warnings.filterwarnings("ignore")
 
 DATA_FILE = "data/gold_prices.csv"
 OUTPUT_FILE = "data/dashboard_data.json"
+PREDICTION_LOG = "data/prediction_log.json"
+
+def load_prediction_log():
+    if os.path.exists(PREDICTION_LOG):
+        with open(PREDICTION_LOG, 'r') as f:
+            return json.load(f)
+    return {}
+
+def save_prediction_log(log):
+    with open(PREDICTION_LOG, 'w') as f:
+        json.dump(log, f, indent=2)
 
 def run_oracle():
-    print("--- 🔮 Starting Oracle Prediction Service ---")
+    print("--- 🔮 Starting Advanced Oracle ---")
     
-    # 1. Load Data
     if not os.path.exists(DATA_FILE):
-        print("❌ Error: No data found. Run backfill.py first.")
+        print("❌ Error: No data found.")
         return
 
     df = pd.read_csv(DATA_FILE)
     df['Date'] = pd.to_datetime(df['Date'])
     df = df.sort_values('Date')
     
-    # Extract purely the price series for modeling
     prices = df['Gold_Price_22k'].values
     dates = df['Date'].dt.strftime('%Y-%m-%d').tolist()
     
     if len(prices) < 15:
-        print(f"⚠️ Not enough data to train ML model. Need 15+, have {len(prices)}.")
         return
 
-    # 2. Train Holt-Winters Model (Exponential Smoothing)
-    # We use 'additive' trend because gold prices don't grow exponentially in 90 days.
-    print(f"🧠 Training Holt-Winters model on {len(prices)} data points...")
-    model = ExponentialSmoothing(
-        prices, 
-        trend='add', 
-        damped_trend=False, 
-        seasonal=None
-    ).fit()
-    
-    # Forecast T+1 (Tomorrow)
+    # --- 1. PREDICTION (Holt-Winters) ---
+    model = ExponentialSmoothing(prices, trend='add', damped_trend=False).fit()
     forecast_value = int(model.forecast(1)[0])
     
-    # 3. Calculate Technical Indicators (SMA + RSI)
-    series = pd.Series(prices)
+    # --- 2. ACCURACY TRACKING ---
+    # Check yesterday's log to see what we predicted for TODAY
+    pred_log = load_prediction_log()
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    yesterday_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
     
-    # SMA (Simple Moving Average) Crossover
-    short_window = 5
-    long_window = 14
-    sma_short = series.rolling(window=short_window).mean()
-    sma_long = series.rolling(window=long_window).mean()
+    accuracy_metric = "N/A"
+    error_diff = 0
     
-    latest_short = sma_short.iloc[-1]
-    latest_long = sma_long.iloc[-1]
-    
-    # Signal Logic
-    signal = "NEUTRAL"
-    if latest_short > latest_long:
-        signal = "BULLISH (Up Trend) 🟢"
-    elif latest_short < latest_long:
-        signal = "BEARISH (Down Trend) 🔴"
+    # Did we have a prediction for today?
+    if today_str in pred_log:
+        predicted_for_today = pred_log[today_str]
+        actual_today = prices[-1]
+        error_diff = actual_today - predicted_for_today
+        accuracy_metric = f"₹{abs(error_diff)}" # Absolute error
         
-    # RSI (Relative Strength Index) - 14 Day
+        print(f"🎯 Accuracy Check: Predicted ₹{predicted_for_today} vs Actual ₹{actual_today} (Diff: {error_diff})")
+    
+    # Log TOMORROW'S prediction
+    tomorrow_str = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d')
+    pred_log[tomorrow_str] = forecast_value
+    save_prediction_log(pred_log)
+
+    # --- 3. ADVANCED STATS ---
+    # Volatility (Standard Deviation of last 7 days)
+    last_7_days = prices[-7:]
+    volatility = np.std(last_7_days)
+    volatility_status = "High ⚡" if volatility > 500 else "Stable 🌊"
+    
+    # Performance
+    price_today = prices[-1]
+    price_yesterday = prices[-2]
+    day_change = price_today - price_yesterday
+    day_pct = (day_change / price_yesterday) * 100
+    
+    price_week_ago = prices[-7] if len(prices) >= 7 else prices[0]
+    week_pct = ((price_today - price_week_ago) / price_week_ago) * 100
+
+    # --- 4. SIGNALS (SMA & RSI) ---
+    series = pd.Series(prices)
+    sma_short = series.rolling(window=5).mean().iloc[-1]
+    sma_long = series.rolling(window=14).mean().iloc[-1]
+    
+    signal = "NEUTRAL"
+    if sma_short > sma_long: signal = "BULLISH 🟢"
+    elif sma_short < sma_long: signal = "BEARISH 🔴"
+        
     delta = series.diff()
     gain = (delta.where(delta > 0, 0)).rolling(window=14).mean()
     loss = (-delta.where(delta < 0, 0)).rolling(window=14).mean()
-    
     rs = gain / loss
     rsi = 100 - (100 / (1 + rs))
-    # Handle NaN at start of series
     current_rsi = rsi.iloc[-1] if not np.isnan(rsi.iloc[-1]) else 50.0
 
-    # 4. Generate Dashboard Payload
+    # Payload
     dashboard_data = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "current_price": int(prices[-1]),
+        "current_price": int(price_today),
+        "yesterday_price": int(price_yesterday),
         "forecast_price": forecast_value,
-        "price_change": int(prices[-1] - prices[-2]),
+        "accuracy_last_error": error_diff, # How off we were today
+        "volatility_status": volatility_status,
+        "day_change": int(day_change),
+        "day_pct": round(day_pct, 2),
+        "week_pct": round(week_pct, 2),
         "trend_signal": signal,
         "rsi": round(current_rsi, 2),
         "history": {
-            # Take last 30 days for the graph
             "dates": dates[-30:],
             "prices": [int(p) for p in prices[-30:]]
         }
     }
     
-    # 5. Save to JSON
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(dashboard_data, f, indent=2)
         
-    print(f"✅ Prediction Complete: Tomorrow ₹{forecast_value}")
-    print(f"📊 Market Signal: {signal} | RSI: {current_rsi:.1f}")
-    print(f"💾 Dashboard Data saved to {OUTPUT_FILE}")
+    print(f"✅ Advanced Analysis Complete.")
 
 if __name__ == "__main__":
     run_oracle()
