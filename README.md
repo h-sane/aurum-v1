@@ -15,31 +15,31 @@
 
 ---
 
-### 📊 Market Trend Analysis
-*Visualizing the price action over the last 30 days.*
+### 📊 Performance Scorecard
+*How accurate is this AI? Metrics based on the last 0 logged predictions.*
 
-![Gold Trend Chart](assets/trend_chart.png)
+| Metric | Score | Description |
+| :--- | :--- | :--- |
+| **Directional Accuracy** | **0%** | How often did we guess UP/DOWN correctly? (Target: >55%) |
+| **Error Margin (MAPE)** | **0%** | Average percentage error per prediction. (Lower is better) |
+| **Avg Price Error (MAE)** | **₹0** | On average, how far off is the price in Rupees? |
 
 ---
 
 ### ⏳ The Time Machine: Accuracy & Trend
-*Comparing the Past, Present, and Future for both Standard (10g) and Retail (1g) units.*
+| Timeline | Price (10g) | Price (1g) | Change (10g) | Insight |
+| :--- | :---: | :---: | :---: | :--- |
+| **Yesterday** | ₹133,297 | ₹13,329 | - | Historical Anchor |
+| **Today** | **₹127,649** | **₹12,764** | 🔻 ₹5,648 | **Actual Market Rate** |
+| **Tomorrow** | `₹129,706` | `₹12,970` | 🔺 ₹2,057 | *Stable 🌊* |
 
-| Timeline | Price (10g) | Price (1g) | Change (10g) | Change (1g) | Insight |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| **Yesterday** | ₹133,297 | ₹13,329 | - | - | Historical Anchor |
-| **Today** | **₹127,649** | **₹12,764** | 🔻 ₹5,648 | 🔻 ₹565 | **Actual Market Rate** |
-| **Tomorrow** | `₹129,706` | `₹12,970` | 🔺 ₹2,057 | 🔺 ₹206 | *Stable 🌊* |
-
-> **🎯 AI Accuracy Tracker:** > Yesterday's prediction error was **N/A (Calibrating)**.  
-> *The model learns from this error to improve future forecasts.*
+> **🎯 Daily Grading:** Yesterday's prediction error was **N/A**.
 
 ---
 
 ### 🧠 The Oracle's Report
 * **Prediction:** The model expects prices to move **🔺 ₹2,057 (10g)** / **₹206 (1g)** tomorrow.
 * **Confidence Check:** Market volatility is **Stable 🌊**. RSI is at **61.89**.
-* **Key Drivers:** Predictions are now weighted by **USD/INR Exchange Rates** and **Global News Sentiment**.
 
 ---
 
@@ -51,4 +51,4 @@
 * Found in KalingaTV: *"Gold Rate in India drops by Rs 710 before New Year 2026; Silver decreased by Rs 4000 - KalingaTV"*
 
 ---
-*Last Updated: 2025-12-30 00:28:45 IST*
+*Last Updated: 2025-12-30 00:38:47 IST*

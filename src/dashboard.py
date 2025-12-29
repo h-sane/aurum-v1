@@ -24,11 +24,9 @@ def get_arrow(value):
 def generate_plot(history):
     dates = history.get('dates', [])
     prices = history.get('prices', [])
-    
     if not dates or not prices: return
 
-    if not os.path.exists("assets"):
-        os.makedirs("assets")
+    if not os.path.exists("assets"): os.makedirs("assets")
         
     plt.figure(figsize=(10, 5))
     plt.plot(dates, prices, marker='o', linestyle='-', color='#d4af37', linewidth=2.5, markersize=5, label='Gold Price (10g)')
@@ -42,51 +40,43 @@ def generate_plot(history):
     plt.close()
 
 def generate_readme():
-    print("--- 📝 Generating Hybrid Dashboard (Full 1g Support) ---")
-    
+    print("--- 📝 Generating Performance Dashboard ---")
     data = load_json(DATA_FILE)
     mood = load_json(MOOD_FILE)
     
-    if not data:
-        print("⚠️ No data found. Run main.py first.")
-        return
+    if not data: return
 
-    # --- 1. PREPARE DATA (10g & 1g) ---
     # Prices
     price_today_10g = data.get('current_price', 0)
     price_today_1g  = data.get('current_price_1g', int(price_today_10g / 10))
-    
     price_yest_10g = data.get('yesterday_price', 0)
     price_yest_1g  = int(price_yest_10g / 10)
-    
     forecast_10g = data.get('forecast_price', 0)
     forecast_1g  = data.get('forecast_price_1g', int(forecast_10g / 10))
     
-    # Deltas (Changes)
+    # Deltas
     delta_10g = price_today_10g - price_yest_10g
     delta_1g  = price_today_1g - price_yest_1g
-    
     delta_forecast_10g = forecast_10g - price_today_10g
     delta_forecast_1g  = forecast_1g - price_today_1g
     
-    # Status Indicators
+    # Scorecard
+    scorecard = data.get('scorecard', {})
+    mape = scorecard.get('mape', 'N/A')
+    win_rate = scorecard.get('win_rate', 'N/A')
+    mae = scorecard.get('mae', 'N/A')
+    samples = scorecard.get('samples', 0)
+
+    # Status
     trend = data.get('trend_signal', 'NEUTRAL')
     volatility = data.get('volatility_status', 'Stable')
     rsi = data.get('rsi', 0)
-    
     sentiment_score = mood.get('sentiment_score', 0)
-    sentiment_label = mood.get('market_status', 'NEUTRAL')
     headlines = mood.get('headlines', [])
-    
-    # Accuracy
-    last_error = data.get('accuracy_last_error')
-    accuracy_display = f"₹{abs(last_error)}" if last_error is not None else "N/A (Calibrating)"
+    accuracy_display = f"₹{abs(data.get('accuracy_last_error'))}" if data.get('accuracy_last_error') is not None else "N/A"
 
-    # Generate Chart
-    if 'history' in data:
-        generate_plot(data['history'])
+    if 'history' in data: generate_plot(data['history'])
 
-    # --- 2. GENERATE MARKDOWN ---
     md = f"""
 # 🔱 Aurum-V1: Market Command Center
 
@@ -104,44 +94,43 @@ def generate_readme():
 
 ---
 
-### 📊 Market Trend Analysis
-*Visualizing the price action over the last 30 days.*
+### 📊 Performance Scorecard
+*How accurate is this AI? Metrics based on the last {samples} logged predictions.*
 
-![Gold Trend Chart](assets/trend_chart.png)
+| Metric | Score | Description |
+| :--- | :--- | :--- |
+| **Directional Accuracy** | **{win_rate}%** | How often did we guess UP/DOWN correctly? (Target: >55%) |
+| **Error Margin (MAPE)** | **{mape}%** | Average percentage error per prediction. (Lower is better) |
+| **Avg Price Error (MAE)** | **₹{mae}** | On average, how far off is the price in Rupees? |
 
 ---
 
 ### ⏳ The Time Machine: Accuracy & Trend
-*Comparing the Past, Present, and Future for both Standard (10g) and Retail (1g) units.*
+| Timeline | Price (10g) | Price (1g) | Change (10g) | Insight |
+| :--- | :---: | :---: | :---: | :--- |
+| **Yesterday** | {fmt_price(price_yest_10g)} | {fmt_price(price_yest_1g)} | - | Historical Anchor |
+| **Today** | **{fmt_price(price_today_10g)}** | **{fmt_price(price_today_1g)}** | {get_arrow(delta_10g)} {fmt_price(abs(delta_10g))} | **Actual Market Rate** |
+| **Tomorrow** | `{fmt_price(forecast_10g)}` | `{fmt_price(forecast_1g)}` | {get_arrow(delta_forecast_10g)} {fmt_price(abs(delta_forecast_10g))} | *{volatility}* |
 
-| Timeline | Price (10g) | Price (1g) | Change (10g) | Change (1g) | Insight |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| **Yesterday** | {fmt_price(price_yest_10g)} | {fmt_price(price_yest_1g)} | - | - | Historical Anchor |
-| **Today** | **{fmt_price(price_today_10g)}** | **{fmt_price(price_today_1g)}** | {get_arrow(delta_10g)} {fmt_price(abs(delta_10g))} | {get_arrow(delta_1g)} {fmt_price(abs(delta_1g))} | **Actual Market Rate** |
-| **Tomorrow** | `{fmt_price(forecast_10g)}` | `{fmt_price(forecast_1g)}` | {get_arrow(delta_forecast_10g)} {fmt_price(abs(delta_forecast_10g))} | {get_arrow(delta_forecast_1g)} {fmt_price(abs(delta_forecast_1g))} | *{volatility}* |
-
-> **🎯 AI Accuracy Tracker:** > Yesterday's prediction error was **{accuracy_display}**.  
-> *The model learns from this error to improve future forecasts.*
+> **🎯 Daily Grading:** Yesterday's prediction error was **{accuracy_display}**.
 
 ---
 
 ### 🧠 The Oracle's Report
 * **Prediction:** The model expects prices to move **{get_arrow(delta_forecast_10g)} {fmt_price(abs(delta_forecast_10g))} (10g)** / **{fmt_price(abs(delta_forecast_1g))} (1g)** tomorrow.
 * **Confidence Check:** Market volatility is **{volatility}**. RSI is at **{rsi}**.
-* **Key Drivers:** Predictions are now weighted by **USD/INR Exchange Rates** and **Global News Sentiment**.
 
 ---
 
 ### 📰 Sentinel Intelligence
-* **Market Mood:** **{sentiment_label}** (Score: {sentiment_score})
+* **Market Mood:** **{mood.get('market_status', 'NEUTRAL')}** (Score: {sentiment_score})
 * **Key Headlines:**
 """
     
-    # Add News (with Fallback)
     if headlines:
         for news in headlines[:3]:
             title = news.get('title', 'No Title')
-            source = news.get('source', 'Unknown')
+            source = news.get('source', 'Google News')
             md += f"* Found in {source}: *\"{title}\"*\n"
     else:
         md += "* *No significant market news detected today.*\n"
@@ -150,8 +139,7 @@ def generate_readme():
 
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(md)
-    
-    print("✅ Hybrid Dashboard Generated (Full 1g Support).")
+    print("✅ Dashboard Updated with Performance Metrics.")
 
 if __name__ == "__main__":
     generate_readme()

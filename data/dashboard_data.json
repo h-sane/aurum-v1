@@ -1,11 +1,18 @@
 {
-  "generated_at": "2025-12-29 23:46:48",
+  "generated_at": "2025-12-30 00:36:50",
   "current_price": 127649,
   "current_price_1g": 12764,
   "yesterday_price": 133297,
   "forecast_price": 129706,
   "forecast_price_1g": 12970,
   "accuracy_last_error": null,
+  "scorecard": {
+    "mae": 0,
+    "mape": 0,
+    "rmse": 0,
+    "win_rate": 0,
+    "samples": 0
+  },
   "volatility_status": "Stable \ud83c\udf0a",
   "trend_signal": "BULLISH \ud83d\udfe2",
   "rsi": 61.89,
