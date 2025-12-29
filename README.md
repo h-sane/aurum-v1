@@ -77,5 +77,5 @@ pie title "Global Sentiment Intensity"
 * **ETL Pipeline:** 🟢 Online (Custom `curl_cffi` Driver)
 * **ML Engine:** 🟢 Online (Holt-Winters Exp. Smoothing)
 * **Sentiment Node:** 🟢 Online (Google News RSS)
-* **Last Updated:** `2025-12-29 22:40:21 IST`
+* **Last Updated:** `2025-12-29 18:16:36 IST`
 
