@@ -1,14 +1,42 @@
 {
-  "generated_at": "2025-12-30 00:21:09",
-  "market_mood": "RISK-ON (High Demand)",
-  "sentiment_score": 0.35,
-  "top_headlines": [
-    "Gold rate today in India: 22-carat, 24-carat gold price in Delhi, Mumbai, Bengaluru, other cities - livemint.com",
-    "Silver breaks $80, then whipsaws as record gold prices cool India buying - ts2.tech",
-    "Gold price prediction today: What is the gold price outlook this week? Gold may head towards Rs 1,45,000 - Times of India"
-  ],
-  "keywords": [
-    "Wedding Season \ud83d\udc8d",
-    "Geopolitics (Safe Haven) \ud83d\udee1\ufe0f"
+  "last_updated": "2025-12-30 00:27:25",
+  "sentiment_score": 0.05,
+  "market_status": "NEUTRAL \u26aa",
+  "headlines": [
+    {
+      "title": "Gold rate today in India: 22-carat, 24-carat gold price in Delhi, Mumbai, Bengaluru, other cities - livemint.com",
+      "source": "livemint.com",
+      "score": 0.0
+    },
+    {
+      "title": "Silver breaks $80, then whipsaws as record gold prices cool India buying - ts2.tech",
+      "source": "ts2.tech",
+      "score": 0.3182
+    },
+    {
+      "title": "Gold Rate in India drops by Rs 710 before New Year 2026; Silver decreased by Rs 4000 - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today (December 27, 2025): Prices Rise Today, Check 24K & 22K Rates in Delhi, Mumbai and Other Citie - Times Now",
+      "source": "Times Now",
+      "score": 0.0
+    },
+    {
+      "title": "Today Gold, Silver Rate December 28: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - india.com",
+      "source": "india.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in India (December 27, 2025): 24K, 22K, 18K Rates in Delhi, Mumbai, Bengaluru; Silver Near \u20b92.40 Lakh/kg as Record Rally Continues - ts2.tech",
+      "source": "ts2.tech",
+      "score": 0.0
+    },
+    {
+      "title": "Silver rate today in India: 10 gm, 100 gm, 1 kg price in Delhi, Hyderabad, Jaipur, other cities \u2014 29 December 2025 - livemint.com",
+      "source": "livemint.com",
+      "score": 0.0
+    }
   ]
 }

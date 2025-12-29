@@ -44,9 +44,11 @@
 ---
 
 ### 📰 Sentinel Intelligence
-* **Market Mood:** **NEUTRAL** (Score: 0.35)
+* **Market Mood:** **NEUTRAL ⚪** (Score: 0.05)
 * **Key Headlines:**
-* *No significant market news detected today.*
+* Found in livemint.com: *"Gold rate today in India: 22-carat, 24-carat gold price in Delhi, Mumbai, Bengaluru, other cities - livemint.com"*
+* Found in ts2.tech: *"Silver breaks $80, then whipsaws as record gold prices cool India buying - ts2.tech"*
+* Found in KalingaTV: *"Gold Rate in India drops by Rs 710 before New Year 2026; Silver decreased by Rs 4000 - KalingaTV"*
 
 ---
-*Last Updated: 2025-12-30 00:21:26 IST*
+*Last Updated: 2025-12-30 00:28:45 IST*
