@@ -1,167 +1,126 @@
 import json
 import os
+import matplotlib.pyplot as plt
 from datetime import datetime
 
-DASHBOARD_PATH = "data/dashboard_data.json"
-MOOD_PATH = "data/market_mood.json"
-README_PATH = "README.md"
+DATA_FILE = "data/dashboard_data.json"
+MOOD_FILE = "data/market_mood.json"
+README_FILE = "README.md"
 
 def load_json(path):
     if os.path.exists(path):
         with open(path, 'r') as f:
             return json.load(f)
-    return None
+    return {}
+
+def fmt_price(price):
+    return f"₹{price:,}"
+
+def get_arrow(value):
+    if value > 0: return "🔺"
+    if value < 0: return "🔻"
+    return "➖"
+
+def generate_plot(history):
+    dates = history['dates']
+    prices = history['prices']
+    
+    plt.figure(figsize=(10, 4))
+    plt.plot(dates, prices, marker='o', linestyle='-', color='#d4af37', linewidth=2, markersize=4)
+    plt.title(f"Gold Price Trend (Last {len(dates)} Days)", fontsize=14, color='#333333')
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.xticks(rotation=45, fontsize=8)
+    plt.tight_layout()
+    
+    img_path = "assets/trend_chart.png"
+    if not os.path.exists("assets"):
+        os.makedirs("assets")
+    plt.savefig(img_path)
+    plt.close()
 
 def generate_readme():
-    print("--- 📝 Generating Futuristic Dashboard ---")
+    print("--- 📝 Generating Futuristic Dashboard (1g & 10g Support) ---")
     
-    data = load_json(DASHBOARD_PATH)
-    mood_data = load_json(MOOD_PATH)
+    data = load_json(DATA_FILE)
+    mood = load_json(MOOD_FILE)
     
-    if not data: return
+    if not data:
+        print("⚠️ No data found. Run main.py first.")
+        return
 
-    # --- EXTRACT DATA ---
-    price_today = data['current_price']
-    price_yest = data['yesterday_price']
-    forecast = data['forecast_price']
+    # Extract Data
+    price_today_10g = data.get('current_price', 0)
+    price_today_1g = data.get('current_price_1g', int(price_today_10g / 10))
     
-    # Calculations
-    delta_forecast = forecast - price_today
-    delta_yest = price_today - price_yest
-    accuracy_err = data.get('accuracy_last_error', 0)
+    forecast_10g = data.get('forecast_price', 0)
+    forecast_1g = data.get('forecast_price_1g', int(forecast_10g / 10))
     
-    # Formatting Helpers
-    def fmt_price(p): return f"₹{p:,}"
-    def fmt_delta(d): return f"+{d}" if d > 0 else f"{d}"
-    def get_arrow(d): return "🔺" if d > 0 else "🔻" if d < 0 else "➖"
+    price_yest_10g = data.get('yesterday_price', 0)
+    
+    # Deltas
+    delta_10g = price_today_10g - price_yest_10g
+    delta_forecast = forecast_10g - price_today_10g
+    
+    # Status
+    trend = data.get('trend_signal', 'NEUTRAL')
+    volatility = data.get('volatility_status', 'Stable')
+    rsi = data.get('rsi', 0)
+    
+    sentiment_score = mood.get('sentiment_score', 0)
+    sentiment_label = mood.get('market_status', 'NEUTRAL')
+    
+    # Accuracy Logic
+    last_error = data.get('accuracy_last_error')
+    accuracy_display = f"₹{abs(last_error)}" if last_error is not None else "N/A (Calibrating)"
 
-    # Context
-    sentiment = mood_data.get('market_mood', 'NEUTRAL') if mood_data else "NEUTRAL"
-    headlines = mood_data.get('top_headlines', []) if mood_data else []
-    keywords = mood_data.get('keywords', []) if mood_data else []
-    
-    # --- VISUALIZATION 1: Price History (Line Chart) ---
-    dates = data['history']['dates']
-    prices = data['history']['prices']
-    chart_price = "```mermaid\nxychart-beta\n"
-    chart_price += '    title "30-Day Market Trend (22K Gold)"\n'
-    chart_price += '    x-axis [ ' + ", ".join([d[5:] for d in dates]) + " ]\n"
-    chart_price += '    y-axis "INR/10g" ' + f"{min(prices)-200} --> {max(prices)+200}\n"
-    chart_price += '    line [' + ", ".join(map(str, prices)) + "]\n```"
+    # Generate Chart
+    if 'history' in data:
+        generate_plot(data['history'])
 
-    # --- VISUALIZATION 2: Sentiment Gauge (Pie Chart Hack) ---
-    # We use a pie chart to simulate a "Gauge" of Positive vs Negative news
-    score = mood_data.get('sentiment_score', 0) if mood_data else 0
-    # Map score (-1 to 1) to percentages for the chart
-    pos_pct = int((score + 1) * 50) 
-    neg_pct = 100 - pos_pct
-    
-    chart_mood = "```mermaid\npie title \"Global Sentiment Intensity\"\n"
-    chart_mood += f'    "Bullish Factors" : {pos_pct}\n'
-    chart_mood += f'    "Bearish Factors" : {neg_pct}\n```'
-
-    # --- LOGIC: RSI Reality Check ---
-    rsi_val = data['rsi']
-    trend_signal = data['trend_signal']
-    
-    momentum_label = "NEUTRAL ⚪"
-    momentum_desc = "Stable Market"
-    confidence = "⭐⭐⭐ (High)"
-    
-    if rsi_val > 70:
-        momentum_label = "OVERHEATED ⚠️"
-        momentum_desc = "Price Too High - Risk of Crash"
-        # If model predicts UP but market is Overheated -> LOW CONFIDENCE
-        if "BULLISH" in trend_signal:
-            confidence = "⭐ (Low - Divergence)"
-            
-    elif rsi_val < 30:
-        momentum_label = "OVERSOLD 💎"
-        momentum_desc = "Price Too Low - Potential Bounce"
-    elif rsi_val > 50:
-        momentum_label = "BULLISH 🟢"
-        momentum_desc = "Healthy Upward Trend"
-    else:
-        momentum_label = "BEARISH 🔴"
-        momentum_desc = "Downward Trend"
-
-    # --- BUILD MARKDOWN ---
+    # --- MARKDOWN TEMPLATE ---
     md = f"""
 # 🔱 Aurum-V1: Market Command Center
 
-> **"Advanced Predictive Intelligence for the Indian Gold Market."** > *Powered by Holt-Winters Forecasting & VADER NLP Analysis.*
+> **"Professional Intelligence for the Indian Gold Market."** > *Engine: Random Forest Regressor (Multivariate) | Signals: USD/INR, News, RSI.*
 
 <div align="center">
 
-| 🏛️ Current Price (10g) | 🔮 Tomorrow's Forecast | 📉 Market Status | 🧠 Model Confidence |
-| :---: | :---: | :---: | :---: |
-| **{fmt_price(price_today)}** | **{fmt_price(forecast)}** | **{momentum_label}** | **{confidence}** |
-| {get_arrow(delta_yest)} {fmt_delta(delta_yest)} vs yest | {get_arrow(delta_forecast)} {fmt_delta(delta_forecast)} predicted | RSI: {rsi_val} | *Based on RSI Check* |
+| 🏛️ Metric | 💰 10 Grams (Standard) | 💎 1 Gram (Retail) | 📉 Status |
+| :--- | :---: | :---: | :---: |
+| **Current Price** | **{fmt_price(price_today_10g)}** | **{fmt_price(price_today_1g)}** | {trend} |
+| **Tomorrow's Forecast** | `{fmt_price(forecast_10g)}` | `{fmt_price(forecast_1g)}` | {volatility} |
+| **Change (vs Yest)** | {get_arrow(delta_10g)} {fmt_price(abs(delta_10g))} | {get_arrow(delta_10g/10)} {fmt_price(int(abs(delta_10g)/10))} | RSI: {rsi} |
 
 </div>
 
 ---
 
-### ⏳ The Time Machine: Accuracy & Trend
-*Comparing the Past, Present, and Future.*
+### 🧠 The Oracle's Report
+*Based on {len(data.get('history', {}).get('prices', []))} days of data, Currency strength, and Global News.*
 
-| Timeline | Price (10g) | Change (₹) | Insight |
-| :--- | :--- | :--- | :--- |
-| **Yesterday** (Actual) | {fmt_price(price_yest)} | - | Historical Anchor |
-| **Today** (Live) | **{fmt_price(price_today)}** | {fmt_delta(delta_yest)} | **Actual Market Rate** |
-| **Tomorrow** (AI Forecast) | `{fmt_price(forecast)}` | {fmt_delta(delta_forecast)} | *{momentum_desc}* |
-
-> **🎯 AI Accuracy Tracker:** > Yesterday's prediction for today was: **{fmt_delta(accuracy_err) if accuracy_err is not None else 'N/A (No Record)'}** off from reality.  
-> *(Note: We use a 1-day lag to measure true predictive performance.)*
+* **Prediction:** The model expects prices to move **{get_arrow(delta_forecast)} {fmt_price(abs(delta_forecast))}** tomorrow.
+* **Confidence Check:** Market volatility is **{volatility}**. RSI is at **{rsi}**.
+* **Accuracy Tracker:** Yesterday's prediction error was **{accuracy_display}**.
 
 ---
 
-### 📊 Visual Intelligence
-
-<table>
-<tr>
-<td width="60%">
-
-#### 📈 Price Action (30 Days)
-{chart_price}
-
-</td>
-<td width="40%">
-
-#### 🧠 Market Sentiment
-{chart_mood}
-
-**Key Drivers:**
-{' '.join([f'`{k}`' for k in keywords])}
-
-</td>
-</tr>
-</table>
-
----
-
-### 📰 Global Intelligence Feed
-*Real-time news snippets affecting Gold prices (Wars, Economy, Seasonality).*
-
-| Source | Headline | Impact |
-| :--- | :--- | :--- |
-| **Global News** | {headlines[0] if len(headlines) > 0 else "No Data"} | {'🔥 High' if 'War' in str(headlines) else 'ℹ️ Info'} |
-| **Indian Market** | {headlines[1] if len(headlines) > 1 else "No Data"} | {'💍 Demand' if 'Jewellery' in str(headlines) else 'ℹ️ Info'} |
-| **Geopolitics** | {headlines[2] if len(headlines) > 2 else "No Data"} | ⚠️ Risk |
-
----
-
-### 🛠️ System Health
-* **ETL Pipeline:** 🟢 Online (Custom `curl_cffi` Driver)
-* **ML Engine:** 🟢 Online (Holt-Winters Exp. Smoothing)
-* **Sentiment Node:** 🟢 Online (Google News RSS)
-* **Last Updated:** `{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} IST`
-
+### 📰 Sentinel Intelligence
+* **Market Mood:** **{sentiment_label}** (Score: {sentiment_score})
+* **Key Headlines:**
 """
+    
+    # Add News
+    for news in mood.get('headlines', [])[:3]:
+        title = news['title']
+        source = news.get('source', 'Unknown')
+        md += f"* Found in {source}: *\"{title}\"*\n"
 
-    with open(README_PATH, 'w', encoding='utf-8') as f:
+    md += f"\n---\n*Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} IST*"
+
+    with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(md)
-    print("✅ Futuristic Dashboard Generated.")
+    
+    print("✅ Dashboard Updated with 1g & 10g Metrics.")
 
 if __name__ == "__main__":
     generate_readme()
