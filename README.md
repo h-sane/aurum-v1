@@ -5,10 +5,10 @@
 
 <div align="center">
 
-| 🏛️ Current Price (10g) | 🔮 Tomorrow's Forecast | 📉 Market Momentum | 🌍 Global Mood |
+| 🏛️ Current Price (10g) | 🔮 Tomorrow's Forecast | 📉 Market Status | 🧠 Model Confidence |
 | :---: | :---: | :---: | :---: |
-| **₹127,650** | **₹128,319** | **BULLISH 🟢** | **RISK-ON (High Demand)** |
-| 🔻 -1800 vs yest | 🔺 +669 predicted | RSI: 78.18 | Score: 0.3 |
+| **₹127,650** | **₹128,319** | **OVERHEATED ⚠️** | **⭐ (Low - Divergence)** |
+| 🔻 -1800 vs yest | 🔺 +669 predicted | RSI: 78.18 | *Based on RSI Check* |
 
 </div>
 
@@ -21,10 +21,10 @@
 | :--- | :--- | :--- | :--- |
 | **Yesterday** (Actual) | ₹129,450 | - | Historical Anchor |
 | **Today** (Live) | **₹127,650** | -1800 | **Actual Market Rate** |
-| **Tomorrow** (AI Forecast) | `₹128,319` | +669 | *Volatility: High ⚡* |
+| **Tomorrow** (AI Forecast) | `₹128,319` | +669 | *Price Too High - Risk of Crash* |
 
-> **🎯 AI Accuracy Tracker:** > The model's prediction for today deviated by **0 INR** from the actual price.  
-> *(Note: This metric refines automatically over time as the Feedback Loop gathers data.)*
+> **🎯 AI Accuracy Tracker:** > Yesterday's prediction for today was: **0** off from reality.  
+> *(Note: We use a 1-day lag to measure true predictive performance.)*
 
 ---
 
@@ -77,5 +77,5 @@ pie title "Global Sentiment Intensity"
 * **ETL Pipeline:** 🟢 Online (Custom `curl_cffi` Driver)
 * **ML Engine:** 🟢 Online (Holt-Winters Exp. Smoothing)
 * **Sentiment Node:** 🟢 Online (Google News RSS)
-* **Last Updated:** `2025-12-29 22:23:35 IST`
+* **Last Updated:** `2025-12-29 22:40:21 IST`
 
