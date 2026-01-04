@@ -1,48 +1,46 @@
 
-# 🔱 Aurum-V2: Executive Analytics Suite
+# 🔱 Aurum-V3: Strategic Market Intelligence
 
-> **"Data-Driven Intelligence for the Indian Gold Market."** > *Engine: Random Forest Regressor | Strategy: ✅ ACCUMULATE (Trend Up)*
+> **"The Analyst's View."**
+> *Current Strategy: 🚀 MOMENTUM: Strong Uptrend.*
 
 <div align="center">
 
-| 🏛️ Core Metric | 💰 10 Grams | 💎 1 Gram | 📉 Market Pulse |
+| 🏛️ Live Ticker | 💰 10 Grams | 💎 1 Gram | 🎯 T+1 Forecast |
 | :--- | :---: | :---: | :---: |
-| **Live Price** | **₹126,000** | **₹12,600** | **BULLISH 🟢** |
-| **Forecast (T+1)** | `₹127,537` | `₹12,753` | RSI: **55.3** |
-| **Daily Move** | 🔻 ₹1,649 | 🔻 ₹164 | Volatility: Stable 🌊 |
+| **Price** | **₹126,000** | **₹12,600** | `₹127,537` |
+| **Trend** | BULLISH 🟢 | RSI: 55.3 | 🔺 ₹1,537 |
 
 </div>
 
 ---
 
-### 📊 Visual Intelligence
-**1. Trend Confirmation:** *Is the price moving above the 5-Day average?* ![Trend Chart](assets/trend_chart.png)
+### 🧠 The AI Analyst's Verdict
+**🚀 MOMENTUM: Strong Uptrend.**
+> "Trend is healthy. Buy on dips. Next target is ₹133,297."
 
-**2. Volatility Scanner:** *Green bars indicate gains, Red bars indicate losses.* ![Volatility Chart](assets/volatility_chart.png)
-
----
-
-### 🧠 Deep Dive Analytics
-*Contextualizing today's price against the last 30 days.*
-
-| 🔎 Insight | Value (10g) | Interpretation |
-| :--- | :--- | :--- |
-| **30-Day High** | ₹133,297 | Resistance Level |
-| **30-Day Low** | ₹117,243 | Strong Support |
-| **Monthly Avg** | ₹124,560 | Baseline Price |
-| **AI Confidence** | 0% | Directional Accuracy |
-
-> **💡 Strategic Advice:** ✅ ACCUMULATE (Trend Up).  
-> *Based on RSI of 55.3 and current trend momentum.*
+**Key Levels Watchlist:**
+* 🔴 **Ceiling (Resistance):** **₹133,297** *— Selling pressure likely here.*
+* 🟢 **Floor (Support):** **₹117,243** *— Buying interest likely here.*
+* 📍 **Current Position:** Price is **54%** of the way to the top of its monthly range.
 
 ---
 
-### ⏳ The Time Machine (Forecast Accuracy)
-| Timeline | Price (10g) | Price (1g) | Variance |
-| :--- | :---: | :---: | :---: |
-| **Yesterday** | ₹127,649 | ₹12,764 | - |
-| **Today** | **₹126,000** | **₹12,600** | 🔻 ₹1,649 |
-| **Tomorrow (AI)** | `₹127,537` | `₹12,753` | 🔺 ₹1,537 |
+### 📊 Technical Landscape
+*Visualizing the battle between Buyers (Support) and Sellers (Resistance).*
+
+![Technical Chart](assets/trend_chart.png)
+
+---
+
+### 🌡️ Market Thermometer
+*A quick gauge of market psychology.*
+
+| Indicator | Status | Meter | Interpretation |
+| :--- | :--- | :--- | :--- |
+| **RSI (Momentum)** | **55.3** | `[|||||||||||.........]` | Balanced |
+| **Sentiment (News)** | **-0.03** | `[|||||||||...........]` | Neutral |
+| **Volatility** | **Stable 🌊** | `------` | Market Energy |
 
 ---
 
@@ -53,4 +51,4 @@
 * **livemint.com:** *"Gold-silver ratio jumps to 60; is it the right time to invest in gold? - livemint.com"*
 
 ---
-*Last Updated: 2026-01-04 19:27:01 IST*
+*Last Updated: 2026-01-04 19:33:09 IST*
