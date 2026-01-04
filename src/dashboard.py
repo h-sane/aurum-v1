@@ -24,9 +24,8 @@ def get_arrow(value):
     return "➖"
 
 def create_ascii_bar(value, min_val=0, max_val=100, length=20):
-    """Creates a visual progress bar for text (e.g., [|||||||......])"""
     normalized = int((value - min_val) / (max_val - min_val) * length)
-    normalized = max(0, min(length, normalized)) # Clamp
+    normalized = max(0, min(length, normalized))
     return f"[{'|' * normalized}{'.' * (length - normalized)}]"
 
 def generate_advanced_charts(history):
@@ -40,28 +39,25 @@ def generate_advanced_charts(history):
     if not os.path.exists("assets"):
         os.makedirs("assets")
 
-    # --- CHART 1: Technical Analysis (Price + Support/Resistance) ---
+    # --- CHART 1: Technical Landscape (Support/Resistance) ---
     plt.figure(figsize=(10, 5))
     plt.plot(date_objs, prices, label='Gold Price', color='#FFD700', linewidth=2)
     
-    # Dynamic Support/Resistance Lines
     max_p = max(prices)
     min_p = min(prices)
     plt.axhline(max_p, color='#e74c3c', linestyle='--', alpha=0.5, label=f'Resistance (₹{max_p:,})')
     plt.axhline(min_p, color='#2ecc71', linestyle='--', alpha=0.5, label=f'Support (₹{min_p:,})')
-    
-    plt.fill_between(date_objs, min_p, max_p, color='#FFD700', alpha=0.05) # Shading
+    plt.fill_between(date_objs, min_p, max_p, color='#FFD700', alpha=0.05)
     
     plt.title("Technical Landscape: Price vs Key Levels", fontsize=14, fontweight='bold', color='#ecf0f1')
     plt.legend(loc='upper left')
     plt.grid(True, linestyle=':', alpha=0.3)
     
-    # Dark Mode Style for Chart
+    # Dark Mode Styling
     plt.gca().set_facecolor('#2c3e50')
     plt.gcf().patch.set_facecolor('#2c3e50')
     plt.tick_params(colors='white')
-    plt.gca().spines['bottom'].set_color('white')
-    plt.gca().spines['left'].set_color('white')
+    for spine in plt.gca().spines.values(): spine.set_color('white')
     plt.gca().xaxis.label.set_color('white')
     plt.gca().yaxis.label.set_color('white')
     plt.gca().title.set_color('white')
@@ -72,30 +68,50 @@ def generate_advanced_charts(history):
     plt.savefig("assets/trend_chart.png", dpi=100)
     plt.close()
 
+    # --- CHART 2: Volatility Scanner (The Missing Graph!) ---
+    plt.figure(figsize=(10, 4))
+    
+    # Calculate daily changes
+    changes = [0] + [prices[i] - prices[i-1] for i in range(1, len(prices))]
+    colors = ['#2ecc71' if c >= 0 else '#e74c3c' for c in changes] # Green/Red
+    
+    plt.bar(date_objs, changes, color=colors, alpha=0.8)
+    plt.axhline(0, color='white', linewidth=0.8)
+    
+    plt.title("Daily Volatility Scanner (Net Change in ₹)", fontsize=14, fontweight='bold', color='#ecf0f1')
+    plt.grid(True, axis='y', linestyle=':', alpha=0.3)
+    
+    # Dark Mode Styling
+    plt.gca().set_facecolor('#2c3e50')
+    plt.gcf().patch.set_facecolor('#2c3e50')
+    plt.tick_params(colors='white')
+    for spine in plt.gca().spines.values(): spine.set_color('white')
+    plt.gca().title.set_color('white')
+    
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%d-%b'))
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("assets/volatility_chart.png", dpi=100)
+    plt.close()
+
 def generate_readme():
-    print("--- 📝 Generating Aurum-V3 Intelligence Dashboard ---")
+    print("--- 📝 Generating Aurum-V3 Complete Dashboard ---")
     data = load_json(DATA_FILE)
     mood = load_json(MOOD_FILE)
     
     if not data: return
 
-    # --- 1. DATA PROCESSING ---
+    # Data Extract
     price_10g = data.get('current_price', 0)
     price_1g  = data.get('current_price_1g', int(price_10g / 10))
     forecast_10g = data.get('forecast_price', 0)
     
-    # History Analysis (The Smart Part)
+    # History Analysis
     history_prices = data.get('history', {}).get('prices', [])
     if history_prices:
         support_level = min(history_prices)
         resistance_level = max(history_prices)
-        avg_price = sum(history_prices) / len(history_prices)
-        
-        # Position in Range (0% = at Support, 100% = at Resistance)
-        if resistance_level != support_level:
-            range_pos = (price_10g - support_level) / (resistance_level - support_level) * 100
-        else:
-            range_pos = 50
+        range_pos = (price_10g - support_level) / (resistance_level - support_level) * 100 if resistance_level != support_level else 50
     else:
         support_level = resistance_level = price_10g
         range_pos = 50
@@ -105,25 +121,23 @@ def generate_readme():
     sentiment_score = mood.get('sentiment_score', 0)
     trend_signal = data.get('trend_signal', 'NEUTRAL')
     
-    # --- 2. THE AI VERDICT GENERATOR ---
-    # Synthesizing Technicals + Fundamentals into a Strategy
+    # Strategy Logic
     verdict = ""
     strategy = ""
-    
     if price_10g >= resistance_level * 0.99:
         verdict = "⚠️ CRITICAL: Testing Resistance."
-        strategy = "Price is at the 30-day ceiling. Breakout above this level signals a massive rally. Rejection here could lead to a drop back to average."
+        strategy = "Price is at the 30-day ceiling. Breakout above this level signals a massive rally."
     elif price_10g <= support_level * 1.01:
         verdict = "✅ OPPORTUNITY: Testing Support."
-        strategy = "Price is at the 30-day floor. Historically a strong buying zone. Low downside risk."
+        strategy = "Price is at the 30-day floor. Historically a strong buying zone."
     elif trend_signal == "BULLISH 🟢":
         verdict = "🚀 MOMENTUM: Strong Uptrend."
         strategy = f"Trend is healthy. Buy on dips. Next target is ₹{resistance_level:,}."
     else:
         verdict = "⚖️ CONSOLIDATION: Market Uncertain."
-        strategy = "Price is ranging sideways. Wait for a clearer signal or trade small."
+        strategy = "Price is ranging sideways. Wait for a clearer signal."
 
-    # --- 3. DASHBOARD CONSTRUCTION ---
+    # Charts
     if 'history' in data:
         generate_advanced_charts(data['history'])
 
@@ -155,10 +169,13 @@ def generate_readme():
 
 ---
 
-### 📊 Technical Landscape
-*Visualizing the battle between Buyers (Support) and Sellers (Resistance).*
+### 📊 Visual Intelligence Suite
 
+**1. Technical Landscape:** *Where are the Support & Resistance levels?*
 ![Technical Chart](assets/trend_chart.png)
+
+**2. Volatility Scanner:** *Green bars = Gains, Red bars = Losses. Size = Magnitude.*
+![Volatility Chart](assets/volatility_chart.png)
 
 ---
 
@@ -192,7 +209,7 @@ def generate_readme():
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(md)
     
-    print("✅ Aurum-V3 Dashboard Generated.")
+    print("✅ Aurum-V3 Complete Dashboard Generated.")
 
 if __name__ == "__main__":
     generate_readme()

@@ -26,10 +26,13 @@
 
 ---
 
-### 📊 Technical Landscape
-*Visualizing the battle between Buyers (Support) and Sellers (Resistance).*
+### 📊 Visual Intelligence Suite
 
+**1. Technical Landscape:** *Where are the Support & Resistance levels?*
 ![Technical Chart](assets/trend_chart.png)
+
+**2. Volatility Scanner:** *Green bars = Gains, Red bars = Losses. Size = Magnitude.*
+![Volatility Chart](assets/volatility_chart.png)
 
 ---
 
@@ -51,4 +54,4 @@
 * **livemint.com:** *"Gold-silver ratio jumps to 60; is it the right time to invest in gold? - livemint.com"*
 
 ---
-*Last Updated: 2026-01-04 19:33:09 IST*
+*Last Updated: 2026-01-04 19:38:52 IST*
