@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-12-30 00:36:50",
-  "current_price": 127649,
-  "current_price_1g": 12764,
-  "yesterday_price": 133297,
-  "forecast_price": 129706,
-  "forecast_price_1g": 12970,
+  "generated_at": "2026-01-04 19:09:22",
+  "current_price": 126000,
+  "current_price_1g": 12600,
+  "yesterday_price": 127649,
+  "forecast_price": 127537,
+  "forecast_price_1g": 12753,
   "accuracy_last_error": null,
   "scorecard": {
     "mae": 0,
@@ -15,10 +15,9 @@
   },
   "volatility_status": "Stable \ud83c\udf0a",
   "trend_signal": "BULLISH \ud83d\udfe2",
-  "rsi": 61.89,
+  "rsi": 55.3,
   "history": {
     "dates": [
-      "2025-11-17",
       "2025-11-18",
       "2025-11-19",
       "2025-11-20",
@@ -47,10 +46,10 @@
       "2025-12-23",
       "2025-12-24",
       "2025-12-26",
-      "2025-12-29"
+      "2025-12-29",
+      "2026-01-04"
     ],
     "prices": [
-      117843,
       117579,
       117949,
       117243,
@@ -79,7 +78,8 @@
       131199,
       130995,
       133297,
-      127649
+      127649,
+      126000
     ]
   }
 }

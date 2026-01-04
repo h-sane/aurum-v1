@@ -1,60 +1,57 @@
 import csv
 import os
 from datetime import datetime
-from typing import List
+import pandas as pd
 
-# Define paths relative to this file
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(BASE_DIR, "data")
-CSV_FILE = os.path.join(DATA_DIR, "gold_prices.csv")
-TMP_FILE = os.path.join(DATA_DIR, "gold_prices.tmp")
+FILE_PATH = "data/gold_prices.csv"
+# CORRECT HEADER: Must match your actual CSV columns
+CSV_HEADER = ["Date", "Gold_Price_22k", "USD_INR"]
 
-FIELDNAMES = ["Date", "Gold_Price_22k"]
-
-def _ensure_data_dir():
-    os.makedirs(DATA_DIR, exist_ok=True)
-
-def _read_existing_rows() -> List[dict]:
-    if not os.path.exists(CSV_FILE):
-        return []
-
-    with open(CSV_FILE, mode="r", newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        return list(reader)
-
-def save_transaction(price: int) -> bool:
+def save_transaction(price, usd_inr=84.0):
     """
-    Persist today's gold price using an atomic write.
-    Returns:
-        True  -> row was added
-        False -> idempotent no-op (today already exists)
+    Saves the daily price and currency rate to the CSV.
     """
-    _ensure_data_dir()
-
     today = datetime.now().strftime("%Y-%m-%d")
-    rows = _read_existing_rows()
-
-    # --- IDEMPOTENCY CHECK ---
-    if rows and rows[-1]["Date"] == today:
-        return False
-
-    # --- APPEND NEW ROW IN-MEMORY ---
-    rows.append({
+    file_exists = os.path.exists(FILE_PATH)
+    
+    # 1. Prepare the Data Row
+    new_row = {
         "Date": today,
-        "Gold_Price_22k": str(price)
-    })
+        "Gold_Price_22k": price,
+        "USD_INR": usd_inr
+    }
 
-    # --- ATOMIC WRITE ---
-    with open(TMP_FILE, mode="w", newline="", encoding="utf-8") as tmp:
-        writer = csv.DictWriter(tmp, fieldnames=FIELDNAMES)
-        writer.writeheader()
-        writer.writerows(rows)
+    # 2. Idempotency Check (Prevent Duplicates)
+    if file_exists:
+        try:
+            # We read the CSV to check if today's date exists
+            df = pd.read_csv(FILE_PATH)
+            # Ensure 'Date' column is treated as string for comparison
+            if today in df['Date'].astype(str).values:
+                return False # Return False to signal "No new data saved"
+        except Exception as e:
+            print(f"⚠️ Warning reading CSV: {e}")
 
-        # Force write to disk
-        tmp.flush()
-        os.fsync(tmp.fileno())
+    # 3. Write Data
+    try:
+        # 'a' mode appends to the end of the file
+        with open(FILE_PATH, mode='a', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=CSV_HEADER)
+            
+            # If the file is brand new, write the header first
+            if not file_exists:
+                writer.writeheader()
+            
+            writer.writerow(new_row)
+            print(f"💾 Saved to Ledger: {today} | ₹{price} | ${usd_inr}")
+            return True
 
-    # Atomic replace (safe on Linux, macOS, Windows)
-    os.replace(TMP_FILE, CSV_FILE)
+    except ValueError as e:
+        print(f"❌ Ledger Error: {e}")
+        print(f"   Expected columns: {CSV_HEADER}")
+        raise e
 
-    return True
+def load_data():
+    if os.path.exists(FILE_PATH):
+        return pd.read_csv(FILE_PATH)
+    return pd.DataFrame(columns=CSV_HEADER)
