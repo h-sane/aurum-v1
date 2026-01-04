@@ -16,7 +16,7 @@ def load_json(path):
     return {}
 
 def fmt_price(price):
-    return f"₹{price:,}"
+    return f"₹{int(price):,}"
 
 def get_arrow(value):
     if value > 0: return "🔺"
@@ -24,45 +24,39 @@ def get_arrow(value):
     return "➖"
 
 def create_ascii_bar(value, min_val=0, max_val=100, length=20):
-    """
-    Creates a visual progress bar safe for Markdown tables.
-    Uses '█' (Solid Block) instead of '|' to prevent table breakage.
-    """
-    # Normalize value to 0-1 range
     if max_val == min_val: 
         normalized_len = 0
     else:
         normalized_len = int((value - min_val) / (max_val - min_val) * length)
     
-    # Clamp between 0 and length
     normalized_len = max(0, min(length, normalized_len))
-    
-    # Generate Bar: █ for filled, ░ for empty
-    # We purposefully avoid '|'
     return f"{'█' * normalized_len}{'░' * (length - normalized_len)}"
 
 def generate_advanced_charts(history):
     dates = history.get('dates', [])
-    prices = history.get('prices', [])
+    prices_10g = history.get('prices', [])
     
-    if not dates or not prices: return
+    if not dates or not prices_10g: return
 
+    # CHART PRIORITY: 1g (Retail)
+    prices_1g = [p / 10 for p in prices_10g]
     date_objs = [datetime.strptime(d, "%Y-%m-%d") for d in dates]
     
     if not os.path.exists("assets"):
         os.makedirs("assets")
 
-    # --- CHART 1: Technical Landscape (Support/Resistance) ---
+    # --- CHART 1: Technical Landscape (1g) ---
     plt.figure(figsize=(10, 5))
-    plt.plot(date_objs, prices, label='Gold Price', color='#FFD700', linewidth=2)
+    plt.plot(date_objs, prices_1g, label='Retail Price (1g)', color='#FFD700', linewidth=2)
     
-    max_p = max(prices)
-    min_p = min(prices)
-    plt.axhline(max_p, color='#e74c3c', linestyle='--', alpha=0.5, label=f'Resistance (₹{max_p:,})')
-    plt.axhline(min_p, color='#2ecc71', linestyle='--', alpha=0.5, label=f'Support (₹{min_p:,})')
+    max_p = max(prices_1g)
+    min_p = min(prices_1g)
+    
+    plt.axhline(max_p, color='#e74c3c', linestyle='--', alpha=0.5, label=f'Resist: ₹{int(max_p):,}')
+    plt.axhline(min_p, color='#2ecc71', linestyle='--', alpha=0.5, label=f'Support: ₹{int(min_p):,}')
     plt.fill_between(date_objs, min_p, max_p, color='#FFD700', alpha=0.05)
     
-    plt.title("Technical Landscape: Price vs Key Levels", fontsize=14, fontweight='bold', color='#ecf0f1')
+    plt.title("Technical Landscape: Retail Price (1 Gram)", fontsize=14, fontweight='bold', color='#ecf0f1')
     plt.legend(loc='upper left')
     plt.grid(True, linestyle=':', alpha=0.3)
     
@@ -81,20 +75,17 @@ def generate_advanced_charts(history):
     plt.savefig("assets/trend_chart.png", dpi=100)
     plt.close()
 
-    # --- CHART 2: Volatility Scanner (The Missing Graph!) ---
+    # --- CHART 2: Volatility (1g) ---
     plt.figure(figsize=(10, 4))
-    
-    # Calculate daily changes
-    changes = [0] + [prices[i] - prices[i-1] for i in range(1, len(prices))]
-    colors = ['#2ecc71' if c >= 0 else '#e74c3c' for c in changes] # Green/Red
+    changes = [0] + [prices_1g[i] - prices_1g[i-1] for i in range(1, len(prices_1g))]
+    colors = ['#2ecc71' if c >= 0 else '#e74c3c' for c in changes] 
     
     plt.bar(date_objs, changes, color=colors, alpha=0.8)
     plt.axhline(0, color='white', linewidth=0.8)
     
-    plt.title("Daily Volatility Scanner (Net Change in ₹)", fontsize=14, fontweight='bold', color='#ecf0f1')
+    plt.title("Daily Movement (₹ per Gram)", fontsize=14, fontweight='bold', color='#ecf0f1')
     plt.grid(True, axis='y', linestyle=':', alpha=0.3)
     
-    # Dark Mode Styling
     plt.gca().set_facecolor('#2c3e50')
     plt.gcf().patch.set_facecolor('#2c3e50')
     plt.tick_params(colors='white')
@@ -108,25 +99,37 @@ def generate_advanced_charts(history):
     plt.close()
 
 def generate_readme():
-    print("--- 📝 Generating Aurum-V3 Complete Dashboard ---")
+    print("--- 📝 Generating Aurum-V5 Hybrid Dashboard ---")
     data = load_json(DATA_FILE)
     mood = load_json(MOOD_FILE)
     
     if not data: return
 
-    # Data Extract
+    # Data Processing
     price_10g = data.get('current_price', 0)
-    price_1g  = data.get('current_price_1g', int(price_10g / 10))
-    forecast_10g = data.get('forecast_price', 0)
+    price_1g  = int(price_10g / 10)
     
-    # History Analysis
-    history_prices = data.get('history', {}).get('prices', [])
-    if history_prices:
-        support_level = min(history_prices)
-        resistance_level = max(history_prices)
-        range_pos = (price_10g - support_level) / (resistance_level - support_level) * 100 if resistance_level != support_level else 50
+    yest_10g = data.get('yesterday_price', 0)
+    yest_1g = int(yest_10g / 10)
+    
+    forecast_10g = data.get('forecast_price', 0)
+    forecast_1g  = int(forecast_10g / 10)
+    
+    delta_1g = price_1g - yest_1g
+    delta_forecast_1g = forecast_1g - price_1g
+
+    # History Analysis (1g Basis)
+    history_prices_10g = data.get('history', {}).get('prices', [])
+    if history_prices_10g:
+        history_1g = [p / 10 for p in history_prices_10g]
+        support_level = min(history_1g)
+        resistance_level = max(history_1g)
+        if resistance_level != support_level:
+            range_pos = (price_1g - support_level) / (resistance_level - support_level) * 100
+        else:
+            range_pos = 50
     else:
-        support_level = resistance_level = price_10g
+        support_level = resistance_level = price_1g
         range_pos = 50
 
     # Indicators
@@ -134,71 +137,78 @@ def generate_readme():
     sentiment_score = mood.get('sentiment_score', 0)
     trend_signal = data.get('trend_signal', 'NEUTRAL')
     
-    # Strategy Logic
+    # Strategy (1g Priority)
     verdict = ""
     strategy = ""
-    if price_10g >= resistance_level * 0.99:
-        verdict = "⚠️ CRITICAL: Testing Resistance."
-        strategy = "Price is at the 30-day ceiling. Breakout above this level signals a massive rally."
-    elif price_10g <= support_level * 1.01:
-        verdict = "✅ OPPORTUNITY: Testing Support."
-        strategy = "Price is at the 30-day floor. Historically a strong buying zone."
+    if price_1g >= resistance_level * 0.99:
+        verdict = "⚠️ CRITICAL: Resistance Test"
+        strategy = f"Price is hitting the ceiling (₹{int(resistance_level):,}). Breakout or Rejection imminent."
+    elif price_1g <= support_level * 1.01:
+        verdict = "✅ OPPORTUNITY: Support Test"
+        strategy = f"Price is at the floor (₹{int(support_level):,}). Good entry point for buyers."
     elif trend_signal == "BULLISH 🟢":
-        verdict = "🚀 MOMENTUM: Strong Uptrend."
-        strategy = f"Trend is healthy. Buy on dips. Next target is ₹{resistance_level:,}."
+        verdict = "🚀 MOMENTUM: Uptrend"
+        strategy = f"Trend is healthy. Target: ₹{int(resistance_level):,}."
     else:
-        verdict = "⚖️ CONSOLIDATION: Market Uncertain."
-        strategy = "Price is ranging sideways. Wait for a clearer signal."
+        verdict = "⚖️ CONSOLIDATION"
+        strategy = "Market is sideways. Wait for clear direction."
 
-    # Charts
     if 'history' in data:
         generate_advanced_charts(data['history'])
 
     md = f"""
-# 🔱 Aurum-V3: Strategic Market Intelligence
+# 🔱 Aurum-V5: Market Command Center
 
-> **"The Analyst's View."**
-> *Current Strategy: {verdict}*
+> **"Retail Focus. Industry Context."**
+> *Strategy: {verdict}*
 
 <div align="center">
 
-| 🏛️ Live Ticker | 💰 10 Grams | 💎 1 Gram | 🎯 T+1 Forecast |
-| :--- | :---: | :---: | :---: |
-| **Price** | **{fmt_price(price_10g)}** | **{fmt_price(price_1g)}** | `{fmt_price(forecast_10g)}` |
-| **Trend** | {trend_signal} | RSI: {rsi} | {get_arrow(forecast_10g - price_10g)} {fmt_price(abs(forecast_10g - price_10g))} |
+| 💎 Retail (1g) | 🎯 Forecast (1g) | 🏛️ Industry (10g) |
+| :---: | :---: | :---: |
+| **{fmt_price(price_1g)}** | `{fmt_price(forecast_1g)}` | **{fmt_price(price_10g)}** |
+| {get_arrow(delta_1g)} {fmt_price(abs(delta_1g))} | {get_arrow(delta_forecast_1g)} {fmt_price(abs(delta_forecast_1g))} | {trend_signal} |
 
 </div>
 
 ---
 
-### 🧠 The AI Analyst's Verdict
-**{verdict}**
-> "{strategy}"
+### ⏳ The Time Machine (Side-by-Side Comparison)
+*Comprehensive breakdown of price action across units.*
 
-**Key Levels Watchlist:**
-* 🔴 **Ceiling (Resistance):** **{fmt_price(resistance_level)}** *— Selling pressure likely here.*
-* 🟢 **Floor (Support):** **{fmt_price(support_level)}** *— Buying interest likely here.*
-* 📍 **Current Position:** Price is **{int(range_pos)}%** of the way to the top of its monthly range.
+| Timeline | 💎 Price (1g) | 🏛️ Price (10g) | Change (1g) | Status |
+| :--- | :---: | :---: | :---: | :--- |
+| **Yesterday** | {fmt_price(yest_1g)} | {fmt_price(yest_10g)} | - | Historical |
+| **Today** | **{fmt_price(price_1g)}** | **{fmt_price(price_10g)}** | {get_arrow(delta_1g)} {fmt_price(abs(delta_1g))} | **Actual** |
+| **Tomorrow** | `{fmt_price(forecast_1g)}` | `{fmt_price(forecast_10g)}` | {get_arrow(delta_forecast_1g)} {fmt_price(abs(delta_forecast_1g))} | *Forecast* |
 
 ---
 
-### 📊 Visual Intelligence Suite
+### 🧠 Analyst Verdict (Retail View)
+**{verdict}**
+> "{strategy}"
 
-**1. Technical Landscape:** *Where are the Support & Resistance levels?*
+* 🔴 **Ceiling:** **{fmt_price(resistance_level)}** (1g)
+* 🟢 **Floor:** **{fmt_price(support_level)}** (1g)
+* 📍 **Range:** Price is **{int(range_pos)}%** of the way to the top.
+
+---
+
+### 📊 Visual Intelligence (1g)
+**1. Technical Landscape:** *Support & Resistance Levels.*
 ![Technical Chart](assets/trend_chart.png)
 
-**2. Volatility Scanner:** *Green bars = Gains, Red bars = Losses. Size = Magnitude.*
+**2. Volatility Scanner:** *Daily Price Change.*
 ![Volatility Chart](assets/volatility_chart.png)
 
 ---
 
 ### 🌡️ Market Thermometer
-*A quick gauge of market psychology.*
 
 | Indicator | Status | Meter | Interpretation |
 | :--- | :--- | :--- | :--- |
-| **RSI (Momentum)** | **{rsi}** | `{create_ascii_bar(rsi, 0, 100)}` | { "Oversold (Cheap)" if rsi < 30 else "Overbought (Expensive)" if rsi > 70 else "Balanced" } |
-| **Sentiment (News)** | **{sentiment_score}** | `{create_ascii_bar(sentiment_score, -0.5, 0.5)}` | { "Fear/Negative" if sentiment_score < -0.1 else "Greed/Positive" if sentiment_score > 0.1 else "Neutral" } |
+| **RSI** | **{rsi}** | `{create_ascii_bar(rsi, 0, 100)}` | { "Buy" if rsi < 30 else "Sell" if rsi > 70 else "Hold" } |
+| **Sentiment** | **{sentiment_score}** | `{create_ascii_bar(sentiment_score, -0.5, 0.5)}` | { "Fear" if sentiment_score < -0.1 else "Greed" if sentiment_score > 0.1 else "Neutral" } |
 | **Volatility** | **{data.get('volatility_status')}** | `------` | Market Energy |
 
 ---
@@ -207,7 +217,6 @@ def generate_readme():
 * **Market Mood:** **{mood.get('market_status', 'NEUTRAL')}**
 """
     
-    # News Section
     headlines = mood.get('headlines', [])
     if headlines:
         for news in headlines[:3]:
@@ -222,7 +231,7 @@ def generate_readme():
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(md)
     
-    print("✅ Aurum-V3 Complete Dashboard Generated.")
+    print("✅ Aurum-V5 Hybrid Dashboard Generated.")
 
 if __name__ == "__main__":
     generate_readme()
