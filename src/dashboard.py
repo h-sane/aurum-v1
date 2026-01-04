@@ -24,9 +24,22 @@ def get_arrow(value):
     return "➖"
 
 def create_ascii_bar(value, min_val=0, max_val=100, length=20):
-    normalized = int((value - min_val) / (max_val - min_val) * length)
-    normalized = max(0, min(length, normalized))
-    return f"[{'|' * normalized}{'.' * (length - normalized)}]"
+    """
+    Creates a visual progress bar safe for Markdown tables.
+    Uses '█' (Solid Block) instead of '|' to prevent table breakage.
+    """
+    # Normalize value to 0-1 range
+    if max_val == min_val: 
+        normalized_len = 0
+    else:
+        normalized_len = int((value - min_val) / (max_val - min_val) * length)
+    
+    # Clamp between 0 and length
+    normalized_len = max(0, min(length, normalized_len))
+    
+    # Generate Bar: █ for filled, ░ for empty
+    # We purposefully avoid '|'
+    return f"{'█' * normalized_len}{'░' * (length - normalized_len)}"
 
 def generate_advanced_charts(history):
     dates = history.get('dates', [])

@@ -41,8 +41,8 @@
 
 | Indicator | Status | Meter | Interpretation |
 | :--- | :--- | :--- | :--- |
-| **RSI (Momentum)** | **55.3** | `[|||||||||||.........]` | Balanced |
-| **Sentiment (News)** | **-0.03** | `[|||||||||...........]` | Neutral |
+| **RSI (Momentum)** | **55.3** | `███████████░░░░░░░░░` | Balanced |
+| **Sentiment (News)** | **-0.03** | `█████████░░░░░░░░░░░` | Neutral |
 | **Volatility** | **Stable 🌊** | `------` | Market Energy |
 
 ---
@@ -54,4 +54,4 @@
 * **livemint.com:** *"Gold-silver ratio jumps to 60; is it the right time to invest in gold? - livemint.com"*
 
 ---
-*Last Updated: 2026-01-04 19:38:52 IST*
+*Last Updated: 2026-01-04 19:50:22 IST*
