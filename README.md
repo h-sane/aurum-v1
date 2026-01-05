@@ -8,8 +8,8 @@
 
 | 💎 Retail (1g) | 🎯 Forecast (1g) | 🏛️ Industry (10g) |
 | :---: | :---: | :---: |
-| **₹12,600** | `₹12,753` | **₹126,000** |
-| 🔻 ₹164 | 🔺 ₹153 | BULLISH 🟢 |
+| **₹12,760** | `₹12,824` | **₹127,600** |
+| 🔺 ₹160 | 🔺 ₹64 | BULLISH 🟢 |
 
 </div>
 
@@ -20,9 +20,9 @@
 
 | Timeline | 💎 Price (1g) | 🏛️ Price (10g) | Change (1g) | Status |
 | :--- | :---: | :---: | :---: | :--- |
-| **Yesterday** | ₹12,764 | ₹127,649 | - | Historical |
-| **Today** | **₹12,600** | **₹126,000** | 🔻 ₹164 | **Actual** |
-| **Tomorrow** | `₹12,753` | `₹127,537` | 🔺 ₹153 | *Forecast* |
+| **Yesterday** | ₹12,600 | ₹126,000 | - | Historical |
+| **Today** | **₹12,760** | **₹127,600** | 🔺 ₹160 | **Actual** |
+| **Tomorrow** | `₹12,824` | `₹128,243` | 🔺 ₹64 | *Forecast* |
 
 ---
 
@@ -32,7 +32,7 @@
 
 * 🔴 **Ceiling:** **₹13,329** (1g)
 * 🟢 **Floor:** **₹11,724** (1g)
-* 📍 **Range:** Price is **54%** of the way to the top.
+* 📍 **Range:** Price is **64%** of the way to the top.
 
 ---
 
@@ -49,17 +49,17 @@
 
 | Indicator | Status | Meter | Interpretation |
 | :--- | :--- | :--- | :--- |
-| **RSI** | **55.3** | `███████████░░░░░░░░░` | Hold |
-| **Sentiment** | **-0.03** | `█████████░░░░░░░░░░░` | Neutral |
+| **RSI** | **60.2** | `████████████░░░░░░░░` | Hold |
+| **Sentiment** | **-0.04** | `█████████░░░░░░░░░░░` | Neutral |
 | **Volatility** | **Stable 🌊** | `------` | Market Energy |
 
 ---
 
 ### 📰 Sentinel Intelligence
 * **Market Mood:** **NEUTRAL ⚪**
-* **FXStreet:** *"Gold price in India: Rates on January 2 - FXStreet"*
-* **india.com:** *"Today Gold, Silver Rate January 04: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - india.com"*
-* **livemint.com:** *"Gold-silver ratio jumps to 60; is it the right time to invest in gold? - livemint.com"*
+* **The Indian Express:** *"Gold Today Rate, January 5: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express"*
+* **CNBC TV18:** *"Why gold and silver are rising in India amid US-Venezuela tensions - CNBC TV18"*
+* **ts2.tech:** *"Silver price tumbles from record as India’s gold rate drops — experts’ 2026 playbook - ts2.tech"*
 
 ---
-*Last Updated: 2026-01-04 20:02:34 IST*
+*Last Updated: 2026-01-05 18:17:42 IST*
