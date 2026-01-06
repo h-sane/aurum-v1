@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-01-05 18:17:41",
-  "sentiment_score": -0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-01-06 18:16:41",
+  "sentiment_score": 0.09,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Today Rate, January 5: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Today Rate, January 6: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Why gold and silver are rising in India amid US-Venezuela tensions - CNBC TV18",
-      "source": "CNBC TV18",
-      "score": -0.4019
+      "title": "Gold Price January 6: Check 18, 22, 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata, and other cities - india.com",
+      "source": "india.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: Rates for 24-carat and 22-carat increased in India on January 6, details here - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.2732
     },
     {
       "title": "Silver price tumbles from record as India\u2019s gold rate drops \u2014 experts\u2019 2026 playbook - ts2.tech",
@@ -19,28 +24,18 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices may cool off - The Hindu",
-      "source": "The Hindu",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold Rate in Chennai Today (January 5, 2026): Prices Stay Elevated - Check Prices For 22K and 24K - Times Now",
-      "source": "Times Now",
+      "title": "Gold price January 6: Check 18, 22, 24 carat rates in Mumbai, Chennai, Hyderabad and others - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "In India, gold prices increased today based on compiled data from various sources - VT Markets",
-      "source": "VT Markets",
-      "score": 0.2732
+      "title": "India's Titan logs quarterly sales surge on gold price rally, festive demand - TradingView \u2014 Track All Markets",
+      "source": "TradingView \u2014 Track All Markets",
+      "score": 0.3612
     },
     {
-      "title": "Gold prices today: Spot rates jump 1.4% as geopolitical tensions rise after US strike on Venezuela - Moneycontrol",
+      "title": "Gold price today: Spot price rises 2.42% in a week to $4,451; check prices in your city - Moneycontrol",
       "source": "Moneycontrol",
-      "score": -0.4939
-    },
-    {
-      "title": "Gold price today: How much the yellow metal costs on January 5, 2026; check rates in Mumbai, Delhi & more - Times of India",
-      "source": "Times of India",
       "score": 0.0
     }
   ]
