@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-08 18:15:02",
-  "sentiment_score": 0.12,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-01-09 18:16:51",
+  "sentiment_score": 0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Hyderabad & other cities - Check rates - Times of India",
-      "source": "Times of India",
-      "score": 0.0
+      "title": "Gold, silver rates today: What should investors know amid global turmoil - India Today",
+      "source": "India Today",
+      "score": -0.3612
     },
     {
       "title": "Shocking Gold Price Chart From 2000 To 2025 - CAclubindia",
@@ -14,29 +14,34 @@
       "score": -0.4019
     },
     {
-      "title": "Gold price in India: Rates on January 7 - FXStreet",
-      "source": "FXStreet",
+      "title": "Will gold continue to fall today? Check the price of the precious metal in your city - Moneycontrol",
+      "source": "Moneycontrol",
+      "score": 0.5719
+    },
+    {
+      "title": "Is large-scale silver and gold buying by Indians driving the price rise? How it can impact you and what yo - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Today Gold, Silver Rate January 07: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - india.com",
+      "title": "Gold price dip today: Check Jan 8 rates for 22 karat and 24 karat gold in major cities - MSN",
+      "source": "MSN",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price January 6: Check 18, 22, 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata, and other cities - india.com",
       "source": "india.com",
       "score": 0.0
     },
     {
-      "title": "Gold price today: Rates drop on profit booking amid rise in dollar, bond yields; experts highlight key levels to watch - livemint.com",
-      "source": "livemint.com",
-      "score": 0.4939
+      "title": "Gold price dips \u20b910 to \u20b91,37,990, silver price falls \u20b9100 to \u20b92,51,900 - Business Standard",
+      "source": "Business Standard",
+      "score": 0.0
     },
     {
-      "title": "Silver falls Rs 12,500, gold prices also ease - India Today",
-      "source": "India Today",
-      "score": 0.3612
-    },
-    {
-      "title": "Gold slips marginally lower on MCX even as spot prices on Comex gain over 2% this week - Moneycontrol",
-      "source": "Moneycontrol",
-      "score": 0.3597
+      "title": "Gold, silver prices cool in India: Why experts see this as a pause, not a reversal - CNBC TV18",
+      "source": "CNBC TV18",
+      "score": 0.3182
     }
   ]
 }
