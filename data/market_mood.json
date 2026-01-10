@@ -1,47 +1,47 @@
 {
-  "last_updated": "2026-01-09 18:16:51",
+  "last_updated": "2026-01-10 18:15:12",
   "sentiment_score": 0.02,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Kolkata & other cities - Check rates - Times of India",
+      "source": "Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today in India rises 2.50% in 2026. Is it right time to buy gold before US Supreme Court decision on tariff? - livemint.com",
+      "source": "livemint.com",
+      "score": 0.5574
+    },
+    {
+      "title": "Gold Today Rate, January 8: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
     {
       "title": "Gold, silver rates today: What should investors know amid global turmoil - India Today",
       "source": "India Today",
       "score": -0.3612
     },
     {
-      "title": "Shocking Gold Price Chart From 2000 To 2025 - CAclubindia",
-      "source": "CAclubindia",
-      "score": -0.4019
-    },
-    {
-      "title": "Will gold continue to fall today? Check the price of the precious metal in your city - Moneycontrol",
-      "source": "Moneycontrol",
-      "score": 0.5719
-    },
-    {
-      "title": "Is large-scale silver and gold buying by Indians driving the price rise? How it can impact you and what yo - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Today Rate, January 9: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price dip today: Check Jan 8 rates for 22 karat and 24 karat gold in major cities - MSN",
-      "source": "MSN",
+      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Hyderabad & other cities - Check rates - Times of India",
+      "source": "Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Price January 6: Check 18, 22, 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata, and other cities - india.com",
-      "source": "india.com",
+      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 7 January 2026 - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
     },
     {
-      "title": "Gold price dips \u20b910 to \u20b91,37,990, silver price falls \u20b9100 to \u20b92,51,900 - Business Standard",
-      "source": "Business Standard",
+      "title": "Gold price to hit $4,800 in 2026? What investors should do now - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices cool in India: Why experts see this as a pause, not a reversal - CNBC TV18",
-      "source": "CNBC TV18",
-      "score": 0.3182
     }
   ]
 }
