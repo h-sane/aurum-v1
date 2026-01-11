@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-01-10 18:15:12",
-  "sentiment_score": 0.02,
+  "last_updated": "2026-01-11 18:15:09",
+  "sentiment_score": -0.01,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
-    {
-      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Kolkata & other cities - Check rates - Times of India",
-      "source": "Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today in India rises 2.50% in 2026. Is it right time to buy gold before US Supreme Court decision on tariff? - livemint.com",
-      "source": "livemint.com",
-      "score": 0.5574
-    },
-    {
-      "title": "Gold Today Rate, January 8: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver rates today: What should investors know amid global turmoil - India Today",
-      "source": "India Today",
-      "score": -0.3612
-    },
     {
       "title": "Gold Today Rate, January 9: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
@@ -34,13 +14,33 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 7 January 2026 - livemint.com",
+      "title": "US-Iran news: Experts see gap-up opening for gold prices on Monday; give these immediate targets on COMEX and MCX - livemint.com",
       "source": "livemint.com",
       "score": 0.0
     },
     {
-      "title": "Gold price to hit $4,800 in 2026? What investors should do now - livemint.com",
-      "source": "livemint.com",
+      "title": "Gold Rate Today 9th January 2026: Gold is up by 0.39%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
+      "source": "The Financial Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver rates today: What should investors know amid global turmoil - India Today",
+      "source": "India Today",
+      "score": -0.3612
+    },
+    {
+      "title": "Gold prices remain stable in Bhubaneswar on Sunday, Check rates here - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.296
+    },
+    {
+      "title": "Today Gold, Silver Rate January 11: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - india.com",
+      "source": "india.com",
+      "score": 0.0
+    },
+    {
+      "title": "Is large-scale silver and gold buying by Indians driving the price rise? How it can impact you and what yo - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     }
   ]
