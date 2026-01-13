@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-12 18:17:06",
-  "sentiment_score": 0.02,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-01-13 18:18:45",
+  "sentiment_score": 0.21,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
       "title": "Gold, silver prices near record highs: Should you buy now or wait? - India Today",
@@ -9,39 +9,39 @@
       "score": 0.0
     },
     {
-      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Hyderabad & other cities - Check rates - Times of India",
-      "source": "Times of India",
-      "score": 0.0
+      "title": "Gold price increased in India today, check latest rates in top cities - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.4404
     },
     {
-      "title": "Gold Today Rate, January 12: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
+      "title": "Gold-Price Jump Is Hitting Profits, Say Indian Diamond Jewelers - Rapaport",
+      "source": "Rapaport",
+      "score": 0.6486
     },
     {
-      "title": "Gold price in India: Rates on January 12 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price January 12: Check 18, 22, 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata, and other citie - india.com",
-      "source": "india.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today in India rises 2.50% in 2026. Is it right time to buy gold before US Supreme Court decision on tariff? - Mint",
+      "title": "Gold, Silver Rates Today Highlights: MCX gold price crosses \u20b91.42 lakh/10 grams, silver price up 3% amid volatility - Mint",
       "source": "Mint",
-      "score": 0.5574
-    },
-    {
-      "title": "Gold Rate Today 12th January 2026: Gold is up by 1.77%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
-      "source": "The Financial Express",
       "score": 0.0
     },
     {
-      "title": "Gold, silver rates today: What should investors know amid global turmoil - India Today",
+      "title": "Gold rally is not stopping anytime soon. But is buying at record levels a good idea? - India Today",
       "source": "India Today",
-      "score": -0.3612
+      "score": 0.6214
+    },
+    {
+      "title": "Gold Rate, January 13, 2026: 18K, 22K & 24K Gold Prices in Chennai, Mumbai, Delhi, Kolkata - The CSR Journal",
+      "source": "The CSR Journal",
+      "score": 0.0
+    },
+    {
+      "title": "Live gold price update (Jan 13): 22K & 24K and 18K rates jump across cities - MSN",
+      "source": "MSN",
+      "score": 0.0
+    },
+    {
+      "title": "Gold touches \u20b91.40 lakh mark, silver shatters records across India as global surge lifts domestic prices - NewsFirst Prime",
+      "source": "NewsFirst Prime",
+      "score": 0.0
     }
   ]
 }
