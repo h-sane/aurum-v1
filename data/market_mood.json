@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-01-13 18:18:45",
-  "sentiment_score": 0.21,
+  "last_updated": "2026-01-14 18:18:08",
+  "sentiment_score": 0.18,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold, silver prices near record highs: Should you buy now or wait? - India Today",
-      "source": "India Today",
+      "title": "Gold Prices Rise in India on Makar Sankranti, Check Today\u2019s Gold Rates Here - Kalinga TV",
+      "source": "Kalinga TV",
       "score": 0.0
     },
     {
-      "title": "Gold price increased in India today, check latest rates in top cities - Kalinga TV",
-      "source": "Kalinga TV",
+      "title": "Gold, Silver Rate Today Highlights: MCX gold rate tops \u20b91.43 lakh/10 grams; Robert Kiyosaki warns silver investors - Mint",
+      "source": "Mint",
       "score": 0.4404
+    },
+    {
+      "title": "Today Gold, Silver Rate January 14: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - india.com",
+      "source": "india.com",
+      "score": 0.0
     },
     {
       "title": "Gold-Price Jump Is Hitting Profits, Say Indian Diamond Jewelers - Rapaport",
@@ -19,28 +24,13 @@
       "score": 0.6486
     },
     {
-      "title": "Gold, Silver Rates Today Highlights: MCX gold price crosses \u20b91.42 lakh/10 grams, silver price up 3% amid volatility - Mint",
-      "source": "Mint",
+      "title": "Jewellery Stocks Soar: Indian Consumers Defy Record Gold Prices - Whalesbook",
+      "source": "Whalesbook",
       "score": 0.0
     },
     {
-      "title": "Gold rally is not stopping anytime soon. But is buying at record levels a good idea? - India Today",
-      "source": "India Today",
-      "score": 0.6214
-    },
-    {
-      "title": "Gold Rate, January 13, 2026: 18K, 22K & 24K Gold Prices in Chennai, Mumbai, Delhi, Kolkata - The CSR Journal",
-      "source": "The CSR Journal",
-      "score": 0.0
-    },
-    {
-      "title": "Live gold price update (Jan 13): 22K & 24K and 18K rates jump across cities - MSN",
-      "source": "MSN",
-      "score": 0.0
-    },
-    {
-      "title": "Gold touches \u20b91.40 lakh mark, silver shatters records across India as global surge lifts domestic prices - NewsFirst Prime",
-      "source": "NewsFirst Prime",
+      "title": "Gold Prices Jump 1.5%, Near Record Highs in India - HDFC Sky",
+      "source": "HDFC Sky",
       "score": 0.0
     }
   ]
