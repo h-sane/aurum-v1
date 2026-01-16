@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-01-15 18:22:21",
+  "last_updated": "2026-01-16 18:17:02",
   "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Today Rate, January 15: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on January 15 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Today Rate, January 14: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
       "title": "Gold price to hit $4,800 in 2026? What investors should do now - Mint",
       "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Mumbai & other cities \u2013 Check rates - Times of India",
+      "source": "Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Patna & other cities \u2013 Check rates - Times of India",
+      "source": "Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on January 14 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     }
   ]
