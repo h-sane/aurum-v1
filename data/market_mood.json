@@ -1,17 +1,12 @@
 {
-  "last_updated": "2026-01-17 18:14:22",
-  "sentiment_score": 0.05,
+  "last_updated": "2026-01-18 18:14:26",
+  "sentiment_score": 0.07,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Prices increased in India; Check latest city-wise prices, silver rises - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.2732
-    },
-    {
-      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Patna & other cities \u2013 Check rates - Times of India",
-      "source": "Times of India",
-      "score": 0.0
+      "title": "India gold market update: Enduring demand strength | Post by Kavita Chacko | Gold Focus blog - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.4019
     },
     {
       "title": "Gold Today Rate, January 15: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
@@ -19,13 +14,23 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on January 16 - FXStreet",
-      "source": "FXStreet",
+      "title": "Today Gold, Silver Rate January 18: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - india.com",
+      "source": "india.com",
       "score": 0.0
     },
     {
-      "title": "Gold price to hit $4,800 in 2026? What investors should do now - Mint",
+      "title": "What Trump's Greenland tariffs on NATO countries mean for gold, silver, Indian stock market? - Mint",
       "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "LIVE: Gold Price Today (Dec 16) Slips, Check 22K And 24K Rates Per Gram In Your City - ABP Live English",
+      "source": "ABP Live English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price drops for 24 carat and 22 carat in India on Jan 16, 2025 - KalingaTV",
+      "source": "KalingaTV",
       "score": 0.0
     }
   ]
