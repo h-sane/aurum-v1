@@ -1,22 +1,12 @@
 {
-  "last_updated": "2026-01-21 18:28:25",
-  "sentiment_score": 0.03,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-01-22 18:17:17",
+  "sentiment_score": -0.07,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
-    {
-      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Mumbai & other cities - Check rates - Times of India",
-      "source": "Times of India",
-      "score": 0.0
-    },
     {
       "title": "Gold Rate Today: Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
       "source": "BusinessLine",
       "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rates Today Highlights: MCX gold price extends gains, crosses \u20b91.58 lakh/10 grams; Silver drops 2.11% - Mint",
-      "source": "Mint",
-      "score": 0.4404
     },
     {
       "title": "Explained! Gold smashes Rs 1.5 lakh mark for first time, ever: 6 reasons why it appears unstoppable - The Economic Times",
@@ -25,6 +15,11 @@
     },
     {
       "title": "Silver & gold price today: Gold nears Rs 1.5 lakh mark, silver surges - what\u2019s fueling the rally? - Times of India",
+      "source": "Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Mumbai & other cities - Check rates - Times of India",
       "source": "Times of India",
       "score": 0.0
     }
