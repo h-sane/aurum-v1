@@ -1,26 +1,31 @@
 {
-  "last_updated": "2026-01-23 18:17:43",
-  "sentiment_score": -0.01,
+  "last_updated": "2026-01-24 18:15:27",
+  "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today: Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold Today Rate, January 23: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Silver Price Today: MCX Gold Around \u20b91.54 Lakh per 10g After Dropping 0.8%, Silver Close to \u20b93.19 Lakh per kg After Easing 0.9% - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.25
+      "title": "Gold, silver prices today, January 24, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
+      "source": "DNA India",
+      "score": 0.0
     },
     {
-      "title": "Explained! Gold smashes Rs 1.5 lakh mark for first time, ever: 6 reasons why it appears unstoppable - The Economic Times",
-      "source": "The Economic Times",
-      "score": -0.2714
+      "title": "Gold price to hit $4,800 in 2026? What investors should do now - Mint",
+      "source": "Mint",
+      "score": 0.0
     },
     {
-      "title": "Silver & gold price today: Gold nears Rs 1.5 lakh mark, silver surges - what\u2019s fueling the rally? - Times of India",
-      "source": "Times of India",
+      "title": "Gold price in India: Rates on January 23 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "[Highlights] Gold and Silver Price Today, January 24: Gold price hits Rs 155963 Per 10g, Silver at Rs... - Check city-wise prices here - news24online.com",
+      "source": "news24online.com",
       "score": 0.0
     }
   ]
