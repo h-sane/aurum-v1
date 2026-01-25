@@ -1,17 +1,27 @@
 {
-  "last_updated": "2026-01-24 18:15:27",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-01-25 18:15:25",
+  "sentiment_score": 0.09,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Today Rate, January 23: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold price today: How much 22K, 24K gold cost in Delhi, Chennai & other cities \u2013 Check rates - Times of India",
+      "source": "Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, January 24, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
-      "source": "DNA India",
+      "title": "Today Gold, Silver Rate January 25: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
+      "source": "India.Com",
       "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices in India today (24 January 2026): Check latest city-wise rates - english.mathrubhumi.com",
+      "source": "english.mathrubhumi.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold & Silver Prices Today Surge After Strong Weekly Rally: Check Latest Rates in Mumbai, Delhi, Chennai, Kolkata & Bengaluru - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.5106
     },
     {
       "title": "Gold price to hit $4,800 in 2026? What investors should do now - Mint",
@@ -19,12 +29,7 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on January 23 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "[Highlights] Gold and Silver Price Today, January 24: Gold price hits Rs 155963 Per 10g, Silver at Rs... - Check city-wise prices here - news24online.com",
+      "title": "[LIVE] Gold and Silver Price Today, January 25: Gold holds at Rs 160260 per 10g, Silver steady across India - Check city-wise rates - news24online.com",
       "source": "news24online.com",
       "score": 0.0
     }
