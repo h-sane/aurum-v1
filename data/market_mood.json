@@ -1,26 +1,11 @@
 {
-  "last_updated": "2026-01-26 18:19:30",
-  "sentiment_score": -0.05,
+  "last_updated": "2026-01-27 18:22:01",
+  "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Silver Price Today (26 January 2026): MCX Gold at \u20b91.61 Lakh per 10g, Silver Near \u20b93.35 Lakh per kg | Check City-wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: Gold price cross $5,100 on Trump\u2019s tariff uncertainty, silver rate over $110 - Mint",
-      "source": "Mint",
-      "score": -0.34
-    },
-    {
-      "title": "Today Gold, Silver Rate January 25: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices in India today (24 January 2026): Check latest city-wise rates - english.mathrubhumi.com",
-      "source": "english.mathrubhumi.com",
+      "title": "Gold Today Rate, January 27: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
@@ -29,13 +14,33 @@
       "score": 0.0
     },
     {
-      "title": "Gold price to hit $4,800 in 2026? What investors should do now - Mint",
-      "source": "Mint",
+      "title": "Gold, silver reach record highs. Check gold and silver rates in your city - India Today",
+      "source": "India Today",
+      "score": 0.0258
+    },
+    {
+      "title": "Gold price in India: Rates on January 27 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Prices Hit Rs 1.6 Lakh For The First Time Ever: Reasons Behind This Historic Surge - NDTV",
-      "source": "NDTV",
+      "title": "Today Gold, Silver Rate January 27: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
+      "source": "India.Com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold and silver price today (Jan 27, 2026): Markets hold steady after record-breaking surge - english.mathrubhumi.com",
+      "source": "english.mathrubhumi.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today 27th January 2026: Gold is up by 1.61%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
+      "source": "The Financial Express",
+      "score": 0.0
+    },
+    {
+      "title": "[Highlights] Gold and Silver Price Today, January 25: Gold holds at Rs 160260 per 10g, Silver steady across India - Check city-wise rates - news24online.com",
+      "source": "news24online.com",
       "score": 0.0
     }
   ]
