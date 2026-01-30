@@ -1,41 +1,46 @@
 {
-  "last_updated": "2026-01-29 18:29:11",
-  "sentiment_score": -0.07,
+  "last_updated": "2026-01-30 18:25:43",
+  "sentiment_score": -0.06,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
+    {
+      "title": "Gold Rate Today: Gold Prices rise in Chennai only, declined in Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: Check how much 22K, 24K gold costs in your city - Delhi, Mumbai & more - Times of India",
+      "source": "Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Brutal selloff! Gold, silver prices crash in exceptionally volatile session - what\u2019s causing the sudden d - Times of India",
+      "source": "Times of India",
+      "score": -0.7959
+    },
     {
       "title": "When Will the Gold Price Decrease? - Equitymaster",
       "source": "Equitymaster",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today (29 January, 2026): MCX Gold Jumps to \u20b91.67 Lakh per 10g | Check City-Wise Rates in Delhi, Mumbai, Chennai, Kolkata & More - The Sunday Guardian",
-      "source": "The Sunday Guardian",
+      "title": "Gold, silver prices at record highs: Why India may increase duties on their imports - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.3182
+    },
+    {
+      "title": "Gold, Silver Rate Today LIVE: MCX silver price crashes 26%, gold rates down \u20b920,323 per 10 grams \u2014 What's behind fall? - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold price plunges 4% after rallying to record highs; silver drops 6% - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Today Rate, January 30: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
       "title": "Gold price on January 29: Zooms past $5,500 mark for the first time as Fed leaves rates unchanged - Moneycontrol",
       "source": "Moneycontrol",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices to remain elevated amid global uncertainties: Economic Survey - The Hindu",
-      "source": "The Hindu",
-      "score": -0.34
-    },
-    {
-      "title": "India's gold demand to fall in 2026 as jewellery slump offsets investment rise - Reuters",
-      "source": "Reuters",
-      "score": -0.128
-    },
-    {
-      "title": "Silver Breaches 4 Lakh Mark, Gold Jumps To Record Rs 1.75 Lakh Per 10 Grams - NDTV",
-      "source": "NDTV",
       "score": 0.0
     }
   ]
