@@ -1,22 +1,27 @@
 {
-  "last_updated": "2026-01-30 18:25:43",
-  "sentiment_score": -0.06,
+  "last_updated": "2026-01-31 18:17:00",
+  "sentiment_score": -0.11,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today: Gold Prices rise in Chennai only, declined in Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold Price Today, 31 Jan 2026: MCX Gold Falls to \u20b91.69 Lakh/10g | Check 24K, 22K Rate in Delhi, Mumbai, Chennai - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
-      "title": "Gold price today: Check how much 22K, 24K gold costs in your city - Delhi, Mumbai & more - Times of India",
+      "title": "Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall & is the bull - Times of India",
       "source": "Times of India",
-      "score": 0.0
+      "score": -0.6476
     },
     {
-      "title": "Brutal selloff! Gold, silver prices crash in exceptionally volatile session - what\u2019s causing the sudden d - Times of India",
-      "source": "Times of India",
-      "score": -0.7959
+      "title": "Missed The Gold Run? Budget May Hand You A Second Chance To Get In - NDTV",
+      "source": "NDTV",
+      "score": 0.4588
+    },
+    {
+      "title": "Gold, Silver Rate Today LIVE: Gold, silver price crash as US takes guard against China \u2014 How to trade on Budget day? - Mint",
+      "source": "Mint",
+      "score": -0.4019
     },
     {
       "title": "When Will the Gold Price Decrease? - Equitymaster",
@@ -24,18 +29,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices at record highs: Why India may increase duties on their imports - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.3182
+      "title": "Gold Prices Drop Rs 8,620 per 10 Grams in India, Silver decreased by Rs 45,000/1kg - KalingaTV",
+      "source": "KalingaTV",
+      "score": -0.2732
     },
     {
-      "title": "Gold, Silver Rate Today LIVE: MCX silver price crashes 26%, gold rates down \u20b920,323 per 10 grams \u2014 What's behind fall? - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Today Rate, January 30: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold & Budget 2026: What FM Sitharaman may \u2014 and may not \u2014 announce on Sunday - The Financial Express",
+      "source": "The Financial Express",
       "score": 0.0
     },
     {
