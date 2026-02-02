@@ -1,46 +1,41 @@
 {
-  "last_updated": "2026-02-01 18:18:32",
-  "sentiment_score": -0.12,
+  "last_updated": "2026-02-02 18:27:24",
+  "sentiment_score": -0.06,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold, Silver Today Rate, 1 February 2026 Live Updates: Gold rate falls 3%, silver prices crash 9% after Budget presentation - The Indian Express",
+      "title": "Gold Today Rate, February 2: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
-      "score": -0.4019
-    },
-    {
-      "title": "Gold, silver rate today highlights: Gold suffers biggest slide in four decades | India News - Hindustan Times",
-      "source": "Hindustan Times",
-      "score": -0.4767
-    },
-    {
-      "title": "Gold, Silver Slide 9% After Global Overnight Sell-Off Ahead Of Union Budget 2026 - NDTV",
-      "source": "NDTV",
       "score": 0.0
     },
     {
-      "title": "Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall & is the bull - Times of India",
-      "source": "Times of India",
-      "score": -0.6476
-    },
-    {
-      "title": "Gold Price Today, 31 Jan 2026: MCX Gold Falls to \u20b91.69 Lakh/10g | Check 24K, 22K Rate in Delhi, Mumbai, Chennai - The Sunday Guardian",
+      "title": "Gold Price Today [02 February, 2026]: MCX Gold Holds Near \u20b91.60 Lakh per 10g | Check City-Wise Gold Rates in Delhi, Mumbai, Chennai, Kolkata & More - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
-      "title": "Why has gold price fallen 5% and will it continue to dip now or make a comeback? Gold price dream run ends - The Economic Times",
-      "source": "The Economic Times",
-      "score": -0.128
+      "title": "Gold, Silver Today Rate, 2 February 2026 Live Updates: Gold rate falls 3%, silver prices crash 6% after Budget presentation - The Indian Express",
+      "source": "The Indian Express",
+      "score": -0.4019
     },
     {
-      "title": "Gold price slips ahead of Union Budget 2026; sellers book profit under stronger dollar - DNA India",
-      "source": "DNA India",
-      "score": 0.6705
+      "title": "MCX Gold, Silver Rate Today highlights: Check today\u2019s rates in Delhi, Mumbai and Bengaluru before you buy or sell | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "score": 0.0
     },
     {
-      "title": "Gold price remain same for 24 carat and 22 carat in India - KalingaTV",
-      "source": "KalingaTV",
+      "title": "Gold price in India: Rates on February 2 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold prices today in India: Check 22 karat, 24 karat and 18 karat rates in Delhi, Mumbai, Bengaluru, other cities - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Silver Rate Today, February 2, 2026: City-Wise Prices And MCX Rates In India Hold Steady After Budget - Oneindia",
+      "source": "Oneindia",
       "score": 0.0
     }
   ]
