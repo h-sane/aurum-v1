@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-02-04 18:32:58",
+  "last_updated": "2026-02-05 18:34:24",
   "sentiment_score": 0.02,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Today Rate, February 4: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Today Rate, February 5: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Silver, gold rates today: Why prices are rising after recent crash - India Today",
-      "source": "India Today",
-      "score": -0.4019
+      "title": "Gold, Silver Prices Today Live Updates: Silver, gold futures tumble 10%; investors cautious amid strong dollar, Fed jitters - Times of India",
+      "source": "Times of India",
+      "score": 0.4404
     },
     {
-      "title": "Why is gold price down by over 9% and will it go below $4,403 or make a comeback? Gold fall explained. Her - The Economic Times",
+      "title": "Gold price in India: Rates on February 5 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Down To Rs 1.5 Lakh, Silver Loses Rs 16,000: Check Prices In Your City Today - NDTV",
+      "source": "NDTV",
+      "score": -0.3182
+    },
+    {
+      "title": "Gold Silver Rate Today Updates: Gold slips under $4,900/oz on COMEX, silver tumbles 8%; MCX rates in focus - Moneycontrol",
+      "source": "Moneycontrol",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rates today after Budget 2026: 22K yellow metal prices fall across Tanishq, Malabar Gold & Joyalukkas - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold rates in Delhi today, check the rates on 03 Feb, 2026 - The Hans India",
-      "source": "The Hans India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate crashes over \u20b947,000, silver price plunges by \u20b91.94 lakh from peak on MCX: Why experts still say \u2018buy\u2019 - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, February 2, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
+      "title": "Gold, silver prices today, February 5, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
       "source": "DNA India",
       "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Prices Today Live Updates: Precious metals soar again, gold jumps to $5,070.30, silver up 4.8% - The Times of India",
-      "source": "The Times of India",
-      "score": 0.5719
     }
   ]
 }
