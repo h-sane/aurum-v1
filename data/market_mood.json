@@ -1,26 +1,31 @@
 {
-  "last_updated": "2026-02-07 18:18:56",
+  "last_updated": "2026-02-08 18:20:09",
   "sentiment_score": -0.04,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold, silver rates today: Gold, silver prices in India drop by up to 40% from record high. Is it right time to buy? - Mint",
+      "source": "Mint",
+      "score": -0.2732
+    },
+    {
+      "title": "Gold rate today; Check latest rates on Tanishq, Kalyan Jewellers, Malabar Gold and Diamonds, Joyalukkas an - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "[Highlights] Gold and Silver Price Today, February 7: Gold rises again while silver slips, 24K gold selling for Rs..., silver at Rs 249000; check rates in Delhi, Mumbai, Hyderabad, Bengaluru, Kolkata - news24online.com",
+      "source": "news24online.com",
+      "score": 0.0
+    },
     {
       "title": "Gold price today: How much 22K, 24K gold costs in your city today? Check rates for Mumbai, Bengaluru & mo - Times of India",
       "source": "Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold, silver rate today LIVE updates: Metals set for weekly losses on tech selloff and stronger dollar | India News - Hindustan Times",
-      "source": "Hindustan Times",
-      "score": -0.0258
-    },
-    {
-      "title": "Gold Price Today [7 Feb 2026]: MCX Gold Dips to \u20b91.53 Lakh/10g | City-Wise 24K, 22K Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Prices Fluctuate Sharply in India on February 7, 2023 - India News Network",
-      "source": "India News Network",
+      "title": "Gold Silver Rate Today, February 8, 2026: Check City-Wise Latest Gold And Silver Prices After Recent Jump - Oneindia",
+      "source": "Oneindia",
       "score": 0.0
     },
     {
@@ -29,19 +34,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Today, February 7 Live: Gold prices rise again, silver continues to trade lower at..., Check price - India.Com",
-      "source": "India.Com",
-      "score": -0.296
-    },
-    {
-      "title": "Gold price climbs \u20b910 to \u20b91,56,600; silver rises \u20b9100, trades at \u20b92,85,000 - Business Standard",
-      "source": "Business Standard",
+      "title": "Gold and silver prices remain unchanged in India on Feb 8, 2026 - KalingaTV",
+      "source": "KalingaTV",
       "score": 0.0
     },
     {
-      "title": "Gold rate today; Check latest rates on Tanishq, Kalyan Jewellers, Malabar Gold and Diamonds, Joyalukkas an - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
+      "title": "Gold, silver rate today LIVE updates: Metals set for weekly losses on tech selloff and stronger dollar | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "score": -0.0258
     }
   ]
 }
