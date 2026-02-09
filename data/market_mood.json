@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-08 18:20:09",
-  "sentiment_score": -0.04,
+  "last_updated": "2026-02-09 18:41:01",
+  "sentiment_score": 0.03,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
@@ -9,39 +9,34 @@
       "score": -0.2732
     },
     {
-      "title": "Gold rate today; Check latest rates on Tanishq, Kalyan Jewellers, Malabar Gold and Diamonds, Joyalukkas an - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold, Silver Rates Today LIVE: MCX gold prices above \u20b91.57 lakh, silver rate up 3% \u2014 Gold-silver ratio dips to 62 - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "[Highlights] Gold and Silver Price Today, February 7: Gold rises again while silver slips, 24K gold selling for Rs..., silver at Rs 249000; check rates in Delhi, Mumbai, Hyderabad, Bengaluru, Kolkata - news24online.com",
-      "source": "news24online.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price today: How much 22K, 24K gold costs in your city today? Check rates for Mumbai, Bengaluru & mo - Times of India",
-      "source": "Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Silver Rate Today, February 8, 2026: Check City-Wise Latest Gold And Silver Prices After Recent Jump - Oneindia",
-      "source": "Oneindia",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, February 5: Gold Price fall further; Check rates in Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi - BusinessLine",
+      "title": "Gold rate today Feb 9 : Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
       "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "Gold and silver prices remain unchanged in India on Feb 8, 2026 - KalingaTV",
-      "source": "KalingaTV",
+      "title": "Silver, Gold Futures Rally As Global Rebound, Weak Dollar Lift Metals - NDTV",
+      "source": "NDTV",
+      "score": -0.4404
+    },
+    {
+      "title": "Gold price in India: Rates on February 9 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold, silver rate today LIVE updates: Metals set for weekly losses on tech selloff and stronger dollar | India News - Hindustan Times",
-      "source": "Hindustan Times",
-      "score": -0.0258
+      "title": "Gold price increased in India today, check latest rates in top cities - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold Silver Rate Today, February 9, 2026: Know City-Wise Prices as MCX Futures Signal Strong Momentum - Oneindia",
+      "source": "Oneindia",
+      "score": 0.5106
     }
   ]
 }
