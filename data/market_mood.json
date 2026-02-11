@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-10 18:50:28",
+  "last_updated": "2026-02-11 18:46:12",
   "sentiment_score": -0.04,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold price today: How much 18K, 22K and 24K gold costs in Delhi, Mumbai & more - Check rates for your cit - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold price today: How much 18K, 22K and 24K gold costs in Delhi, Mumbai & more - Check rates for your cit - Times of India",
+      "source": "Times of India",
       "score": 0.0
     },
     {
-      "title": "MCX Gold, Silver Rate Today highlights: Gold prices fall in Delhi; Check latest rates for 24K, 22K and 18K gold | India News - Hindustan Times",
-      "source": "Hindustan Times",
+      "title": "Gold Price Today [11 February, 2026]: MCX Gold Holds Steady Around \u20b91.58 Lakh/10g; Check City-Wise Rates 24K, 22K, 18K in Delhi, Mumbai, Chennai, Kolkata, Hyderabad & More - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
@@ -19,23 +19,23 @@
       "score": 0.0
     },
     {
-      "title": "Gold rate today Feb 9 : Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
       "title": "Gold, silver rates today: Gold, silver prices in India drop by up to 40% from record high. Is it right time to buy? - Mint",
       "source": "Mint",
       "score": -0.2732
     },
     {
-      "title": "Gold price in India: Rates on February 10 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold Price decreased by Rs 270 for 24 carats in India, check updated rates here - Kalinga TV",
+      "source": "Kalinga TV",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, February 8, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
-      "source": "DNA India",
+      "title": "Gold Rate Today 10th February 2026: Gold is down by 0.18%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
+      "source": "The Financial Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today Feb 9 : Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     }
   ]
