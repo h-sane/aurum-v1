@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-02-12 18:44:43",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-02-13 18:30:46",
+  "sentiment_score": 0.07,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Today Rate, February 12: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold price today: How much 18K, 22K and 24K gold costs in your city? Check rates for Bengaluru, Delhi & m - Times of India",
+      "source": "Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold rate crashes 18% from record high on MCX. Can it fall more? Is it the right time to buy? - Mint",
+      "title": "Gold and silver rate today LIVE: MCX gold gains 1.75%, silver gains over \u20b98000 \u2014 US CPI data in focus - Mint",
       "source": "Mint",
-      "score": 0.0
+      "score": 0.5859
     },
     {
-      "title": "Gold and Silver Price Today in India (Feb 12, 2026): 24K Gold Above \u20b91.60 Lakh; Silver Near \u20b92.90 Lakh/kg - newsd.in",
-      "source": "newsd.in",
-      "score": 0.0
+      "title": "Gold price decreased in India on February 13, Silver slashed by Rs 15,000 - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": -0.2263
     },
     {
       "title": "Gold, Silver Prices Today Live Updates: Gold, silver rates volatile in trade; here's what market experts are saying - Times of India",
