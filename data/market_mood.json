@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13 18:30:46",
-  "sentiment_score": 0.07,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-02-14 18:18:10",
+  "sentiment_score": -0.05,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
       "title": "Gold price today: How much 18K, 22K and 24K gold costs in your city? Check rates for Bengaluru, Delhi & m - Times of India",
@@ -9,23 +9,28 @@
       "score": 0.0
     },
     {
-      "title": "Gold and silver rate today LIVE: MCX gold gains 1.75%, silver gains over \u20b98000 \u2014 US CPI data in focus - Mint",
-      "source": "Mint",
-      "score": 0.5859
-    },
-    {
-      "title": "Gold price decreased in India on February 13, Silver slashed by Rs 15,000 - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": -0.2263
-    },
-    {
-      "title": "Gold, Silver Prices Today Live Updates: Gold, silver rates volatile in trade; here's what market experts are saying - Times of India",
-      "source": "Times of India",
+      "title": "Gold Price Today [14 Feb 2026]: MCX Gold Crashes \u20b92,600 to \u20b91.55 Lakh/10g | City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on February 11 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold and silver rate today LIVE: Silver, gold prices rebound as US Dollar weakens after better-than-expected US CPI data - Mint",
+      "source": "Mint",
+      "score": -0.3182
+    },
+    {
+      "title": "Gold price continues to fluctuate in India on February 14 - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Silver Rate Today, 14 February, 2026: Check City-Wise Gold, Silver Prices And MCX Rate On Valentine\u2019s Day - Oneindia",
+      "source": "Oneindia",
+      "score": 0.0
+    },
+    {
+      "title": "[LIVE] Gold Price Today, February 14: Rise in rates, 24K gold now selling at Rs...; Check latest prices in Delhi, Noida, Mumbai, Pune, Kolkata, Chennai, Bengaluru, Patna - news24online.com",
+      "source": "news24online.com",
       "score": 0.0
     }
   ]
