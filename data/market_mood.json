@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-15 18:19:34",
-  "sentiment_score": -0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-02-16 18:27:44",
+  "sentiment_score": -0.19,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
       "title": "Gold rate in India may crash below \u20b91 lakh, COMEX gold price to touch $3,000/oz after this reported Russian move - Mint",
@@ -9,38 +9,33 @@
       "score": -0.4019
     },
     {
-      "title": "Gold and silver prices remain constant in major cities of India - Kalinga TV",
-      "source": "Kalinga TV",
+      "title": "Gold rate today 16 February 2026: 24K price holds steady while silver crash in India - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": -0.4019
+    },
+    {
+      "title": "Gold, Silver Rates Today Live Updates: Gold futures slip, silver sees recovery from day's low. What's ahead? - The Economic Times",
+      "source": "The Economic Times",
+      "score": -0.2732
+    },
+    {
+      "title": "Gold, Silver Rates Today LIVE: Gold, silver ETFs fall up to 7% amid drop in bullion prices - Mint",
+      "source": "Mint",
+      "score": -0.2732
+    },
+    {
+      "title": "Gold Prices In Red Today (Feb 16), Check 22K & 24K Rates Per Gram In Major Cities - ABP Live English",
+      "source": "ABP Live English",
       "score": 0.0
     },
     {
-      "title": "Gold Price February 13: Check 18, 22, 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata, and other citi - India.Com",
+      "title": "How Much Will 24-Carat Gold Cost You Today In India? Check Rates In Your City - NDTV",
+      "source": "NDTV",
+      "score": 0.0
+    },
+    {
+      "title": "Today Gold, Silver Rate February 16: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
       "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Compared: price of gold in India and abroad - Cond\u00e9 Nast Traveller India",
-      "source": "Cond\u00e9 Nast Traveller India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on February 13 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Silver Rate Today, February 15, 2026: Check City-Wise Gold, Silver Prices And MCX Futures Update - Oneindia",
-      "source": "Oneindia",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Volatility: Titan Sees Buying Opportunities - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "score": 0.3818
-    },
-    {
-      "title": "Gold, silver prices today, February 14, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
-      "source": "DNA India",
       "score": 0.0
     }
   ]
