@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-02-16 18:27:44",
-  "sentiment_score": -0.19,
+  "last_updated": "2026-02-17 18:40:53",
+  "sentiment_score": -0.17,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold rate in India may crash below \u20b91 lakh, COMEX gold price to touch $3,000/oz after this reported Russian move - Mint",
+      "title": "Gold Rate Today Highlights: Gold price rebounds above Rs 1.5 lakh on MCX \u2013 Is the worst over for the yellow metal? - The Financial Express",
+      "source": "The Financial Express",
+      "score": -0.6249
+    },
+    {
+      "title": "India gold market update: Price strength fuels demand | Post by Kavita Chacko | Gold Focus blog - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.4019
+    },
+    {
+      "title": "Gold, silver prices crash up to 4%: What is driving this selloff? Should you buy? - Mint",
       "source": "Mint",
-      "score": -0.4019
+      "score": -0.4696
     },
     {
-      "title": "Gold rate today 16 February 2026: 24K price holds steady while silver crash in India - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": -0.4019
-    },
-    {
-      "title": "Gold, Silver Rates Today Live Updates: Gold futures slip, silver sees recovery from day's low. What's ahead? - The Economic Times",
-      "source": "The Economic Times",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold, Silver Rates Today LIVE: Gold, silver ETFs fall up to 7% amid drop in bullion prices - Mint",
-      "source": "Mint",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold Prices In Red Today (Feb 16), Check 22K & 24K Rates Per Gram In Major Cities - ABP Live English",
-      "source": "ABP Live English",
+      "title": "Gold Price Today [17 Feb 2026]: MCX Gold Drops to \u20b91.56 Lakh/10g | City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
-      "title": "How Much Will 24-Carat Gold Cost You Today In India? Check Rates In Your City - NDTV",
-      "source": "NDTV",
+      "title": "Gold price drops in India on February 17, 2026, Check latest rates here - Kalinga TV",
+      "source": "Kalinga TV",
       "score": 0.0
     },
     {
-      "title": "Today Gold, Silver Rate February 16: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
-      "source": "India.Com",
+      "title": "Gold Rate Today (February 16, 2026): Yellow Metal Dips; Check Prices Of 24K, 22K & 18K In Delhi, Mumbai, Chenn - Times Now",
+      "source": "Times Now",
       "score": 0.0
+    },
+    {
+      "title": "Silver, gold prices decline up to 2 pc on muted demand, weak global cues - MSN",
+      "source": "MSN",
+      "score": -0.5267
     }
   ]
 }
