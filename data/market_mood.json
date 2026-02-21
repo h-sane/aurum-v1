@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-20 18:30:34",
-  "sentiment_score": -0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-02-21 18:18:29",
+  "sentiment_score": 0.06,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
       "title": "Gold price today: How much 22K, 24K gold costs in Delhi, Mumbai & other cities \u2013 check rates - The Times of India",
@@ -9,28 +9,28 @@
       "score": 0.0
     },
     {
-      "title": "India gold market update: Price strength fuels demand | Post by Kavita Chacko | Gold Focus blog - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.4019
+      "title": "Gold Rate Today, February 21: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
     },
     {
-      "title": "Gold Silver Rate Today, February 20, 2026: City-Wise MCX Trends With Nationwide Price Alignment - Oneindia",
+      "title": "Gold Price Today [19 Feb 2026]: MCX Gold Steady at \u20b91.54 Lakh/10g | City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Silver Rate Today, February 21, 2026: City-Wise Prices With MCX Trends As Gold Gains Third Session - Oneindia",
       "source": "Oneindia",
-      "score": 0.0
+      "score": 0.34
     },
     {
-      "title": "Gold Price decreased by Rs 320 for 24 carats in India, check updated rates here - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today Highlights: Gold price rebounds above Rs 1.5 lakh on MCX \u2013 Is the worst over for the yellow metal? - The Financial Express",
-      "source": "The Financial Express",
-      "score": -0.6249
-    },
-    {
-      "title": "Gold, silver prices in India today (20 February 2026): Check latest city-wise rates - Mathrubhumi English",
+      "title": "Gold prices spike across India on Feb 21- Check latest 24K, 22K, 18K rates in your city - Mathrubhumi English",
       "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: How much 22K, 24K gold costs in Delhi, Mumbai & other cities \u2013 check rates - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     }
   ]
