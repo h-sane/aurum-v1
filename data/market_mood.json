@@ -1,36 +1,41 @@
 {
-  "last_updated": "2026-02-21 18:18:29",
-  "sentiment_score": 0.06,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-02-22 18:19:26",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
-    {
-      "title": "Gold price today: How much 22K, 24K gold costs in Delhi, Mumbai & other cities \u2013 check rates - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
     {
       "title": "Gold Rate Today, February 21: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today [19 Feb 2026]: MCX Gold Steady at \u20b91.54 Lakh/10g | City-Wise Rates - The Sunday Guardian",
+      "title": "Gold Price Today [22 Feb 2026]: MCX Gold Surges to \u20b91.59 Lakh/10g | City-Wise Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Silver Rate Today, February 21, 2026: City-Wise Prices With MCX Trends As Gold Gains Third Session - Oneindia",
-      "source": "Oneindia",
-      "score": 0.34
-    },
-    {
-      "title": "Gold prices spike across India on Feb 21- Check latest 24K, 22K, 18K rates in your city - Mathrubhumi English",
-      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
       "title": "Gold price today: How much 22K, 24K gold costs in Delhi, Mumbai & other cities \u2013 check rates - The Times of India",
       "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today surged 2.65% on Comex, is now the time to invest? - Moneycontrol",
+      "source": "Moneycontrol",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today (Feb 22, 2026): Updated IBJA With 22K Gold Prices At Joyalukkas, Tanishq, Malabar And Kalyan - Oneindia",
+      "source": "Oneindia",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today [20 Feb 2026]: MCX Gold Jumps to \u20b91.56 Lakh/10g | City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Today Rate, February 20: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     }
   ]
