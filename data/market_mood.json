@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-02-22 18:19:26",
-  "sentiment_score": 0.0,
+  "last_updated": "2026-02-23 18:45:49",
+  "sentiment_score": 0.05,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Why are gold prices rising? Finance minister Nirmala Sitharaman explains - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today [23 Feb 2026]: MCX Gold Holds Near \u20b91.59 Lakh/10g After Rally | City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.0
+    },
     {
       "title": "Gold Rate Today, February 21: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today [22 Feb 2026]: MCX Gold Surges to \u20b91.59 Lakh/10g | City-Wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price today: How much 22K, 24K gold costs in Delhi, Mumbai & other cities \u2013 check rates - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price today surged 2.65% on Comex, is now the time to invest? - Moneycontrol",
-      "source": "Moneycontrol",
+      "title": "Gold price in India: Rates on February 23 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -29,14 +29,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Today [20 Feb 2026]: MCX Gold Jumps to \u20b91.56 Lakh/10g | City-Wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
+      "title": "Gold Rate Today 23rd February 2026: Gold is up by 1.75%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
+      "source": "The Financial Express",
       "score": 0.0
     },
     {
-      "title": "Gold Today Rate, February 20: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices resume uptrend on safe haven demand - The Times of India",
+      "source": "The Times of India",
+      "score": 0.34
     }
   ]
 }
