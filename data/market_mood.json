@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24 18:43:59",
-  "sentiment_score": 0.04,
+  "last_updated": "2026-02-25 18:48:46",
+  "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
@@ -9,9 +9,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold and silver prices in India today: 24K, 22K, 18K rates rise; silver extends gains - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.4404
+      "title": "Gold Rate Today in India Rises; Check Latest 22K, 24K & 18K Gold Prices on 25 February 2026 - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.0
+    },
+    {
+      "title": "Today Gold, Silver Rate February 25: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
+      "source": "India.Com",
+      "score": 0.0
     },
     {
       "title": "Why are gold prices rising? Finance minister Nirmala Sitharaman explains - The Times of India",
@@ -19,14 +24,9 @@
       "score": 0.0
     },
     {
-      "title": "India gold market update: Enduring demand strength | Post by Kavita Chacko | Gold Focus blog - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.4019
-    },
-    {
-      "title": "Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall & is the bull - The Times of India",
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices down after seeing biggest rise in 3 weeks - The Times of India",
       "source": "The Times of India",
-      "score": -0.6476
+      "score": 0.0
     }
   ]
 }
