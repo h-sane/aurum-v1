@@ -1,46 +1,41 @@
 {
-  "last_updated": "2026-02-26 18:36:55",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-02-27 18:25:38",
+  "sentiment_score": 0.13,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Today Rate, February 26: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Price Today [27 Feb 2026]: MCX Gold Eases to \u20b91.61 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.3182
+    },
+    {
+      "title": "The cheapest countries to buy gold, ranked - Cond\u00e9 Nast Traveller India",
+      "source": "Cond\u00e9 Nast Traveller India",
       "score": 0.0
     },
     {
-      "title": "Today Gold, Silver Rate February 26: Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, Delhi, Kolkata - India.Com",
-      "source": "India.Com",
+      "title": "Gold price in India: Rates on February 27 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today (Feb 26) \u2013 Live Updates: MCX gold holds near Rs 1.59 lakh; silver down nearly 4% - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
+      "title": "Gold, Silver Price Today, Feb 27: Check Prices In Mumbai, Delhi, Chennai, And Other Cities - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
     },
     {
-      "title": "Gold Rate Today Highlights: MCX gold price drops below \u20b91.61 lakh per 10 gm, MCX silver rate falls by \u20b95,000 per kg - Mint",
+      "title": "Gold Prices Shine Bright (Feb 27), Check 22K & 24K Rates Per Gram In Major Cities - ABP Live English",
+      "source": "ABP Live English",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold rate rises on MCX as US-Iran talks end without a deal; experts highlight key levels to watch - Mint",
       "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in India Rises; Check Latest 22K, 24K & 18K Gold Prices on 25 February 2026 - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.0
+      "score": -0.2584
     },
     {
       "title": "Gold Price Today [25 February, 2026]: MCX Gold Hits New February High at \u20b91.62 Lakh/10g; Check City-Wise Rates 24K, 22K, 18K in Delhi, Mumbai, Chennai, Kolkata & More - The Sunday Guardian",
       "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Today Rate, February 24: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver rates today highlights: Gold price in Delhi stands at \u20b91,62,070 for 24-carat, check MCX prices | India News - Hindustan Times",
-      "source": "Hindustan Times",
       "score": 0.0
     }
   ]
