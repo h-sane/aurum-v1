@@ -1,32 +1,42 @@
 {
-  "last_updated": "2026-02-28 18:16:45",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-03-01 18:17:35",
+  "sentiment_score": -0.13,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Today Rate, February 26: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "The cheapest countries to buy gold, ranked - Cond\u00e9 Nast Traveller India",
+      "source": "Cond\u00e9 Nast Traveller India",
       "score": 0.0
     },
     {
-      "title": "Silver rate today: Can silver price in India touch \u20b93 lakh as Israel attacks Iran today - Mint",
+      "title": "US-Iran war: Experts see COMEX silver at $100/oz, can gold rate in India hit \u20b92 lakh per 10 grams? - Mint",
       "source": "Mint",
-      "score": -0.4404
+      "score": -0.5994
     },
     {
-      "title": "Why Gold Rates Are Dropping in India - Analytics Insight",
-      "source": "Analytics Insight",
+      "title": "Gold Price Today: Gold Surges Past $5,300 Amid US-Iran Strikes; Domestic Prices Jump \u20b93,160 to \u20b91.64 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.3612
+    },
+    {
+      "title": "Gold, silver prices today, March 1, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
+      "source": "DNA India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Silver Rate 1 March, 2026: City-Wise Price, MCX Rally After US-Israel Strikes On Iran Push Bullion Higher - Oneindia",
+      "source": "Oneindia",
+      "score": -0.3612
+    },
+    {
+      "title": "Gold Price Today [28 Feb 2026]: MCX Gold Ends February at \u20b91.61 Lakh/10g | City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
       "title": "Gold price increased in India today, check latest rates in top cities - KalingaTV",
       "source": "KalingaTV",
       "score": 0.4404
-    },
-    {
-      "title": "Gold price today: Check rates of 18K, 22K, 24K gold in your city; Delhi, Bangalore and more - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
     }
   ]
 }
