@@ -1,42 +1,37 @@
 {
-  "last_updated": "2026-03-01 18:17:35",
-  "sentiment_score": -0.13,
+  "last_updated": "2026-03-02 18:30:28",
+  "sentiment_score": -0.19,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "The cheapest countries to buy gold, ranked - Cond\u00e9 Nast Traveller India",
-      "source": "Cond\u00e9 Nast Traveller India",
+      "title": "Gold rate, MCX silver today highlights: 24-k gold rate in Delhi at \u20b91,73,370 per 10 gm | India News - Hindustan Times",
+      "source": "Hindustan Times",
       "score": 0.0
     },
     {
-      "title": "US-Iran war: Experts see COMEX silver at $100/oz, can gold rate in India hit \u20b92 lakh per 10 grams? - Mint",
-      "source": "Mint",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold Price Today: Gold Surges Past $5,300 Amid US-Iran Strikes; Domestic Prices Jump \u20b93,160 to \u20b91.64 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
+      "title": "Gold Price Today [2 March, 2026]: Gold Surges to \u20b91.73 Lakh/10g Amid Iran Conflict; International Spot Jumps to $5,377 | Check City-Wise Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
-      "score": -0.3612
+      "score": -0.3182
     },
     {
-      "title": "Gold, silver prices today, March 1, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
-      "source": "DNA India",
+      "title": "Gold price today: How much 24K, 22K gold costs in Delhi, Bangalore & more - check rates - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Silver Rate 1 March, 2026: City-Wise Price, MCX Rally After US-Israel Strikes On Iran Push Bullion Higher - Oneindia",
+      "title": "Gold rate today March 2 : Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
+    },
+    {
+      "title": "Gold and silver prices see sharp rise amid Iran-Israel War: Should you book profit or stay invested? - The Economic Times",
+      "source": "The Economic Times",
+      "score": -0.25
+    },
+    {
+      "title": "Gold Silver Rate Today, 2 March, 2026: City-Wise Price As Middle East War Drives MCX Safe-Haven Rally - Oneindia",
       "source": "Oneindia",
-      "score": -0.3612
-    },
-    {
-      "title": "Gold Price Today [28 Feb 2026]: MCX Gold Ends February at \u20b91.61 Lakh/10g | City-Wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price increased in India today, check latest rates in top cities - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.4404
+      "score": -0.5994
     }
   ]
 }
