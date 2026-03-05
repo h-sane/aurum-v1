@@ -1,37 +1,47 @@
 {
-  "last_updated": "2026-03-04 18:31:43",
-  "sentiment_score": -0.22,
+  "last_updated": "2026-03-05 19:05:30",
+  "sentiment_score": -0.17,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold rate today March 2 : Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold Price Today [5 March, 2026]: Gold Retreats to $5,135 After Record Highs Amid Middle East Tension; Domestic Rates Drop to \u20b91.64 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.5267
+    },
+    {
+      "title": "Gold, silver prices today highlights: 24-k gold priced at \u20b916,168 per gram, down by \u20b921 | India News - Hindustan Times",
+      "source": "Hindustan Times",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today, March 4: Mideast Tensions Drive Haven Surge - Meyka",
+      "title": "Billionaire Sitting On 16,000 Kilos of Gold Says Price Will Rise - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Prices Today, March 5: Haven Bid Lifts India Rates to Rs 1.62 lakh - Meyka",
       "source": "Meyka",
-      "score": -0.4019
+      "score": 0.0
     },
     {
-      "title": "Compiled data indicates gold prices in India increased, with figures revealing a rise during midweek trading - VT Markets",
-      "source": "VT Markets",
-      "score": 0.2732
+      "title": "Gold Rate in India Today: 24K Prices drop by Rs 980, Silver rate stable - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.0258
     },
     {
-      "title": "Gold Silver Rate Today, 4 March, 2026: City-Wise Prices Drop Across India On Holi As MCX Gold, Silver Correct - Oneindia",
-      "source": "Oneindia",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold Price Today [2 March, 2026]: Gold Surges to \u20b91.73 Lakh/10g Amid Iran Conflict; International Spot Jumps to $5,377 | Check City-Wise Rates - The Sunday Guardian",
+      "title": "Gold Price Today [3 March, 2026]: Gold Hits Record High of $5,417 on Middle East Conflict; Domestic Rates Near \u20b91.71 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "score": -0.3182
     },
     {
-      "title": "Gold rate today: Can US-Iran war fuel the gold price in India to a new peak? - Mint",
-      "source": "Mint",
-      "score": -0.5994
+      "title": "Gold Today Rate, March 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today [4 March, 2026]: Gold Retreats to $5,118 After Record Highs Amid Middle East Tension; Domestic Rates Drop to \u20b91.67 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.5267
     }
   ]
 }
