@@ -1,47 +1,27 @@
 {
-  "last_updated": "2026-03-05 19:05:30",
-  "sentiment_score": -0.17,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-03-06 18:28:48",
+  "sentiment_score": 0.29,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Price Today [5 March, 2026]: Gold Retreats to $5,135 After Record Highs Amid Middle East Tension; Domestic Rates Drop to \u20b91.64 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
+      "title": "Gold Price Today [6 March 2026]: Drops to \u20b91.62 Lakh/10g on Strong Dollar | City-Wise Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
-      "score": -0.5267
+      "score": 0.5106
     },
     {
-      "title": "Gold, silver prices today highlights: 24-k gold priced at \u20b916,168 per gram, down by \u20b921 | India News - Hindustan Times",
-      "source": "Hindustan Times",
-      "score": 0.0
+      "title": "Gold price decreased in India on March 06, Silver rates remain stable - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.296
     },
     {
-      "title": "Billionaire Sitting On 16,000 Kilos of Gold Says Price Will Rise - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "score": 0.0
+      "title": "Gold price ALERT! Indian man, sitting on 16000 kg of gold says prices may rise due to\u2026., name is\u2026 - news24online.com",
+      "source": "news24online.com",
+      "score": 0.4981
     },
     {
-      "title": "Gold Prices Today, March 5: Haven Bid Lifts India Rates to Rs 1.62 lakh - Meyka",
-      "source": "Meyka",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate in India Today: 24K Prices drop by Rs 980, Silver rate stable - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.0258
-    },
-    {
-      "title": "Gold Price Today [3 March, 2026]: Gold Hits Record High of $5,417 on Middle East Conflict; Domestic Rates Near \u20b91.71 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.3182
-    },
-    {
-      "title": "Gold Today Rate, March 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Today [4 March, 2026]: Gold Retreats to $5,118 After Record Highs Amid Middle East Tension; Domestic Rates Drop to \u20b91.67 Lakh/10g | Check City-Wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.5267
+      "title": "Gold, Silver Rate Today Highlights: Gold, silver rise on continued Middle East crisis; investors run to safe haven assets - The Times of India",
+      "source": "The Times of India",
+      "score": -0.128
     }
   ]
 }
