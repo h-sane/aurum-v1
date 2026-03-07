@@ -1,27 +1,42 @@
 {
-  "last_updated": "2026-03-06 18:28:48",
-  "sentiment_score": 0.29,
+  "last_updated": "2026-03-07 18:17:32",
+  "sentiment_score": 0.17,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
+    {
+      "title": "Gold price today: How much 24K, 22K gold costs in Delhi, Chennai & more - check rates - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today [7 March 2026]: Gold Rebounds to \u20b91.61 Lakh/10g | City-Wise 24K, 22K, 18K Rates - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today, March 7: Rates dip for 5th day as 24K gold settles at Rs 1.61 lakh - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price increased by Rs 2,510 on March 7, 2026; Silver price remain flat - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.2732
+    },
+    {
+      "title": "Gold price today: How much 24K, 22K gold costs in Delhi, Bangalore & more - check rates - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
     {
       "title": "Gold Price Today [6 March 2026]: Drops to \u20b91.62 Lakh/10g on Strong Dollar | City-Wise Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "score": 0.5106
     },
     {
-      "title": "Gold price decreased in India on March 06, Silver rates remain stable - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.296
-    },
-    {
-      "title": "Gold price ALERT! Indian man, sitting on 16000 kg of gold says prices may rise due to\u2026., name is\u2026 - news24online.com",
-      "source": "news24online.com",
-      "score": 0.4981
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: Gold, silver rise on continued Middle East crisis; investors run to safe haven assets - The Times of India",
-      "source": "The Times of India",
-      "score": -0.128
+      "title": "India gold market update: Enduring demand strength - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.4019
     }
   ]
 }
