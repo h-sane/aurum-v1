@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-03-07 18:17:32",
-  "sentiment_score": 0.17,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-03-08 18:17:44",
+  "sentiment_score": -0.03,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold Price Today [8 March, 2026]: Gold Jumps to \u20b91.63 Lakh/10g on Safe-Haven Demand Amid Middle East Crisis; International Spot Surges to $5,174 | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.6808
+    },
     {
       "title": "Gold price today: How much 24K, 22K gold costs in Delhi, Chennai & more - check rates - The Times of India",
       "source": "The Times of India",
       "score": 0.0
+    },
+    {
+      "title": "Gold, silver price today (8 March 2026): Rates stable as dollar strengthens - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.8316
+    },
+    {
+      "title": "Gold rate in India dips \u20b919,000 from record high. Opportunity to buy amid US-Iran war? - Mint",
+      "source": "Mint",
+      "score": -0.2732
+    },
+    {
+      "title": "Gold Prices March 1 [Highlights]: Safe-haven rally continues amid Iran\u2013Israel War \u2014 Check 18, 22 and 24 carat rates in Chennai, Mumbai, Delhi, Kolkata - news24online.com",
+      "source": "news24online.com",
+      "score": -0.5994
     },
     {
       "title": "Gold Price Today [7 March 2026]: Gold Rebounds to \u20b91.61 Lakh/10g | City-Wise 24K, 22K, 18K Rates - The Sunday Guardian",
@@ -14,29 +34,9 @@
       "score": 0.0
     },
     {
-      "title": "Gold price today, March 7: Rates dip for 5th day as 24K gold settles at Rs 1.61 lakh - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price increased by Rs 2,510 on March 7, 2026; Silver price remain flat - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.2732
-    },
-    {
-      "title": "Gold price today: How much 24K, 22K gold costs in Delhi, Bangalore & more - check rates - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
       "title": "Gold Price Today [6 March 2026]: Drops to \u20b91.62 Lakh/10g on Strong Dollar | City-Wise Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "score": 0.5106
-    },
-    {
-      "title": "India gold market update: Enduring demand strength - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.4019
     }
   ]
 }
