@@ -1,22 +1,12 @@
 {
-  "last_updated": "2026-03-08 18:17:44",
-  "sentiment_score": -0.03,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-03-09 18:35:50",
+  "sentiment_score": -0.14,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today [8 March, 2026]: Gold Jumps to \u20b91.63 Lakh/10g on Safe-Haven Demand Amid Middle East Crisis; International Spot Surges to $5,174 | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.6808
-    },
-    {
-      "title": "Gold price today: How much 24K, 22K gold costs in Delhi, Chennai & more - check rates - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver price today (8 March 2026): Rates stable as dollar strengthens - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.8316
+      "title": "MCX gold and silver price highlights: Gold and silver prices fall as US-Iran war rages on | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "score": -0.7906
     },
     {
       "title": "Gold rate in India dips \u20b919,000 from record high. Opportunity to buy amid US-Iran war? - Mint",
@@ -29,14 +19,29 @@
       "score": -0.5994
     },
     {
-      "title": "Gold Price Today [7 March 2026]: Gold Rebounds to \u20b91.61 Lakh/10g | City-Wise 24K, 22K, 18K Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
+      "title": "Gold, Silver Price Today, March 9: Check Prices In Mumbai, Delhi, Chennai, And Other Cities - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold Prices Take Modest Hit Today (March 9), Check 22K & 24K Rates Per Gram In Cities - ABP Live English",
+      "source": "ABP Live English",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today [6 March 2026]: Drops to \u20b91.62 Lakh/10g on Strong Dollar | City-Wise Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.5106
+      "title": "Gold, Silver Prices Fall Despite Iran-Israel War: Check 22K And 24K Rates In Your City On March 9 - News18",
+      "source": "News18",
+      "score": 0.4847
+    },
+    {
+      "title": "Gold prices fall as Middle East war escalation sparks rally in oil, details here - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": -0.5994
+    },
+    {
+      "title": "Gold Prices Drop in Indian Markets After Dollar Strengthens - newspress.co.in",
+      "source": "newspress.co.in",
+      "score": 0.2263
     }
   ]
 }
