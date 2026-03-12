@@ -1,46 +1,41 @@
 {
-  "last_updated": "2026-03-11 18:38:55",
-  "sentiment_score": -0.13,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-03-12 18:37:09",
+  "sentiment_score": -0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold price today (March 11, 2026): How much 24K, 22K gold costs in Delhi, Chennai & more - check rates - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today [12 March, 2026]: Gold Steadies at $5,177 Amid Middle East Crisis; Domestic Rates Edge Up to \u20b91.63 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.6249
+    },
     {
       "title": "Gold Rate Today, March 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today [10 March, 2026]: Gold Eases to $5,141 on Firmer Dollar Amid Middle East Crisis; Domestic Rates Dip Marginally to \u20b91.61 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.4215
+      "title": "Gold Silver Rate Today, 12 March 2026: City-Wise Prices, MCX Gold Stays Strong While Silver Slips - Oneindia",
+      "source": "Oneindia",
+      "score": 0.5106
     },
     {
-      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 11 March 2026 - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on March 11 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold R\u034fate \u034fToday: 24\u034fK \u034fG\u034fold Fa\u034flls B\u034felow \u034f\u20b91.63 Lakh on M\u034fCX, India-Dubai G\u034fap Wide\u034fns to 6.53% - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Prices Fall Today: Check 22K And 24K Rates In Delhi, Mumbai, Other Cities On March 11 - News18",
-      "source": "News18",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Prices Hold Firm Amid Iran War: Check Rates In Your City - NDTV",
-      "source": "NDTV",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold and silver price today India (March 11, 2026): Check 24K, 22K city-wise rates - Mathrubhumi English",
+      "title": "Gold price latest: Check rates for 24K, 22K and 18K on March 12 - Mathrubhumi English",
       "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today (March 12, 2026): How much 24K, 22K gold costs in Delhi, Mumbai, Chennai & more - check - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today (12 March 2026): IBJA Issues New Gold Rates; Tanishq, Malabar, Joyalukkas, Kalyan Prices - Oneindia",
+      "source": "Oneindia",
       "score": 0.0
     }
   ]
