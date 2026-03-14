@@ -1,47 +1,37 @@
 {
-  "last_updated": "2026-03-13 18:26:28",
-  "sentiment_score": -0.08,
+  "last_updated": "2026-03-14 18:20:39",
+  "sentiment_score": -0.07,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold price today (March 12, 2026): How much 24K, 22K gold costs in Delhi, Mumbai, Chennai & more - check rates - The Times of India",
+      "title": "Gold price today (March 11, 2026): How much 24K, 22K gold costs in Delhi, Chennai & more - check rates - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold price plunges by Rs 980 for 24 carats in India; Check City-Wise Rates - Kalinga TV",
-      "source": "Kalinga TV",
+      "title": "Gold, Silver Rate Today Live Updates: Gold prices rise, but set for weekly fall; where are precious metals headed? - The Times of India",
+      "source": "The Times of India",
+      "score": 0.7227
+    },
+    {
+      "title": "Gold Rate Today, March 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in India Holds Above \u20b91.60 Lakh Amid US-Iran Tensions; Oil and Dollar in Focus - Samco",
-      "source": "Samco",
-      "score": -0.4019
+      "title": "Gold price set to drop for second week in a row. Is it the right time to buy gold as US-Iran war keeps oil prices up? - Mint",
+      "source": "Mint",
+      "score": -0.7184
     },
     {
-      "title": "Gold price in India: Rates on March 12 - FXStreet",
+      "title": "Gold price in India: Rates on March 13 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Prices Rise Today: Check 22K And 24K Rates In Delhi, Mumbai, Other Cities On March 13 - News18",
-      "source": "News18",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price falls \u20b910 to \u20b91,62,210; silver down \u20b9100, trades at \u20b92,79,900 - Business Standard",
-      "source": "Business Standard",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices drop in India; check today\u2019s (13.03.2026) city rates - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold and silver prices slide by up to 4 per cent: What\u2019s driving the bullion market? - theweek.in",
-      "source": "theweek.in",
-      "score": 0.0
+      "title": "[LIVE UPDATES] Gold, Silver Rate Today, March 14: Gold, silver prices crash sharply, silver trading at Rs 275000 per kg, gold at Rs\u2026; check gold, silver rate in Delhi, Noida, Mumbai, Chennai, Bengaluru - news24online.com",
+      "source": "news24online.com",
+      "score": -0.4019
     }
   ]
 }
