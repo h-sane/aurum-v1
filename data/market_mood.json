@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-03-15 18:22:04",
-  "sentiment_score": -0.3,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-03-16 18:44:44",
+  "sentiment_score": 0.12,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Price Today [15 March, 2026]: Gold Steadies Near $5,023 After Recent Dip; Domestic Rates Hold at \u20b91.59 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "title": "Gold Price Today [16 March, 2026]: Gold Edges Lower to $5,018 on Dollar Strength; Domestic Rates Dip Marginally to \u20b91.59 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
       "source": "The Sunday Guardian",
+      "score": 0.25
+    },
+    {
+      "title": "Gold Prices Slide in Bhubaneswar and Across India on March 16, 2026 - KalingaTV",
+      "source": "KalingaTV",
       "score": 0.0
     },
     {
-      "title": "Gold price set to drop for second week in a row. Is it the right time to buy gold as US-Iran war keeps oil prices up? - Mint",
-      "source": "Mint",
-      "score": -0.7184
-    },
-    {
-      "title": "Gold price in India: Rates on March 13 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold Prices Take A Hit Today (March 16), Check 22K & 24K Rates Per Gram In Cities - ABP Live English",
+      "source": "ABP Live English",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today [14 March, 2026]: Gold Drops 2% to $5,023 on Stronger Dollar Amid Middle East Crisis; Domestic Rates Plunge to \u20b91.60 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.3612
-    },
-    {
-      "title": "Gold Price Today [13 March, 2026]: Gold Eases to $5,093 on Firmer Dollar Amid Middle East Crisis; Domestic Rates Drop to \u20b91.62 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold rate today in India above \u20b91.60 lakh amid no signs of de-escalation in US-Iran war; oil price, USD rate in focus - Mint",
-      "source": "Mint",
-      "score": -0.7269
-    },
-    {
-      "title": "Gold Rate Today: Check the live prices of 22K, 24K and 18K gold on 13 March 2026 - Mint",
-      "source": "Mint",
+      "title": "Gold Prices Today (16 March 2026): Latest 24K, 22K, 18K Gold Rate In Delhi, Mumbai, Ahmedabad & More - Samco",
+      "source": "Samco",
       "score": 0.0
     },
     {
-      "title": "Gold Prices Stabilize in India: Latest Rates for 24K, 22K, and 18K Across Major Cities - Analytics Insight",
-      "source": "Analytics Insight",
+      "title": "Why gold prices have remained subdued in India despite raging West Asian conflict - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.122
+    },
+    {
+      "title": "Bangalore Gold Silver Rate Today, 16 March 2026: Gold and Silver Prices Fall as Precious Metals Turn Volatile - Oneindia",
+      "source": "Oneindia",
+      "score": 0.5719
+    },
+    {
+      "title": "Gold, Silver Prices Today (March 16): Check 22K And 24K Rates In Delhi, Mumbai, Other Cities - News18",
+      "source": "News18",
+      "score": 0.0
+    },
+    {
+      "title": "Sebi gold pricing shift: A step toward India-led price discovery - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     }
   ]
