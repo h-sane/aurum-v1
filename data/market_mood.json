@@ -1,16 +1,26 @@
 {
-  "last_updated": "2026-03-16 18:44:44",
-  "sentiment_score": 0.12,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-03-17 18:44:04",
+  "sentiment_score": -0.09,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today [16 March, 2026]: Gold Edges Lower to $5,018 on Dollar Strength; Domestic Rates Dip Marginally to \u20b91.59 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.25
+      "title": "Gold, Silver Rate Today Live Updates: Gold prices up, but as crude oil prices weigh on Fed rate cut hopes - The Times of India",
+      "source": "The Times of India",
+      "score": -0.6124
     },
     {
-      "title": "Gold Prices Slide in Bhubaneswar and Across India on March 16, 2026 - KalingaTV",
-      "source": "KalingaTV",
+      "title": "Gold price hikes in India for 24 carat and 22 carat on March 17, 2026 - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 17 March 2026 - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on March 17 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -19,28 +29,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold Prices Today (16 March 2026): Latest 24K, 22K, 18K Gold Rate In Delhi, Mumbai, Ahmedabad & More - Samco",
-      "source": "Samco",
+      "title": "Gold Price is Cheaper Today: Know the latest rates here - financialnewsindia.com",
+      "source": "financialnewsindia.com",
       "score": 0.0
     },
     {
-      "title": "Why gold prices have remained subdued in India despite raging West Asian conflict - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.122
-    },
-    {
-      "title": "Bangalore Gold Silver Rate Today, 16 March 2026: Gold and Silver Prices Fall as Precious Metals Turn Volatile - Oneindia",
-      "source": "Oneindia",
-      "score": 0.5719
-    },
-    {
-      "title": "Gold, Silver Prices Today (March 16): Check 22K And 24K Rates In Delhi, Mumbai, Other Cities - News18",
-      "source": "News18",
-      "score": 0.0
-    },
-    {
-      "title": "Sebi gold pricing shift: A step toward India-led price discovery - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Price Today [15 March, 2026]: Gold Steadies Near $5,023 After Recent Dip; Domestic Rates Hold at \u20b91.59 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     }
   ]
