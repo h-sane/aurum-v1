@@ -1,42 +1,37 @@
 {
-  "last_updated": "2026-03-22 18:20:36",
-  "sentiment_score": 0.07,
+  "last_updated": "2026-03-23 18:37:08",
+  "sentiment_score": 0.08,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
-    {
-      "title": "Gold prices are crashing in India right now, and the real reason will surprise you - The Times of India",
-      "source": "The Times of India",
-      "score": 0.2732
-    },
     {
       "title": "India gold market update: Volatility softens demand | Post by Kavita Chacko | Gold Focus blog - World Gold Council",
       "source": "World Gold Council",
       "score": -0.128
     },
     {
-      "title": "Compared: price of gold in India and abroad - Cond\u00e9 Nast Traveller India",
-      "source": "Cond\u00e9 Nast Traveller India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold prices crashing today? Check 22K, 24K gold rates on Tanishq, Kalyan Jewellers, Malabar Gold & Diamond - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.34
-    },
-    {
-      "title": "Gold prices today: Why are rates rising after a steep fall and should you buy? - India Today",
+      "title": "Safe haven no more? Why gold, silver prices are crashing despite war - India Today",
       "source": "India Today",
+      "score": 0.5921
+    },
+    {
+      "title": "Gold Rate Today: MCX gold price crashes 8% to below \u20b91.34 lakh per 10 grams; silver price gets cheaper by \u20b925,000/kg - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold rate remain unchanged in the last 24 hours in India, check updated rates - Kalinga TV",
-      "source": "Kalinga TV",
+      "title": "Gold price decreased by Rs 5,950 for 24 carats on March 23, Silver rates fall by Rs 15,000 - kalingatv.com",
+      "source": "kalingatv.com",
       "score": 0.0
     },
     {
-      "title": "Gold and silver prices (March 21, 2026): Check rates across key Indian cities - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
+      "title": "Gold, Silver rate today : Gold and Silver off early lows, MCX Gold down 2% Silver futures down 4% - The Financial Express",
+      "source": "The Financial Express",
+      "score": -0.2023
+    },
+    {
+      "title": "Gold price today: Rs 44500000000000 worth of Gold is stored Indian households, much more than the GDP of... - news24online.com",
+      "source": "news24online.com",
+      "score": 0.2263
     }
   ]
 }
