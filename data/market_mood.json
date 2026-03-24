@@ -1,37 +1,42 @@
 {
-  "last_updated": "2026-03-23 18:37:08",
-  "sentiment_score": 0.08,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-03-24 18:44:58",
+  "sentiment_score": -0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "India gold market update: Volatility softens demand | Post by Kavita Chacko | Gold Focus blog - World Gold Council",
-      "source": "World Gold Council",
-      "score": -0.128
+      "title": "Gold, Silver Rate Today, 24 March 2026 Live Updates: India extends gold import licence validity under UAE CEPA trade pact - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.128
     },
     {
-      "title": "Safe haven no more? Why gold, silver prices are crashing despite war - India Today",
-      "source": "India Today",
-      "score": 0.5921
-    },
-    {
-      "title": "Gold Rate Today: MCX gold price crashes 8% to below \u20b91.34 lakh per 10 grams; silver price gets cheaper by \u20b925,000/kg - Mint",
-      "source": "Mint",
+      "title": "Gold Price Today [24 March, 2026]: Gold Stabilizes at $4,418 After Sharp Decline; Domestic Rates Plunge to \u20b91.35 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
-      "title": "Gold price decreased by Rs 5,950 for 24 carats on March 23, Silver rates fall by Rs 15,000 - kalingatv.com",
-      "source": "kalingatv.com",
+      "title": "Gold, silver price March 24: Check latest 24K, 22K, 18K gold rates in Delhi, Mumbai, Chennai, Kolkata - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver rate today : Gold and Silver off early lows, MCX Gold down 2% Silver futures down 4% - The Financial Express",
-      "source": "The Financial Express",
-      "score": -0.2023
+      "title": "Gold Silver Price Today, 24 March 2026: City-Wise Prices As MCX Gold And Silver Steady After Sharp Fall - Oneindia",
+      "source": "Oneindia",
+      "score": 0.0
     },
     {
-      "title": "Gold price today: Rs 44500000000000 worth of Gold is stored Indian households, much more than the GDP of... - news24online.com",
-      "source": "news24online.com",
-      "score": 0.2263
+      "title": "Gold Rate Today, March 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Drops To 4-Month Low, Silver Down 3%: Check Rates In Your City - NDTV",
+      "source": "NDTV",
+      "score": -0.2732
+    },
+    {
+      "title": "Gold price today: How much 18K, 22K and 24K gold costs in your city? Check prices in Delhi, Mumbai, Chenn - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
     }
   ]
 }
