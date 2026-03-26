@@ -1,12 +1,22 @@
 {
-  "last_updated": "2026-03-25 18:40:59",
-  "sentiment_score": -0.16,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-03-26 18:48:32",
+  "sentiment_score": -0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV",
-      "source": "NDTV",
-      "score": -0.34
+      "title": "Gold price today (March 25, 2026): How much 24K and 22K gold cost in your city; check rates for Delhi, Mu - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, March 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, March 26, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
+      "source": "DNA India",
+      "score": 0.0
     },
     {
       "title": "Gold price in India jumps \u20b915,500 in two days. Will the rally continue? - Mint",
@@ -14,29 +24,19 @@
       "score": 0.0
     },
     {
-      "title": "22k gold rates rise today: Check 22K, 24K gold prices (March 25, 2026) on Tanishq, Kalyan Jewellers, Joyal - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
+      "title": "Gold price today (March 26) in India: Rates rise sharply; Silver jumps as global cues turn positive - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.5574
     },
     {
-      "title": "Gold rate today March 24 : Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
+      "title": "Gold Price Today [26 March, 2026]: Gold Rebounds 2.7% to $4,521 on Weaker Dollar; Domestic Rates Cross \u20b91.46 Lakh/10g Amid US-Iran Talks | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.4404
     },
     {
-      "title": "Gold Rate Today, March 25: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today in an uptrend as fall in oil prices eases inflation fears; US Fed rate cut, dollar in focus - Mint",
-      "source": "Mint",
-      "score": -0.3818
-    },
-    {
-      "title": "Gold, silver price crash in March: If you have Rs 1 lakh to invest, should you invest now or wait for furt - The Economic Times",
-      "source": "The Economic Times",
-      "score": -0.4019
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices up, precious metals rally strongly after crash as worries on US-Iran war ease; what should investors do? - The Times of India",
+      "source": "The Times of India",
+      "score": -0.2732
     }
   ]
 }
