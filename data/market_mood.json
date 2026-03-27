@@ -1,21 +1,11 @@
 {
-  "last_updated": "2026-03-26 18:48:32",
-  "sentiment_score": -0.02,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-03-27 18:40:29",
+  "sentiment_score": 0.12,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
-    {
-      "title": "Gold price today (March 25, 2026): How much 24K and 22K gold cost in your city; check rates for Delhi, Mu - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
     {
       "title": "Gold Rate Today, March 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, March 26, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more - DNA India",
-      "source": "DNA India",
       "score": 0.0
     },
     {
@@ -24,19 +14,34 @@
       "score": 0.0
     },
     {
+      "title": "Gold Rate Today, March 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "22k gold rate today: Check 22K, 24K gold prices (March 27, 2026) on Tanishq, Malabar Gold & Diamonds, Joya - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "What is driving the fall in gold prices? | Explained - The Hindu",
+      "source": "The Hindu",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate rises on MCX on value buying amid the dollar's weakness - Mint",
+      "source": "Mint",
+      "score": -0.1027
+    },
+    {
+      "title": "Gold Price Today in India (25 March 2026) \u2013 24K & 22K Live Rates, Daily Change & City Wise Prices - PSU Connect",
+      "source": "PSU Connect",
+      "score": 0.4767
+    },
+    {
       "title": "Gold price today (March 26) in India: Rates rise sharply; Silver jumps as global cues turn positive - Mathrubhumi English",
       "source": "Mathrubhumi English",
       "score": 0.5574
-    },
-    {
-      "title": "Gold Price Today [26 March, 2026]: Gold Rebounds 2.7% to $4,521 on Weaker Dollar; Domestic Rates Cross \u20b91.46 Lakh/10g Amid US-Iran Talks | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.4404
-    },
-    {
-      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices up, precious metals rally strongly after crash as worries on US-Iran war ease; what should investors do? - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
     }
   ]
 }
