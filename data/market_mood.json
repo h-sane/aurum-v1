@@ -1,42 +1,32 @@
 {
-  "last_updated": "2026-03-31 18:43:28",
-  "sentiment_score": -0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-04-01 18:43:15",
+  "sentiment_score": -0.3,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold price update: Latest 24 Carat and 22 Carat rates in India \u2013 31 March 2026 - heraldgoa.in",
-      "source": "heraldgoa.in",
+      "title": "Gold, Silver Rate Today, 25 March Highlights: Gold, silver prices rebound after brief down trend - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Price Today: Gold Rates in India witnesses huge rise, Check Rates in Delhi, Kolkata, Mumbai, Che - India.Com",
+      "title": "Gold Price Today April 1: Gold price witnesses massive rise amid West Asia crisis, Check rates in Kolkata, De - India.Com",
       "source": "India.Com",
-      "score": 0.3182
+      "score": -0.6249
     },
     {
-      "title": "Gold price today (March 30, 2026): How much 22K, 24K gold costs in Delhi, Mumbai & other cities \u2013 check r - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
+      "title": "Gold rate today in India tops \u20b91.51 lakh on ceasefire hopes in the US-Iran war. US dollar, US Fed rate cut in focus - Mint",
+      "source": "Mint",
+      "score": 0.0258
     },
     {
-      "title": "Gold price in India: Rates on March 31 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rates Today: Check Gold Prices In Hyderabad, Bengaluru & Other Key Cities - Republic World",
-      "source": "Republic World",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, March 31: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - indianexpress.com",
-      "source": "indianexpress.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Prices March 1 [Highlights]: Safe-haven rally continues amid Iran\u2013Israel War \u2014 Check 18, 22 and 24 carat rates in Chennai, Mumbai, Delhi, Kolkata - news24online.com",
+      "title": "[Highlights] Gold, Silver Price Today, 1 March: Iran- Israel war to impact Gold-Silver prices in India? Gold soars to Rs\u2026, Silver selling at Rs\u2026, Check latest rates in Delhi, Noida, Mumbai, Kolkata, Chennai, Bengaluru - news24online.com",
       "source": "news24online.com",
       "score": -0.5994
+    },
+    {
+      "title": "Gold Rate Today Live Updates April 1 2026: Gold Surges Over 1,51,000 Amid Middle East Conflict; Will The Rally Sustain? - timesnownews.com",
+      "source": "timesnownews.com",
+      "score": -0.3182
     }
   ]
 }
