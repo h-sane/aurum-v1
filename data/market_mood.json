@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-04-02 18:39:50",
-  "sentiment_score": -0.08,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-04-03 18:30:31",
+  "sentiment_score": 0.03,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Today, 25 March Highlights: Gold, silver prices rebound after brief down trend - The Indian Express",
+      "title": "Gold Rate Today, April 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today [3 April, 2026]: Gold Pulls Back 2.8% to $4,650 on De-escalation Hopes; Domestic Rates Drop to \u20b91.48 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.1779
+    },
+    {
+      "title": "MCX gold and silver price highlights: Gold and silver prices fall as US-Iran war rages on | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "score": -0.7906
+    },
+    {
+      "title": "Gold price today (April 1, 2026): How much 22K, 24K gold cost in Delhi, Mumbai, Chennai and other cities? - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rates Today April 03 LIVE: Gold crashing? Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, - India.Com",
+      "source": "India.Com",
       "score": 0.0
     },
     {
@@ -14,34 +34,14 @@
       "score": 0.5719
     },
     {
-      "title": "Gold price today (April 1, 2026): How much 22K, 24K gold cost in Delhi, Mumbai, Chennai and other cities? - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rate Today, April 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Price Today: Gold price surges Rs 10 to Rs 1,52,960, Check rates in Kolkata, Chennai, Mumbai, Su - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today (2 April 2026): Latest IBJA Gold Rates, Tanishq, Kalyan, Malabar, Joyalukkas 22K Prices - Oneindia",
-      "source": "Oneindia",
-      "score": 0.0
-    },
-    {
-      "title": "Is Gold Price Down Today? Gold Crashes 2.03% in April 2026; Check latest Gold Rate of Delhi, Mumbai, Bengaluru, Kolkata & Chennai - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.0
-    },
-    {
-      "title": "[Highlights] Gold, Silver Price Today, 1 March: Iran- Israel war to impact Gold-Silver prices in India? Gold soars to Rs..., Silver selling at Rs\u2026, Check latest rates in Delhi, Noida, Mumbai, Kolkata, Chennai, Bengaluru - news24online.com",
-      "source": "news24online.com",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold and silver crash today (April 2, 2026): 24K gold rates drop after massive weekly surge - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": -0.5859
+      "title": "Gold Price Today In India: Rates increased by Rs 1,960 on April 03, Check City-Wise Rates Here - kalingatv.com",
+      "source": "kalingatv.com",
+      "score": 0.2732
     }
   ]
 }
