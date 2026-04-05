@@ -1,41 +1,46 @@
 {
-  "last_updated": "2026-04-04 18:24:34",
-  "sentiment_score": -0.06,
+  "last_updated": "2026-04-05 18:26:06",
+  "sentiment_score": -0.09,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
-    {
-      "title": "22k gold rate today: Check 22K, 24K gold prices (April 2, 2026) on Tanishq, Malabar Gold & Diamonds, Kalya - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Remain Constant in India on April 4; Check prices in your city - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Today in Vijayawada \u2013 18K, 22K & 24K Rate | 04 April 2026 - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
     {
       "title": "Gold Rate Today [3 April, 2026]: Gold Pulls Back 2.8% to $4,650 on De-escalation Hopes; Domestic Rates Drop to \u20b91.48 Lakh/10g | Check City-Wise Rates of 24K, 22K & 18K - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "score": 0.1779
     },
     {
-      "title": "22k gold rate today: Check 22K, 24K gold prices (April 4, 2026) on Tanishq, Malabar Gold & Diamonds, Kalya - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold price in India dips 17% from record high. Is this a right time to buy gold after US payroll data? - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold prices in India remain under pressure despite escalating West Asia tensions - News On AIR",
-      "source": "News On AIR",
+      "title": "Gold, Silver Rates Today April 04 LIVE: Gold falls? Check 18, 22, 24 carat Gold prices in Chennai, Mumbai, De - India.Com",
+      "source": "India.Com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, April 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Prices March 1 [Highlights]: Safe-haven rally continues amid Iran\u2013Israel War \u2014 Check 18, 22 and 24 carat rates in Chennai, Mumbai, Delhi, Kolkata - news24online.com",
+      "source": "news24online.com",
       "score": -0.5994
     },
     {
-      "title": "Gold Rate Today 2nd April 2026: Gold is down by 2.21%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
-      "source": "financialexpress.com",
+      "title": "Gold Rate Today Live Updates, April 5 2026: Gold Crashes Nearly Rs 30,000 From Peak Amid Ragging Middle East Conflict; Check Prices In Delhi, Mumbai And Other Major Cities - Times Now",
+      "source": "Times Now",
+      "score": -0.3182
+    },
+    {
+      "title": "Gold Price In India Plummets 17% From Record High: Check Gold Rates In Mumbai, Delhi & Other Key Cities - Republic World",
+      "source": "Republic World",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver rate today, 4 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver - Mint",
+      "source": "Mint",
       "score": 0.0
     }
   ]
