@@ -1,12 +1,17 @@
 {
-  "last_updated": "2026-04-07 18:44:26",
-  "sentiment_score": -0.05,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-04-08 18:59:34",
+  "sentiment_score": -0.15,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Today Live Updates: Precious metals remain volatile; gold up 0.16%, silver jumps 1% - The Times of India",
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver rally strongly; prices rise as Trump announces two week US-Iran war ceasefire - The Times of India",
       "source": "The Times of India",
-      "score": 0.5719
+      "score": -0.4215
+    },
+    {
+      "title": "Gold Rate Today, April 8: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - indianexpress.com",
+      "source": "indianexpress.com",
+      "score": 0.0
     },
     {
       "title": "Gold price in India: Rates on April 7 - FXStreet",
@@ -14,9 +19,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold price decreased in India on April 7, Silver rates remain stable - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.296
+      "title": "Gold Silver Rate Today, 8 April 2026: City-Wise Prices Fall; MCX Gold, Silver Slip As US-Iran Tensions Ease - oneindia.com",
+      "source": "oneindia.com",
+      "score": -0.0516
+    },
+    {
+      "title": "Gold price today April 8 live: Gold, silver rates witness spike after Trump's ceasefire announcement, check rates in Delhi, Mumbai, Kolkata - msn.com",
+      "source": "msn.com",
+      "score": 0.0
     },
     {
       "title": "Gold Prices March 1 [Highlights]: Safe-haven rally continues amid Iran\u2013Israel War \u2014 Check 18, 22 and 24 carat rates in Chennai, Mumbai, Delhi, Kolkata - news24online.com",
@@ -24,19 +34,9 @@
       "score": -0.5994
     },
     {
-      "title": "Gold Rate Today 7th April 2026: Gold is up by 0.36%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
-      "source": "The Financial Express",
+      "title": "Gold Rate Today [8 April, 2026]: Gold Drops to $4,705 Amid US-Iran Ceasefire Announcement; Domestic Rates Plunge to \u20b91.49 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - sundayguardianlive.com",
+      "source": "sundayguardianlive.com",
       "score": 0.0
-    },
-    {
-      "title": "Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "[Highlights] Gold, Silver Price Today, 1 March: Iran- Israel war to impact Gold-Silver prices in India? Gold soars to Rs\u2026, Silver selling at Rs\u2026, Check latest rates in Delhi, Noida, Mumbai, Kolkata, Chennai, Bengaluru - news24online.com",
-      "source": "news24online.com",
-      "score": -0.5994
     }
   ]
 }
