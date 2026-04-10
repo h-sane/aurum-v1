@@ -1,42 +1,47 @@
 {
-  "last_updated": "2026-04-09 18:44:37",
-  "sentiment_score": -0.21,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-04-10 18:37:06",
+  "sentiment_score": -0.03,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold, Silver Rate Today Live Updates: MCX Gold, MCX Silver rise; where are they headed in near-term? - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
     {
       "title": "Gold, Silver Rate Today, 25 March Highlights: Gold, silver prices rebound after brief down trend - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold rate today in India is under pressure as Israel's attack on Lebanon fuels crude oil price - Mint",
-      "source": "Mint",
-      "score": -0.8402
-    },
-    {
-      "title": "Gold Rate Today, 9 April in Dubai: Latest 22K, 24K Gold Prices On Tanishq, Kalyan, Malabar, Joyalukkas - Oneindia",
-      "source": "Oneindia",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rates today in India slips: 24K, 22K, 18K gold declined on April 09, Silver falls by Rs 5000 - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Prices March 1 [Highlights]: Safe-haven rally continues amid Iran\u2013Israel War \u2014 Check 18, 22 and 24 carat rates in Chennai, Mumbai, Delhi, Kolkata - news24online.com",
-      "source": "news24online.com",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold price in India: Rates on April 7 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price today (April 9, 2026): How much 18K, 22K and 24K gold costs in your city? Check prices in Delh - The Times of India",
+      "title": "Gold Price Today in Vijayawada \u2013 18K, 22K & 24K Rate | 10 April 2026 - The Times of India",
       "source": "The Times of India",
       "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, April 10: How much you have to pay for 18, 22, 24 carat gold jewellery - Upstox",
+      "source": "Upstox",
+      "score": -0.1027
+    },
+    {
+      "title": "22k gold rate today: Check 22K, 24K gold prices (April 8, 2026) on Tanishq, Malabar Gold & Diamonds, Kalya - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Prices Take A Slight Tumble (April 10), Check 22K & 24K Rates Per Gram In Cities - ABP News",
+      "source": "ABP News",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price increased by Rs 1,520 on April 10, 2026; Silver hikes by Rs 5000 - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.2732
+    },
+    {
+      "title": "Gold Prices Jump Across India as Hormuz Tensions Rise - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": -0.4019
     }
   ]
 }
