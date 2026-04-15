@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14 18:55:34",
-  "sentiment_score": -0.1,
+  "last_updated": "2026-04-15 18:57:42",
+  "sentiment_score": -0.06,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
@@ -9,39 +9,39 @@
       "score": 0.743
     },
     {
-      "title": "Gold prices in India fall 6% since US-Iran war: Is this the right time to buy gold? - Mint",
-      "source": "Mint",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold price today, April 14: Check latest 22K, 24K rates, silver prices and MCX trends - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Silver Rate Today, 14 April 2026: City-Wise Prices, MCX Silver Cracks as Gold Slips Across India - Oneindia",
-      "source": "Oneindia",
-      "score": 0.0
-    },
-    {
       "title": "Gold, Silver Rate Today, 25 March Highlights: Gold, silver prices rebound after brief down trend - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price increased by Rs 1470 on the occasion of Odia New Year, details inside - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.2732
+      "title": "Gold prices in India fall 6% since US-Iran war: Is this the right time to buy gold? - Mint",
+      "source": "Mint",
+      "score": -0.5994
     },
     {
-      "title": "Gold Rate Today [14 April, 2026]: Gold Rates Edges Lower to $4,720, Inflation Fears Weigh; Domestic Rates Dip to \u20b91.52 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - The Sunday Guardian",
+      "title": "Gold and silver prices in India rise: 24K gold near \u20b915,535/g today, check city-wise rates - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today 15th April 2026: Gold is down by 0.27%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
+      "source": "The Financial Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate in India Today Sees Massive Jump! 24K Rallies Rs14,200/100 Gm, Silver Shines Too - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on April 13 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today [15 April, 2026]: Gold Rates Edges Lower to $4,741, Inflation Fears Weigh; Domestic Rates Climb to \u20b91.54 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "score": -0.6124
-    },
-    {
-      "title": "Gold, Silver Rate Today, 26 March 2026 Live Updates: Gold futures fluctuate as crude oil surges past $100 - The Indian Express",
-      "source": "The Indian Express",
-      "score": -0.5719
     }
   ]
 }
