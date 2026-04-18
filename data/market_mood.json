@@ -1,11 +1,26 @@
 {
-  "last_updated": "2026-04-17 18:40:26",
-  "sentiment_score": -0.02,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-04-18 18:30:33",
+  "sentiment_score": 0.06,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
+    {
+      "title": "Gold price in India rallies by \u20b95000 in two weeks. Is it a right time to buy gold on Akshaya Tritiya? - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
     {
       "title": "Gold Rates Today: Gold Price in India Live & Updates - NDTV",
       "source": "NDTV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 18 April in Delhi, Mumbai, Pune, others - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today (April 18, 2026): Check latest city-wise rates - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
@@ -14,14 +29,9 @@
       "score": 0.0
     },
     {
-      "title": "22k gold rate today: Check 22K, 24K gold prices (April 14, 2026) on Tanishq, Malabar Gold & Diamonds, Kaly - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Buying gold and silver this Akshaya Tritiya week? Check latest (April 17) prices in Indian cities - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
+      "title": "Gold price increased in India today, check latest rates in top cities - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": 0.4404
     },
     {
       "title": "Gold price today (April 15, 2026): How much 24K, 22K gold costs in your city? Check prices in Delhi, Mumb - The Times of India",
@@ -29,19 +39,9 @@
       "score": 0.0
     },
     {
-      "title": "Gold price increased in India today, check latest rates in top cities - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.4404
-    },
-    {
-      "title": "Gold Rate Today 17th April 2026: Gold is up by 1.08%; check prices in Mumbai, Chennai, Delhi, Bengaluru - The Financial Express",
-      "source": "The Financial Express",
+      "title": "Gold, silver price today, 17 April: Check rates of 24 kt, 22 kt gold and 999 silver in Delhi, Mumbai, other cities - Mint",
+      "source": "Mint",
       "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today [15 April, 2026]: Gold Rates Edges Lower to $4,741, Inflation Fears Weigh; Domestic Rates Climb to \u20b91.54 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.6124
     }
   ]
 }
