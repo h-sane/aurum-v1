@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-18 18:30:33",
-  "sentiment_score": 0.06,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-04-19 18:31:06",
+  "sentiment_score": 0.04,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
-    {
-      "title": "Gold price in India rallies by \u20b95000 in two weeks. Is it a right time to buy gold on Akshaya Tritiya? - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
     {
       "title": "Gold Rates Today: Gold Price in India Live & Updates - NDTV",
       "source": "NDTV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India rallies by \u20b95000 in two weeks. Is it a right time to buy gold on Akshaya Tritiya? - MSN",
+      "source": "MSN",
       "score": 0.0
     },
     {
@@ -19,28 +19,28 @@
       "score": 0.0
     },
     {
-      "title": "Gold price today (April 18, 2026): Check latest city-wise rates - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
-    },
-    {
       "title": "Gold, Silver Rate Today, 25 March Highlights: Gold, silver prices rebound after brief down trend - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price increased in India today, check latest rates in top cities - Kalinga TV",
+      "title": "Gold and Silver prices remain stable in the last 24 hours in India, Check rates here - Kalinga TV",
       "source": "Kalinga TV",
-      "score": 0.4404
-    },
-    {
-      "title": "Gold price today (April 15, 2026): How much 24K, 22K gold costs in your city? Check prices in Delhi, Mumb - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
+      "score": 0.296
     },
     {
       "title": "Gold, silver price today, 17 April: Check rates of 24 kt, 22 kt gold and 999 silver in Delhi, Mumbai, other cities - Mint",
       "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on March 27 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "22k gold rate today on Akshaya Tritiya 2026: Check 24k, 22k, 18k gold prices (April 19, 2026) in New Delhi - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     }
   ]
