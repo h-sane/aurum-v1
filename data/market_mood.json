@@ -1,37 +1,32 @@
 {
-  "last_updated": "2026-04-21 18:53:55",
+  "last_updated": "2026-04-22 18:55:12",
   "sentiment_score": -0.06,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (April 21, 2026) in New Delhi, Mumbai, Chennai and ot - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold price in India: Rates on April 22 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Price Remain Constant in India on April 21; Check prices in your city - Kalinga TV",
-      "source": "Kalinga TV",
+      "title": "Gold rates slip again; check rates in Chennai, Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, April 21: What is the price of 10-gram 24 carat gold in your city? - Upstox",
-      "source": "Upstox",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Silver Rate Today (April 21): Prices Fall, Check Current Rates Across Major Cities In India - ABP News",
-      "source": "ABP News",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today 21st April 2026: Gold is down by 0.10%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
+      "title": "Gold Rate Today 22nd April 2026: Gold is up by 1.19%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
       "source": "financialexpress.com",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today: Global Uncertainty Drives Volatility In Indian Gold Markets - ETV Bharat",
-      "source": "ETV Bharat",
-      "score": -0.34
+      "title": "Soaring oil prices put gold rate today under pressure. Is it the right time to buy gold? - Mint",
+      "source": "Mint",
+      "score": -0.296
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (April 21, 2026) in New Delhi, Mumbai, Chennai and ot - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
     }
   ]
 }
