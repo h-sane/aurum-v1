@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-04-22 18:55:12",
+  "last_updated": "2026-04-23 18:52:14",
   "sentiment_score": -0.06,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold price in India: Rates on April 22 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold, Silver rates today (April 23): Prices fall in major Indian cities - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Gold rates slip again; check rates in Chennai, Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold Silver Price Today India: Check 24K Gold Rates in Mumbai, Delhi, Chennai - Republic World",
+      "source": "Republic World",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today 22nd April 2026: Gold is up by 1.19%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
+      "title": "Gold Price Today: Gold Rate Falls on Thursday amid the Geopolitical Tension | Check Price of 10g Gold Today - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.3182
+    },
+    {
+      "title": "Gold Rate Today 23rd April 2026: Gold is down by 0.10%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
       "source": "financialexpress.com",
       "score": 0.0
     },
     {
-      "title": "Soaring oil prices put gold rate today under pressure. Is it the right time to buy gold? - Mint",
-      "source": "Mint",
-      "score": -0.296
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (April 21, 2026) in New Delhi, Mumbai, Chennai and ot - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Rate Today (April 22, 2026): City-wise 22K & 24K Gold Prices In India - Business Connect India",
+      "source": "Business Connect India",
       "score": 0.0
     }
   ]
