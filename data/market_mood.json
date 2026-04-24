@@ -1,31 +1,46 @@
 {
-  "last_updated": "2026-04-23 18:52:14",
-  "sentiment_score": -0.06,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-04-24 18:34:43",
+  "sentiment_score": -0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold, Silver rates today (April 23): Prices fall in major Indian cities - Mathrubhumi English",
-      "source": "Mathrubhumi English",
+      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 24 April 2026 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Silver Price Today India: Check 24K Gold Rates in Mumbai, Delhi, Chennai - Republic World",
-      "source": "Republic World",
+      "title": "Gold prices firm up in India as rupee depreciates against dollar - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today: Gold Rate Falls on Thursday amid the Geopolitical Tension | Check Price of 10g Gold Today - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.3182
+      "title": "Gold Rate Today, April 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
     },
     {
-      "title": "Gold Rate Today 23rd April 2026: Gold is down by 0.10%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
+      "title": "Gold price falls today: Check 22k, 24k gold rates on April 24, 2026, at IBJA, Malabar Gold & Diamonds, Joyalukkas and Tanishq; Why are gold, silver rates falling? - The Economic Times",
+      "source": "The Economic Times",
+      "score": -0.1531
+    },
+    {
+      "title": "Gold price in India: Rates on April 24 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price decreased by Rs 600 for 24 carats on April 24, 2026; Check details here - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today 24th April 2026: Gold is up by 0.20%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
       "source": "financialexpress.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today (April 22, 2026): City-wise 22K & 24K Gold Prices In India - Business Connect India",
-      "source": "Business Connect India",
+      "title": "Gold Prices Edge Up; 24K Gold at \u20b91,52,950 on April 24 - HDFC Sky",
+      "source": "HDFC Sky",
       "score": 0.0
     }
   ]
