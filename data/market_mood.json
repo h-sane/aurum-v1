@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-04-26 18:34:19",
-  "sentiment_score": -0.24,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-04-27 19:01:41",
+  "sentiment_score": -0.04,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Today Highlights: Gold prices on track for weekly decline as oil prices continue to rise - The Times of India",
+      "title": "Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, April 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, April 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today [25 April, 2026]: Gold Rates Edges Lower to $4,741, Inflation Fears Weigh; Domestic Rates Steady to \u20b91.54 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.6124
-    },
-    {
-      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 26 April 2026 - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on April 24 - FXStreet",
+      "title": "Gold price in India: Rates on April 27 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today In India: 24K, 22K Rates Remain Under Pressure - Oneindia",
-      "source": "Oneindia",
-      "score": -0.296
+      "title": "Gold price increased by Rs 380 for 24 carats in India, Silver rates remain stable - KalingaTV",
+      "source": "KalingaTV",
+      "score": 0.5106
     },
     {
       "title": "Gold rate today, 25 April: Gold prices remain volatile amid a tug of war between the US Fed rate cut and inflation risk - Mint",
       "source": "Mint",
       "score": -0.7964
+    },
+    {
+      "title": "Gold still expensive? Check today\u2019s 24K, 22K rates, silver prices city-wise - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 26 April 2026 - Mint",
+      "source": "Mint",
+      "score": 0.0
     }
   ]
 }
