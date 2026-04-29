@@ -1,16 +1,11 @@
 {
-  "last_updated": "2026-04-28 19:15:46",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-04-29 19:05:15",
+  "sentiment_score": -0.12,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India",
+      "title": "Gold, Silver Rate Today Live Updates: Gold prices hold steady; all eyes on US Federal Reserve meet - The Times of India",
       "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on April 28 - FXStreet",
-      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -19,24 +14,19 @@
       "score": 0.0
     },
     {
-      "title": "Gold & silver prices in India today (April 28, 2026): Latest rates, city-wise updates - Mathrubhumi English",
+      "title": "Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold and Silver April 29: Gold rates slip while silver stays steady amid global market volatility - Mathrubhumi English",
       "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 26 April 2026 - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, April 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on April 27 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
+      "title": "Gold Rate Today [29 April, 2026]: Gold Rates Edges Lower to $4,626, Inflation Fears Weigh; Domestic Rates Steady to \u20b91.51 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.6124
     }
   ]
 }
