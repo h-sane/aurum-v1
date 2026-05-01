@@ -1,31 +1,41 @@
 {
-  "last_updated": "2026-04-30 19:03:35",
-  "sentiment_score": 0.0,
+  "last_updated": "2026-05-01 18:53:59",
+  "sentiment_score": -0.04,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
-    {
-      "title": "Gold Rate Today, April 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price increased by Rs 220 for 24 carats in India, Check updated rates here - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.2732
-    },
     {
       "title": "Gold, Silver Rate Today Live Updates: Gold prices rise from 1-month low as softer dollar leads to rebound in yellow metal - The Times of India",
       "source": "The Times of India",
       "score": -0.2732
     },
     {
-      "title": "Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rate Today, May 1: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on April 28 - FXStreet",
+      "title": "Gold Rate Today, April 30: 22, 24, 18 carat gold prices across major jewellers in India - Upstox",
+      "source": "Upstox",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on April 30 - FXStreet",
       "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rates fall today: Check 18k, 22k, 24k gold prices on April 28, 2026, in New Delhi, Mumbai, Chennai, B - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, April 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 01 May 2026 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     }
   ]
