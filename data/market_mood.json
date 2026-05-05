@@ -1,47 +1,37 @@
 {
-  "last_updated": "2026-05-04 19:10:08",
-  "sentiment_score": -0.02,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-05-05 19:01:47",
+  "sentiment_score": -0.11,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 04 May 2026 - The Times of India",
+      "title": "Gold, Silver Prices in India: Gold falls below Rs 1.5 lakh, silver rates decline, check prices in Kolkata, Mu - India.Com",
+      "source": "India.Com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on May 5 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Today gold rate in India, May 5: US-Iran conflict, oil surge weigh on yellow metal; check Delhi, Mumbai, Chennai gold prices - MSN",
+      "source": "MSN",
+      "score": -0.3182
+    },
+    {
+      "title": "Gold Rate Today (May 5, 2026): Yellow Metal Falls Over Rs 31,300 From Peak; Check 24K, 22K, 18K Prices In Delh - Times Now",
+      "source": "Times Now",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Gold prices hold steady as uncertainty on US-Iran talks persists - The Times of India",
+      "source": "The Times of India",
+      "score": -0.34
+    },
+    {
+      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 05 May 2026 - The Times of India",
       "source": "The Times of India",
       "score": 0.0
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 4, 2026) on IBJA, Joyalukkas, Malabar Gold & Dia - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 04 May 2026 - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold and silver prices remain unchanged in India on May 4, 2026 - KalingaTV",
-      "source": "KalingaTV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, April 30: 22, 24, 18 carat gold prices across major jewellers in India - Upstox",
-      "source": "Upstox",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price On May 4: Check 24K, 22K Rates In Mumbai, Delhi, Chennai, Kolkata, Bengaluru, More - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4902
-    },
-    {
-      "title": "Gold Rate Today 4th May 2026: Gold is down by 0.60%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
-      "source": "financialexpress.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, May 4: MCX gold falls on inflation worries amid West Asia conflict; Check 24K, 22K prices in India - ET Now",
-      "source": "ET Now",
-      "score": -0.6249
     }
   ]
 }
