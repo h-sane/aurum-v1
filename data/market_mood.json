@@ -1,37 +1,32 @@
 {
-  "last_updated": "2026-05-05 19:01:47",
-  "sentiment_score": -0.11,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-05-06 19:17:38",
+  "sentiment_score": 0.22,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold, Silver Prices in India: Gold falls below Rs 1.5 lakh, silver rates decline, check prices in Kolkata, Mu - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on May 5 - FXStreet",
+      "title": "Gold price in India: Rates on May 6 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Today gold rate in India, May 5: US-Iran conflict, oil surge weigh on yellow metal; check Delhi, Mumbai, Chennai gold prices - MSN",
-      "source": "MSN",
-      "score": -0.3182
-    },
-    {
-      "title": "Gold Rate Today (May 5, 2026): Yellow Metal Falls Over Rs 31,300 From Peak; Check 24K, 22K, 18K Prices In Delh - Times Now",
-      "source": "Times Now",
+      "title": "Gold price Today: Check Gold, Silver rates in Delhi, Kolkata, Mumbai, Chennai, Hyderabad, Jaipur - India.Com",
+      "source": "India.Com",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today Live Updates: Gold prices hold steady as uncertainty on US-Iran talks persists - The Times of India",
-      "source": "The Times of India",
-      "score": -0.34
+      "title": "Should You Buy Gold Today Or Hold Back? Gulf Prices Stay Stable While India Sees Minor Drop - NewsX",
+      "source": "NewsX",
+      "score": 0.0258
     },
     {
-      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 05 May 2026 - The Times of India",
+      "title": "Gold Rate Today: Check 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru, Other Cities On May 6 - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices rally strongly as oil drops on hope of US-Iran talks - The Times of India",
       "source": "The Times of India",
-      "score": 0.0
+      "score": 0.6124
     }
   ]
 }
