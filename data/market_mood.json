@@ -1,27 +1,32 @@
 {
-  "last_updated": "2026-05-06 19:17:38",
-  "sentiment_score": 0.22,
+  "last_updated": "2026-05-07 19:22:29",
+  "sentiment_score": 0.07,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold price in India: Rates on May 6 - FXStreet",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 4, 2026) on IBJA, Joyalukkas, Malabar Gold & Dia - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices rise across India on May 7; check rates - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today 7th May 2026: Gold is up by 0.37%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
+      "source": "financialexpress.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Gold prices near one-week high as Middle East tensions show signs of easing - The Times of India",
+      "source": "The Times of India",
+      "score": -0.1779
+    },
+    {
+      "title": "Gold price in India: Rates on May 7 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
-    },
-    {
-      "title": "Gold price Today: Check Gold, Silver rates in Delhi, Kolkata, Mumbai, Chennai, Hyderabad, Jaipur - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Should You Buy Gold Today Or Hold Back? Gulf Prices Stay Stable While India Sees Minor Drop - NewsX",
-      "source": "NewsX",
-      "score": 0.0258
-    },
-    {
-      "title": "Gold Rate Today: Check 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru, Other Cities On May 6 - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
     },
     {
       "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices rally strongly as oil drops on hope of US-Iran talks - The Times of India",
