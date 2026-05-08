@@ -1,37 +1,47 @@
 {
-  "last_updated": "2026-05-07 19:22:29",
-  "sentiment_score": 0.07,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-05-08 19:01:13",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 4, 2026) on IBJA, Joyalukkas, Malabar Gold & Dia - The Economic Times",
+      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 08 May 2026 - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 8, 2026) on Malabar Gold & Diamonds, Joyalukkas, - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices rise across India on May 7; check rates - Mathrubhumi English",
+      "title": "Gold Rate Today, May 7: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rates today: Which Indian cities offer bigger savings and what buying trends are emerging? - Mathrubhumi English",
       "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today 7th May 2026: Gold is up by 0.37%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
-      "source": "financialexpress.com",
+      "title": "Gold, Silver Rate Today May 8: Gold prices soar or rebound? Check 18, 22, 24 carat Gold prices in Chennai, Mu - India.Com",
+      "source": "India.Com",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today Live Updates: Gold prices near one-week high as Middle East tensions show signs of easing - The Times of India",
+      "title": "Gold Price Today: Rates Climb In Major Indian Cities, Except Chennai - ETV Bharat",
+      "source": "ETV Bharat",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in Nagpur \u2013 18K, 22K & 24K Rate | 08 May 2026 - The Times of India",
       "source": "The Times of India",
-      "score": -0.1779
+      "score": 0.0
     },
     {
       "title": "Gold price in India: Rates on May 7 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices rally strongly as oil drops on hope of US-Iran talks - The Times of India",
-      "source": "The Times of India",
-      "score": 0.6124
     }
   ]
 }
