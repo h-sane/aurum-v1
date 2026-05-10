@@ -1,21 +1,31 @@
 {
-  "last_updated": "2026-05-09 18:41:18",
-  "sentiment_score": -0.01,
+  "last_updated": "2026-05-10 18:42:48",
+  "sentiment_score": -0.04,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 6, 2026) on Malabar Gold & Diamonds, Joyalukkas, - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price today: Yellow metal jumps; check 24K, 22K city-wise rates in Delhi, Mumbai, Kolkata and more - The Times of India",
+      "title": "Gold Price Today in Meerut \u2013 18K, 22K & 24K Rate | 10 May 2026 - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today May 9: Gold prices rally up or rebound? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
+      "title": "No change in Gold prices in India on May 10, 2026, Check rates here - Kalinga TV",
+      "source": "Kalinga TV",
+      "score": -0.296
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 8, 2026) on Malabar Gold & Diamonds, Joyalukkas, - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today May 10: Gold prices surges or rebound? Check 18, 22, 24 carat Gold prices in Chennai, - India.Com",
       "source": "India.Com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 09 May 2026 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
@@ -24,23 +34,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Today: Precious Metal Declines to Rs. 15,235 Across India Amid Global Uncertainty - Analytics Insight",
-      "source": "Analytics Insight",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices continue to rise as US-Iran tensions escalate - The Times of India",
-      "source": "The Times of India",
-      "score": -0.4019
-    },
-    {
       "title": "Gold price in India: Rates on May 7 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today, 9 May 2026: Dubai Leads As India And Global Markets Stay Steady; Check Rates in Your City Now! - NewsX",
-      "source": "NewsX",
+      "title": "Gold rates in Delhi today, check the rates on 10 May, 2026 - The Hans India",
+      "source": "The Hans India",
       "score": 0.0
     }
   ]
