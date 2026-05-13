@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12 19:25:36",
-  "sentiment_score": -0.24,
+  "last_updated": "2026-05-13 19:27:43",
+  "sentiment_score": -0.1,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
@@ -9,9 +9,14 @@
       "score": -0.4939
     },
     {
-      "title": "Gold, Silver Rate Today Highlights: Gold, silver prices rise marginally amid rising geopolitical tensions - The Times of India",
-      "source": "The Times of India",
-      "score": -0.4019
+      "title": "Explained: Why India Raised Gold Import Duty, And What It Means For You - NDTV",
+      "source": "NDTV",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today May 13: Gold rates up in Mumbai, Delhi, Chennai, Kolkata, Ahmedabad & Bengaluru - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
     },
     {
       "title": "Indian cities where 10 gm gold prices jumped from Rs 79 in 1947 to Rs 1.6 lakh in 2026 - India Today",
@@ -19,28 +24,23 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Prices fall after PM Modi's no-buying for one year appeal amid US-Iran war | Business News - Hindustan Times",
-      "source": "Hindustan Times",
-      "score": -0.5994
+      "title": "\u2018If Indians stop buying gold for one year, how much would India benefit?\u2019 User asks billion-dollar questio - The Economic Times",
+      "source": "The Economic Times",
+      "score": -0.296
     },
     {
-      "title": "Gold price increased by Rs 540 in India, Silver hiked by Rs 15,000 in the last 24 hours - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.2732
-    },
-    {
-      "title": "Gold Rate Falls Today After PM Modi's Call To Cut Yellow Metal Consumption; Check City-Wise Prices - News18",
-      "source": "News18",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold Rate Today [11 May, 2026] LIVE: Gold Rates Edges Higher to $4,715, Inflation Fears Weigh; Domestic Rates Surges to \u20b91.54 Lakh/10g | Check City-Wise Price of 24K, 22K & 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.4215
+      "title": "Gold price in India: Rates on May 13 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
     },
     {
       "title": "Gold Rate Today, May 12: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Silver Rate Today (May 13): Gold Near Record High, Silver Explodes Past Rs 2.9 Lakh Check Latest City-Wise Rates In India - ABP News",
+      "source": "ABP News",
       "score": 0.0
     }
   ]
