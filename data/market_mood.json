@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026-05-14 19:25:16",
-  "sentiment_score": -0.11,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-05-15 19:12:54",
+  "sentiment_score": 0.03,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold and silver price today, May 14: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities - Mint",
-      "source": "Mint",
+      "title": "Why is Gold Price Increasing Now in India? Latest Market Analysis - TheWire.in",
+      "source": "TheWire.in",
       "score": 0.0
     },
     {
-      "title": "Stop Buying Gold for a Year, India\u2019s Modi Says. Prices Stutter. - Barron's",
-      "source": "Barron's",
-      "score": -0.4939
-    },
-    {
-      "title": "Gold Rate Today May 14, 2026: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rises Rs 650 to Rs 1.66 lakh/10g in Delhi - Deccan Herald",
-      "source": "Deccan Herald",
-      "score": 0.0
-    },
-    {
-      "title": "\u2018If Indians stop buying gold for one year, how much would India benefit?\u2019 User asks billion-dollar questio - The Economic Times",
-      "source": "The Economic Times",
-      "score": -0.296
-    },
-    {
-      "title": "Gold price in India: Rates on May 13 - FXStreet",
+      "title": "Gold price in India: Rates on May 15 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold price today (May 14, Thursday): Check 24K, 22K and 18K rates across Indian cities - Mathrubhumi English",
+      "title": "Indian cities where 10 gm gold prices jumped from Rs 79 in 1947 to Rs 1.6 lakh in 2026 - India Today",
+      "source": "India Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: Rate drops on MCX amid a stronger US dollar, higher oil prices; experts highlight key levels to watch - Mint",
+      "source": "Mint",
+      "score": 0.6124
+    },
+    {
+      "title": "Gold Price in India: 9% import duty hike may only offset one month of imports \u2014 Here\u2019s why - financialexpress.com",
+      "source": "financialexpress.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price shock ahead: How much more will jewellery cost after duty hike? - Mathrubhumi English",
       "source": "Mathrubhumi English",
+      "score": -0.3818
+    },
+    {
+      "title": "Gold Price In India From 1947 to 2026: Why Gold Prices Have Skyrocketed in India Since 1955 - Asianet Newsable",
+      "source": "Asianet Newsable",
       "score": 0.0
     }
   ]
