@@ -1,10 +1,15 @@
 {
-  "last_updated": "2026-05-16 18:45:22",
-  "sentiment_score": 0.16,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-05-17 18:49:51",
+  "sentiment_score": -0.1,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 13, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
+      "title": "Gold, Silver Rate Highlights: MCX Gold, MCX Silver prices drop; gold set for weekly decline in international markets - The Times of India",
+      "source": "The Times of India",
+      "score": -0.2732
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 14, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
@@ -14,14 +19,19 @@
       "score": 0.0
     },
     {
-      "title": "Why is Gold Price Increasing Now in India? Latest Market Analysis - TheWire.in",
-      "source": "TheWire.in",
+      "title": "Gold Prices Remain Unchanged in India on May 17, 2026; Check Latest Rates - Kalinga TV",
+      "source": "Kalinga TV",
       "score": 0.0
     },
     {
-      "title": "Gold price today: Rate drops on MCX amid a stronger US dollar, higher oil prices; experts highlight key levels to watch - Mint",
-      "source": "Mint",
-      "score": 0.6124
+      "title": "Gold Rate Today, May 15: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today [17 May, 2026] LIVE Updates: Gold Rates Edges Lower to $4,538, Inflation Weigh Amid Middle East Tension; Domestic Rates Fall to \u20b91.59 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.5423
     },
     {
       "title": "Gold Down $200 This Week, Silver Spike Gone on Rates, India, Bitcoin Reserve - BullionVault",
@@ -29,9 +39,9 @@
       "score": 0.0
     },
     {
-      "title": "India\u2019s Gold Market Sees Sharp Price Spike After Fresh Duty Hike - Analytics Insight",
-      "source": "Analytics Insight",
-      "score": 0.3182
+      "title": "Gold price in India: Rates on May 15 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
     }
   ]
 }
