@@ -1,26 +1,11 @@
 {
-  "last_updated": "2026-05-17 18:49:51",
-  "sentiment_score": -0.1,
+  "last_updated": "2026-05-18 19:20:36",
+  "sentiment_score": -0.07,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Highlights: MCX Gold, MCX Silver prices drop; gold set for weekly decline in international markets - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 14, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 15, 2026) on Malabar Gold & Diamonds, Joyalukkas - The Economic Times",
       "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold prices fall across India: Check latest rates in your city - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Prices Remain Unchanged in India on May 17, 2026; Check Latest Rates - Kalinga TV",
-      "source": "Kalinga TV",
       "score": 0.0
     },
     {
@@ -29,19 +14,29 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today [17 May, 2026] LIVE Updates: Gold Rates Edges Lower to $4,538, Inflation Weigh Amid Middle East Tension; Domestic Rates Fall to \u20b91.59 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.5423
-    },
-    {
-      "title": "Gold Down $200 This Week, Silver Spike Gone on Rates, India, Bitcoin Reserve - BullionVault",
-      "source": "BullionVault",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 18, 2026) on Malabar Gold & Diamonds, Joyalukkas - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on May 15 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold Rate Today in Chennai: Latest 18K, 22K & 24K Gold Prices on 18 May 2026 - ET Now",
+      "source": "ET Now",
       "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today 18th May 2026: Gold is up by 0.72%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
+      "source": "financialexpress.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Silver Rate Today (May 18): Prices Slip Across Major Cities Check Latest Rates In Delhi, Mumbai, Chennai, More - ABP News",
+      "source": "ABP News",
+      "score": 0.0
+    },
+    {
+      "title": "Bangalore Gold Rate Today, May 18: Gold Prices Falls Sharply After UAE Nuclear Plant Attack Sparks Oil Surge - Oneindia",
+      "source": "Oneindia",
+      "score": -0.4767
     }
   ]
 }
