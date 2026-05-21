@@ -1,42 +1,37 @@
 {
-  "last_updated": "2026-05-20 19:59:34",
-  "sentiment_score": 0.06,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-05-21 19:40:36",
+  "sentiment_score": -0.09,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold price increased by Rs 1,310 for 24 carats in India, Check updated rates here - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.2732
-    },
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 20 May 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rate Today, May 20: Check 18, 22, 24 carat gold prices at major jewellery stores - Upstox",
+      "source": "Upstox",
       "score": 0.0
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 20, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in Chennai: Latest 18K, 22K & 24K Gold Prices on 20 May 2026 - ET Now",
-      "source": "ET Now",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today [19 May, 2026] LIVE Updates: Gold Rates Edges Higher to $4,539, Inflation Weigh Amid Middle East Tension; Domestic Rates Rise to \u20b91.62 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.3182
-    },
-    {
-      "title": "Gold price in India: Rates on May 19 - FXStreet",
+      "title": "Gold price in India: Rates on May 21 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today May 20: 24K Rises \u20b91,310, Extends Gains - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": 0.4404
+      "title": "Gold Rate Today 21st May 2026: Gold is down by 0.48%; check prices in Mumbai, Chennai, Delhi, Bengaluru - financialexpress.com",
+      "source": "financialexpress.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on May 20 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 18, 2026) on Malabar Gold & Diamonds, Joyalukkas - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today [21 May, 2026] LIVE Updates: Gold Rates Edges Lower to $4,562, Inflation Weigh Amid Middle East Tension; Domestic Rates Drops to \u20b91.60 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.5423
     }
   ]
 }
