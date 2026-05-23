@@ -1,17 +1,32 @@
 {
-  "last_updated": "2026-05-22 19:19:53",
-  "sentiment_score": 0.02,
+  "last_updated": "2026-05-23 18:51:34",
+  "sentiment_score": -0.05,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
-    {
-      "title": "ASIA GOLD Price volatility keeps India demand subdued, China premiums ease - Reuters",
-      "source": "Reuters",
-      "score": 0.25
-    },
     {
       "title": "Gold, Silver Rate Highlights: Gold prices set for second straight week of decline - The Times of India",
       "source": "The Times of India",
       "score": 0.2263
+    },
+    {
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 23 May in Delhi, Mumbai and Kolkata - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 22, 2026) on Malabar Gold & Diamonds, IBJA, Joya - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, May 20: Check 18, 22, 24 carat gold prices at major jewellery stores - Upstox",
+      "source": "Upstox",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today [23 May, 2026] LIVE Updates: Gold Rates Edges Lower to $4,508, Inflation Weigh Amid Middle East Tension; Domestic Rates Surge to \u20b91.61 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.5423
     },
     {
       "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 20, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
@@ -19,28 +34,8 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on May 22 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today [22 May, 2026] LIVE Updates: Gold Rates Edges Lower to $4,530, Inflation Weigh Amid Middle East Tension; Domestic Rates Drops to \u20b91.60 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.5423
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: MCX Gold, MCX Silver slip in trade as US Treasury yields pull back from multi-year highs - The Times of India",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 23 May 2026 - The Times of India",
       "source": "The Times of India",
-      "score": 0.2023
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 19, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, May 20: Check 18, 22, 24 carat gold prices at major jewellery stores - Upstox",
-      "source": "Upstox",
       "score": 0.0
     }
   ]
