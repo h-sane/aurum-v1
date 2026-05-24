@@ -1,16 +1,21 @@
 {
-  "last_updated": "2026-05-23 18:51:34",
-  "sentiment_score": -0.05,
+  "last_updated": "2026-05-24 18:57:18",
+  "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Highlights: Gold prices set for second straight week of decline - The Times of India",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 24 May 2026 - The Times of India",
       "source": "The Times of India",
-      "score": 0.2263
+      "score": 0.0
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 23 May in Delhi, Mumbai and Kolkata - Mint",
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 24 May in Delhi, Mumbai and Kolkata - Mint",
       "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "India gold market update: Import tightening | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
       "score": 0.0
     },
     {
@@ -19,23 +24,23 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, May 20: Check 18, 22, 24 carat gold prices at major jewellery stores - Upstox",
+      "title": "Hutti in Karnataka, India's only functional gold mine, dazzles as prices soar in world market - The Hindu",
+      "source": "The Hindu",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today, May 22: What are 22k, 24k, 18k gold prices in Mumbai, Chennai, Hyderabad, Delhi? - Upstox",
       "source": "Upstox",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today [23 May, 2026] LIVE Updates: Gold Rates Edges Lower to $4,508, Inflation Weigh Amid Middle East Tension; Domestic Rates Surge to \u20b91.61 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.5423
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 20, 2026) on IBJA, Malabar Gold & Diamonds, Joya - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold, Silver Rate Today May 24: Gold prices jump or unchanged? Check 18, 22, 24 carat Gold prices in Chennai, - India.Com",
+      "source": "India.Com",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 23 May 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Price Today: Gold, Silver Rates Fall Across Major Indian Cities - ETV Bharat",
+      "source": "ETV Bharat",
       "score": 0.0
     }
   ]
