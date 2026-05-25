@@ -1,21 +1,26 @@
 {
-  "last_updated": "2026-05-24 18:57:18",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-05-25 19:11:52",
+  "sentiment_score": 0.11,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 24 May 2026 - The Times of India",
+      "title": "India gold market update: Import tightening | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, May 25: Check 18, 22 and 24 carat gold prices in Delhi, Mumbai, Kolkata, Chennai and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price today: Yellow metal rises; check 24K, 22K city-wise rates in Delhi, Mumbai, Kolkata and more - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 24 May in Delhi, Mumbai and Kolkata - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "India gold market update: Import tightening | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
+      "title": "Gold price in India: Rates on May 25 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -24,24 +29,14 @@
       "score": 0.0
     },
     {
-      "title": "Hutti in Karnataka, India's only functional gold mine, dazzles as prices soar in world market - The Hindu",
-      "source": "The Hindu",
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 24 May in Delhi, Mumbai and Kolkata - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold rate today, May 22: What are 22k, 24k, 18k gold prices in Mumbai, Chennai, Hyderabad, Delhi? - Upstox",
-      "source": "Upstox",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today May 24: Gold prices jump or unchanged? Check 18, 22, 24 carat Gold prices in Chennai, - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Today: Gold, Silver Rates Fall Across Major Indian Cities - ETV Bharat",
-      "source": "ETV Bharat",
-      "score": 0.0
+      "title": "Gold, Silver Rate Today Live Updates: MCX gold rises Rs 426 amid hopes of US-Iran peace breakthrough - The Times of India",
+      "source": "The Times of India",
+      "score": 0.743
     }
   ]
 }
