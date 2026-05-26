@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-25 19:11:52",
-  "sentiment_score": 0.11,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-05-26 19:52:06",
+  "sentiment_score": -0.05,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "India gold market update: Import tightening | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
+      "title": "Gold price today: Yellow metal rises; check 24K, 22K city-wise rates in Delhi, Mumbai, Kolkata and more - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
@@ -14,29 +14,24 @@
       "score": 0.0
     },
     {
-      "title": "Gold price today: Yellow metal rises; check 24K, 22K city-wise rates in Delhi, Mumbai, Kolkata and more - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on May 25 - FXStreet",
+      "title": "Gold price in India: Rates on May 26 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 22, 2026) on Malabar Gold & Diamonds, IBJA, Joya - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Rate Today [26 May, 2026] LIVE Updates: US Gold Rates Edges Higher to $4,536 Amid Middle East Tension; Domestic Rates Climbs \u20b910 to \u20b91.60 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.3182
+    },
+    {
+      "title": "Gold and silver prices today: Latest 24K, 22K, 18K rates across major cities - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 24 May in Delhi, Mumbai and Kolkata - Mint",
-      "source": "Mint",
+      "title": "Gold Rate Today, May 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today Live Updates: MCX gold rises Rs 426 amid hopes of US-Iran peace breakthrough - The Times of India",
-      "source": "The Times of India",
-      "score": 0.743
     }
   ]
 }
