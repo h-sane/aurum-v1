@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-27 19:55:54",
-  "sentiment_score": -0.05,
+  "last_updated": "2026-05-28 20:01:04",
+  "sentiment_score": -0.13,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today, May 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on May 27 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold in India is 18% more expensive than global prices: 2 big reasons behind the gap - financialexpress.com",
+      "source": "financialexpress.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today [27 May, 2026] LIVE Updates: US Gold Rates Edges Higher to $4,510 Amid Middle East Tension; Domestic Rates Above \u20b91.59 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "title": "Gold Rate Today [28 May, 2026] LIVE Updates: US Gold Slides to $4,375 Amid Middle East Tensions; Domestic Prices Dip to \u20b91.56 Lakh/10g | Check City-Wise 24K, 22K, 18K Rates - The Sunday Guardian",
       "source": "The Sunday Guardian",
-      "score": -0.3182
+      "score": -0.4019
     },
     {
       "title": "Gold price today: Yellow metal rises; check 24K, 22K city-wise rates in Delhi, Mumbai, Kolkata and more - The Times of India",
@@ -24,14 +24,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, May 25: Check 18, 22 and 24 carat gold prices in Delhi, Mumbai, Kolkata, Chennai and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 28 May 2026 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 27 May 2026 - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
+      "title": "Gold Prices Fall, Silver Slips Below Rs 2.85 Lakh Per Kg In India Amid Heightened Geopolitical Tensions - ETV Bharat",
+      "source": "ETV Bharat",
+      "score": -0.4019
     }
   ]
 }
