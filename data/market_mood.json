@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28 20:01:04",
-  "sentiment_score": -0.13,
+  "last_updated": "2026-05-29 20:04:53",
+  "sentiment_score": -0.09,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
@@ -9,29 +9,34 @@
       "score": 0.0
     },
     {
-      "title": "Gold in India is 18% more expensive than global prices: 2 big reasons behind the gap - financialexpress.com",
-      "source": "financialexpress.com",
+      "title": "Gold price in India: Rates on May 29 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today [28 May, 2026] LIVE Updates: US Gold Slides to $4,375 Amid Middle East Tensions; Domestic Prices Dip to \u20b91.56 Lakh/10g | Check City-Wise 24K, 22K, 18K Rates - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.4019
+      "title": "Gold Rate Today May 29: Prices Fall \u20b9650 on Weak Demand - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": -0.5267
     },
     {
-      "title": "Gold price today: Yellow metal rises; check 24K, 22K city-wise rates in Delhi, Mumbai, Kolkata and more - The Times of India",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 29 May 2026 - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 28 May 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold, Silver Rate Today May 29: Gold prices hiked or unchanged? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
+      "source": "India.Com",
       "score": 0.0
     },
     {
-      "title": "Gold Prices Fall, Silver Slips Below Rs 2.85 Lakh Per Kg In India Amid Heightened Geopolitical Tensions - ETV Bharat",
-      "source": "ETV Bharat",
-      "score": -0.4019
+      "title": "Will Gold Rate Decrease in Coming Days in India? 5 June Signals to Watch - EBC Financial Group",
+      "source": "EBC Financial Group",
+      "score": 0.0
+    },
+    {
+      "title": "ASIA GOLD India gold demand tepid on price volatility; China premiums narrow - Reuters",
+      "source": "Reuters",
+      "score": -0.128
     }
   ]
 }
