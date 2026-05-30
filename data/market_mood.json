@@ -1,12 +1,17 @@
 {
-  "last_updated": "2026-05-29 20:04:53",
-  "sentiment_score": -0.09,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-05-30 18:55:47",
+  "sentiment_score": -0.01,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar - The Economic Times",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 30, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Highlights: MCX Gold, MCX Silver prices drop; International gold prices move up as all eyes on US-Iran peace deal - The Times of India",
+      "source": "The Times of India",
+      "score": 0.34
     },
     {
       "title": "Gold price in India: Rates on May 29 - FXStreet",
@@ -14,29 +19,29 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today May 29: Prices Fall \u20b9650 on Weak Demand - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": -0.5267
-    },
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 29 May 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold rate today (May 30): 24K gold hits \u20b915,765, silver prices also climb across India - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today May 29: Gold prices hiked or unchanged? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
-      "source": "India.Com",
+      "title": "Gold Rate Today [30 May, 2026] LIVE Updates: US Gold Rates Edges Higher to $4,535 Amid US-Iran War; Domestic Rates Above \u20b91.59 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.5994
+    },
+    {
+      "title": "Gold Price Today: 24K Gold Trades at Rs. 15,765 Per Gram; Check the Latest Silver Prices Across India\u2019s Top Cities - Analytics Insight",
+      "source": "Analytics Insight",
+      "score": 0.2023
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Will Gold Rate Decrease in Coming Days in India? 5 June Signals to Watch - EBC Financial Group",
-      "source": "EBC Financial Group",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 28, 2026) at IBJA, Tanishq, Joyalukkas, Malabar - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
-    },
-    {
-      "title": "ASIA GOLD India gold demand tepid on price volatility; China premiums narrow - Reuters",
-      "source": "Reuters",
-      "score": -0.128
     }
   ]
 }
