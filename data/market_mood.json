@@ -1,17 +1,27 @@
 {
-  "last_updated": "2026-05-30 18:55:47",
-  "sentiment_score": -0.01,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-05-31 18:59:16",
+  "sentiment_score": 0.07,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
+    {
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 31 May 2026 - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
     {
       "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 30, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Highlights: MCX Gold, MCX Silver prices drop; International gold prices move up as all eyes on US-Iran peace deal - The Times of India",
-      "source": "The Times of India",
-      "score": 0.34
+      "title": "Gold, Silver Rate Today May 31: Gold prices hiked or rebounded? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
+      "source": "India.Com",
+      "score": 0.0
+    },
+    {
+      "title": "US-Iran talks, oil and Fed signals key drivers for gold this week: Analysts - Business Standard",
+      "source": "Business Standard",
+      "score": 0.0
     },
     {
       "title": "Gold price in India: Rates on May 29 - FXStreet",
@@ -19,28 +29,18 @@
       "score": 0.0
     },
     {
-      "title": "Gold rate today (May 30): 24K gold hits \u20b915,765, silver prices also climb across India - Mathrubhumi English",
-      "source": "Mathrubhumi English",
+      "title": "Bullion movement: Gold prices to track US\u2013Iran peace talks, Fed signals and key data releases this week - The Times of India",
+      "source": "The Times of India",
+      "score": 0.5423
+    },
+    {
+      "title": "Gold Prices Rise Today: Check 22K and 24K Rates In Delhi, Mumbai, Other Cities On May 30 - News18",
+      "source": "News18",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today [30 May, 2026] LIVE Updates: US Gold Rates Edges Higher to $4,535 Amid US-Iran War; Domestic Rates Above \u20b91.59 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold Price Today: 24K Gold Trades at Rs. 15,765 Per Gram; Check the Latest Silver Prices Across India\u2019s Top Cities - Analytics Insight",
-      "source": "Analytics Insight",
-      "score": 0.2023
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 28, 2026) at IBJA, Tanishq, Joyalukkas, Malabar - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold, silver rates on May 31: Check latest prices for 24K, 22K, 18K in Delhi, Mumbai, Chennai, Kolkata - Business Today",
+      "source": "Business Today",
       "score": 0.0
     }
   ]
