@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-05-31 18:59:16",
-  "sentiment_score": 0.07,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-06-01 21:19:11",
+  "sentiment_score": -0.05,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 31 May 2026 - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
     {
       "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 30, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today May 31: Gold prices hiked or rebounded? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
-      "source": "India.Com",
+      "title": "Gold rate today 1st June 2026: Gold is up by 1.88%; check prices in Mumbai, Chennai, Delhi, Bengaluru - MSN",
+      "source": "MSN",
       "score": 0.0
     },
     {
-      "title": "US-Iran talks, oil and Fed signals key drivers for gold this week: Analysts - Business Standard",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 01 June 2026 - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold prices fall \u20b9864 to \u20b91.56 lakh per 10 gm: Down \u20b920,000 from all-time high; silver slides to \u20b92.63 lakh... - Bhaskar English",
+      "source": "Bhaskar English",
+      "score": 0.0
+    },
+    {
+      "title": "Domestic gold tracks global rally despite import duty hike; weak demand limits impact - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": -0.5267
+    },
+    {
+      "title": "Gold Price Today: MCX Rate Dips To Rs 1.5 Lakh Mark Amid US-Iran Ceasefire Uncertainties - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.128
+    },
+    {
+      "title": "Gold price dips \u20b910 to \u20b91,57,030; silver down \u20b9100, trading at \u20b92,79,900 - Business Standard",
       "source": "Business Standard",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on May 29 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Bullion movement: Gold prices to track US\u2013Iran peace talks, Fed signals and key data releases this week - The Times of India",
-      "source": "The Times of India",
-      "score": 0.5423
-    },
-    {
-      "title": "Gold Prices Rise Today: Check 22K and 24K Rates In Delhi, Mumbai, Other Cities On May 30 - News18",
-      "source": "News18",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver rates on May 31: Check latest prices for 24K, 22K, 18K in Delhi, Mumbai, Chennai, Kolkata - Business Today",
-      "source": "Business Today",
+      "title": "Gold, Silver Rate Today May 31: Gold prices hiked or rebounded? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
+      "source": "India.Com",
       "score": 0.0
     }
   ]
