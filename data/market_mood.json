@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-02 20:32:36",
-  "sentiment_score": 0.05,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-06-03 20:44:09",
+  "sentiment_score": -0.27,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 02 June 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 3, 2026) at Tanishq, Joyalukkas, Kalyan Jewelle - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Delhi 2nd June 2026 : 22 & 24 Carat, Gold Price in Delhi - Business Today",
-      "source": "Business Today",
-      "score": 0.0
+      "title": "Gold, Silver Rate Today Live Updates: International gold prices edge down on renewed US-Iran tensions - The Times of India",
+      "source": "The Times of India",
+      "score": -0.4019
     },
     {
       "title": "Gold and silver prices today, 2 June: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities - Mint",
@@ -19,23 +19,23 @@
       "score": 0.0
     },
     {
-      "title": "India Gold price today: Gold rises, according to FXStreet data - TMGM",
-      "source": "TMGM",
+      "title": "Gold price in India today (June 3, 2026): City-wise rates for Delhi, Mumbai, and, more - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Why is gold price down today, and will precious metals continue to drop or rise again? Gold falls as infla - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.3818
+      "title": "Gold Rate Today [03 June, 2026] LIVE Updates: US Gold Rates Edges Lower to $4,481 Amid US-Iran War; Domestic Rates Surges \u20b91.56 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.7269
     },
     {
-      "title": "Gold prices cross Rs 1.60 lakh in futures trade - Telangana Today",
-      "source": "Telangana Today",
-      "score": 0.0
+      "title": "Gold, Silver Rate Highlights: MCX Gold drops, MCX Silver rises; international gold prices steady amid rising crude prices & US-Iran talks uncertainty - The Times of India",
+      "source": "The Times of India",
+      "score": -0.7269
     },
     {
-      "title": "Gold Rate Today June 2: 24K Holds at \u20b91,56,220/10g - HDFC Sky",
-      "source": "HDFC Sky",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 03 June 2026 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     }
   ]
