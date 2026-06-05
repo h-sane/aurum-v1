@@ -1,12 +1,22 @@
 {
-  "last_updated": "2026-06-04 19:51:50",
-  "sentiment_score": 0.13,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-06-05 19:27:29",
+  "sentiment_score": -0.09,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 04 June 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 5 June 2026 - Mint",
+      "source": "Mint",
       "score": 0.0
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 5, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today India (June 5): City-Wise 24K, 22K Gold & Silver Rates Slip Amid Weak Global Cues - APAC Media",
+      "source": "APAC Media",
+      "score": -0.4404
     },
     {
       "title": "Gold Rate Today, June 4, 2026: Gold Price Hold Ground for Fourth Straight Session; 24K Stays at \u20b91,56,210 per 10 gm as RBI Policy Day Awaited - HDFC Sky",
@@ -14,34 +24,19 @@
       "score": 0.2023
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 4, 2026) at Tanishq, Joyalukkas, Kalyan Jewelle - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold prices steady at retailers as IBJA rates dip - MSN",
+      "source": "MSN",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today June 4: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
-      "source": "BusinessLine",
+      "title": "India gold market update: Import tightening | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today (June 4): 24K, 22K Gold & 999 Silver Prices in Mumbai, Kolkata and Across India - APAC Media",
-      "source": "APAC Media",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, June 4: What is the price of 18, 22, 24 carat gold today? - Upstox",
-      "source": "Upstox",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today: MCX gold price rises above \u20b91.59 lakh per 10 grams, silver gains amid US-Iran peace deal hopes - Mint",
-      "source": "Mint",
-      "score": 0.8271
-    },
-    {
-      "title": "Gold and silver prices jump in India: Here's what's pushing them higher - CNBC TV18",
-      "source": "CNBC TV18",
-      "score": 0.0
+      "title": "Indian Gold Prices Defy Global Trend, Rise Amid Geopolitical Tensions - Devdiscourse",
+      "source": "Devdiscourse",
+      "score": -0.4019
     }
   ]
 }
