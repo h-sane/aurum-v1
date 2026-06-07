@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-06 19:02:10",
-  "sentiment_score": 0.03,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-06-07 19:02:28",
+  "sentiment_score": -0.11,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 06 June 2026 - The Times of India",
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 07 June 2026 - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 6 June 2026 in Mumbai, Delhi, Bengaluru, cities - Mint",
+      "title": "Gold, silver prices today, June 7: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
       "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Delhi 6th June 2026 : 22 & 24 Carat, Gold Price in Delhi - Business Today",
-      "source": "Business Today",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 6, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
@@ -24,24 +24,19 @@
       "score": -0.296
     },
     {
-      "title": "Gold prices steady in India despite global tensions - MSN",
-      "source": "MSN",
-      "score": 0.3089
-    },
-    {
-      "title": "Gold Rate Today, June 4, 2026: Gold Price Hold Ground for Fourth Straight Session; 24K Stays at \u20b91,56,210 per 10 gm as RBI Policy Day Awaited - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": 0.2023
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 5, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold prices witness sharp decline - News Arena India",
+      "source": "News Arena India",
       "score": 0.0
     },
     {
-      "title": "India gold market update: Import tightening | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
+      "title": "India Gold price today: Gold falls, according to FXStreet data - Mitrade",
+      "source": "Mitrade",
       "score": 0.0
+    },
+    {
+      "title": "Gold Price Today India (June 5): City-Wise 24K, 22K Gold & Silver Rates Slip Amid Weak Global Cues - APAC Media",
+      "source": "APAC Media",
+      "score": -0.4404
     }
   ]
 }
