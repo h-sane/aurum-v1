@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-06-07 19:02:28",
-  "sentiment_score": -0.11,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-06-08 19:57:58",
+  "sentiment_score": 0.05,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 07 June 2026 - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
+      "title": "Gold falls by Rs 1,800, silver crashes over Rs 6,400: What's dragging precious metals lower? - India Today",
+      "source": "India Today",
+      "score": 0.3612
     },
     {
-      "title": "Gold, silver prices today, June 7: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 6, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 8, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan J - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today June 06: Gold prices trading higher or lower? Check 18, 22, 24 carat Gold prices in C - India.Com",
+      "title": "Gold and silver prices today, 8 June: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today June 08: Has Gold prices hiked or rebounded? Check 18, 22, 24 carat Gold prices in Ch - India.Com",
       "source": "India.Com",
-      "score": -0.296
-    },
-    {
-      "title": "Gold prices witness sharp decline - News Arena India",
-      "source": "News Arena India",
       "score": 0.0
     },
     {
-      "title": "India Gold price today: Gold falls, according to FXStreet data - Mitrade",
-      "source": "Mitrade",
+      "title": "Gold Rate Today June 8: Prices Fall \u20b93,380 Amid Volatility - HDFC Sky",
+      "source": "HDFC Sky",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today India (June 5): City-Wise 24K, 22K Gold & Silver Rates Slip Amid Weak Global Cues - APAC Media",
-      "source": "APAC Media",
-      "score": -0.4404
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 08 June 2026 - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Prices Fall Sharply Across India - Kashmir Life",
+      "source": "Kashmir Life",
+      "score": 0.0
     }
   ]
 }
