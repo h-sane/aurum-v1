@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-06-09 19:53:13",
-  "sentiment_score": -0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-06-10 20:05:13",
+  "sentiment_score": -0.06,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 09 June 2026 - The Times of India",
+      "title": "Gold Rate Today LIVE Updates: US Gold Rates Edges Higher to $4,440 Amid Trump-Iran Deal; Domestic Rates Surges \u20b91.55 Lakh/10g | Check City-Wise Price of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, June 9: Gold prices rebound; check 24, 22, 18 carat rates in major cities - Upstox",
+      "source": "Upstox",
+      "score": 0.0
+    },
+    {
+      "title": "Gold remains in demand despite record-high rates in Indian markets - The New Indian Express",
+      "source": "The New Indian Express",
+      "score": -0.128
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 9, 2026) at Tanishq, Joyalukkas, Kalyan Jewelle - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, June 10, 2026: Gold Price Holds Firm on Wednesday; 24K Rises \u20b910 per 10 gm from Tuesday - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 10 June 2026 - The Times of India",
       "source": "The Times of India",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold and silver on 9 June 2026 in Mumbai, Delhi, other cities - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold prices fall in India as global market weakens - MSN",
-      "source": "MSN",
-      "score": -0.3182
-    },
-    {
-      "title": "Gold price in India: Rates on June 9 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold falls by Rs 1,800, silver crashes over Rs 6,400: What's dragging precious metals lower? - India Today",
-      "source": "India Today",
-      "score": 0.3612
-    },
-    {
-      "title": "Gold, Silver Rate Today June 08: Has Gold prices hiked or rebounded? Check 18, 22, 24 carat Gold prices in Ch - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, June 9, 2026: Gold Price Edges Up on Tuesday as Iran-Israel Ceasefire Tempers Rally; 24K Rises \u20b9440 per 10 gram From Monday - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": -0.3182
+      "title": "Gold in India falls below pre-duty-hike levels as overseas prices drop - Business Standard",
+      "source": "Business Standard",
+      "score": -0.2732
     }
   ]
 }
