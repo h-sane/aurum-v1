@@ -1,26 +1,21 @@
 {
-  "last_updated": "2026-06-12 19:48:49",
-  "sentiment_score": -0.09,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-06-13 19:04:14",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold prices in India remain under pressure despite escalating West Asia tensions | Akashvani News - News On AIR",
-      "source": "News On AIR",
-      "score": -0.5994
-    },
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 12 June 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold rate today (June 13, 2026): Check 24k, 22k and 18k gold jewellery rates from IBJA, Malabar Gold and D - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold and silver prices today, 12 June: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities - Mint",
+      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 13 June 2026 in Mumbai, Delhi, other cities - Mint",
       "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today (12 June): 24K, 22K Prices in Delhi, Kolkata, Across India; Silver Hits \u20b92.45 Lakh/kg - APAC Media",
-      "source": "APAC Media",
+      "title": "Gold Rate in India June 11: Gold prices down in Chennai, Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
@@ -29,13 +24,18 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, June 12: Yellow-metal rebounds to near \u20b914,900/gm; check 24, 22 and 18 carat price - Upstox",
-      "source": "Upstox",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 10, 2026) at Tanishq, Joyalukkas, Kalyan Jewell - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Hyderabad Fall Sharply on June 11 - INDToday",
-      "source": "INDToday",
+      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 11 June 2026 in Mumbai, Delhi, other cities - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 13 June 2026 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     }
   ]
