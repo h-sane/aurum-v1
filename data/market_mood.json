@@ -1,16 +1,26 @@
 {
-  "last_updated": "2026-06-13 19:04:14",
-  "sentiment_score": 0.0,
+  "last_updated": "2026-06-14 19:04:31",
+  "sentiment_score": -0.04,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold rate today (June 13, 2026): Check 24k, 22k and 18k gold jewellery rates from IBJA, Malabar Gold and D - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold, silver prices today, June 14: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 13 June 2026 in Mumbai, Delhi, other cities - Mint",
-      "source": "Mint",
+      "title": "Gold, Silver Rate Today June 14: Are Gold prices trading higher or lower? Check 18, 22, 24 carat Gold prices - India.Com",
+      "source": "India.Com",
+      "score": -0.296
+    },
+    {
+      "title": "Gold price in India: Rates on June 12 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold prices hold steady across Indian cities amid global caution - MSN",
+      "source": "MSN",
       "score": 0.0
     },
     {
@@ -24,18 +34,13 @@
       "score": 0.0
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 10, 2026) at Tanishq, Joyalukkas, Kalyan Jewell - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Rate Today, June 12: Yellow-metal rebounds to near \u20b914,900/gm; check 24, 22 and 18 carat price - Upstox",
+      "source": "Upstox",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 11 June 2026 in Mumbai, Delhi, other cities - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 13 June 2026 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rate Today (12 June): 24K, 22K Prices in Delhi, Kolkata, Across India; Silver Hits \u20b92.45 Lakh/kg - APAC Media",
+      "source": "APAC Media",
       "score": 0.0
     }
   ]
