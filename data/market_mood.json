@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026-06-18 20:05:10",
-  "sentiment_score": 0.09,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-06-19 19:21:45",
+  "sentiment_score": -0.04,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today, June 18: Prices steady; check 18, 22 and 24 carat prices across major cities - Upstox",
-      "source": "Upstox",
+      "title": "India gold market update: Demand cools | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": -0.128
+    },
+    {
+      "title": "ASIA GOLD Price volatility keeps India demand modest, China flips to discount - Reuters",
+      "source": "Reuters",
+      "score": -0.128
+    },
+    {
+      "title": "Gold Rate Today, June 19: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on June 16 - FXStreet",
+      "title": "Gold price in India: Rates on June 19 - FXStreet",
       "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today (June 16, 2026): Check 24k, 22k and 18k gold jewellery prices from Joyalukkas, Malabar Gol - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: MCX Gold Slips Near \u20b91.47 Lakh as Silver Crashes by \u20b96,000 per kg Amid Hawkish Fed Stance Across Delhi, Mumbai, Chennai, Hyderabad & More | Check City-Wise Rates of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     },
     {
       "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 17 June 2026 in Mumbai, Delhi, other cities - Mint",
       "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price To Increase By 40% In Next 6 Months? - News18",
-      "source": "News18",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold Price Falls Today: Check 22K And 24K Rates Across India On June 17 - News18",
-      "source": "News18",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, June 16: Prices fall after sharp increase; check 18, 22 and 24 carat gold price - Upstox",
-      "source": "Upstox",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold Price Today in Erode \u2013 18K, 22K & 24K Rate | 18 June 2026 - The Times of India",
-      "source": "The Times of India",
       "score": 0.0
     }
   ]
