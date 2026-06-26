@@ -1,21 +1,26 @@
 {
-  "last_updated": "2026-06-25 19:42:33",
-  "sentiment_score": -0.09,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-06-26 19:25:29",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold price crash explained: Why are gold rates falling and when will yellow metal recover? - The Times of India",
-      "source": "The Times of India",
-      "score": -0.5106
+      "title": "Gold Rate Today Live Updates: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.0
     },
     {
-      "title": "Gold Rate Today, June 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, June 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, June 25: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
+      "title": "Gold, silver prices today, June 26: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
       "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on June 26 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -24,13 +29,18 @@
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today Highlights: MCX Gold, MCX Silver futures steady; international gold prices rise after US data - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold, silver prices today, June 25: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
+      "source": "Mint",
       "score": 0.0
     },
     {
-      "title": "Gold price isn\u2019t behaving as expected after India\u2019s record tariff hike - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold Rate Today, June 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, June 24: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
+      "source": "Mint",
       "score": 0.0
     }
   ]
