@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-06-26 19:25:29",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-06-27 18:59:46",
+  "sentiment_score": -0.06,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
+    {
+      "title": "Gold Rate Today, June 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
     {
       "title": "Gold Rate Today Live Updates: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
+      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 27 June 2026 in Mumbai, Delhi, other cities - Mint",
+      "source": "Mint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price crash explained: Why are gold rates falling and when will yellow metal recover? - The Times of India",
+      "source": "The Times of India",
+      "score": -0.5106
+    },
+    {
+      "title": "Gold rate today in India (June 27, 2026): Check today's 24K, 22K and 18K prices - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today Live: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, 26 June 2026: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.0
+    },
+    {
       "title": "Gold Rate Today, June 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, June 26: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on June 26 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, June 24: Prices fall for second day; check 24, 22, 18 carat rate - Upstox",
-      "source": "Upstox",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, June 25: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
-      "source": "Mint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, June 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, June 24: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Mint",
-      "source": "Mint",
       "score": 0.0
     }
   ]
