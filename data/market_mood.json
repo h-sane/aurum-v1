@@ -1,21 +1,11 @@
 {
-  "last_updated": "2026-06-27 18:59:46",
+  "last_updated": "2026-06-28 18:58:53",
   "sentiment_score": -0.06,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today, June 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today Live Updates: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
+      "title": "Gold Price Today Live: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 27 June 2026 in Mumbai, Delhi, other cities - Mint",
-      "source": "Mint",
       "score": 0.0
     },
     {
@@ -24,23 +14,33 @@
       "score": -0.5106
     },
     {
-      "title": "Gold rate today in India (June 27, 2026): Check today's 24K, 22K and 18K prices - Mathrubhumi English",
-      "source": "Mathrubhumi English",
+      "title": "Gold Rate Today in Delhi 28th June 2026 : 22 & 24 Carat, Gold Price in Delhi - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today Live: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
-      "source": "Moneycontrol.com",
+      "title": "Gold prices rise in India as global cues lift sentiment - MSN",
+      "source": "MSN",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, 26 June 2026: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
-      "source": "Moneycontrol.com",
+      "title": "Gold Rate Today in Kerala 28th June 2026 : 22 & 24 Carat, Gold Price in Kerala - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
       "title": "Gold Rate Today, June 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Punjab 28th June 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
+      "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Jaipur 28th June 2026 : 22 & 24 Carat, Gold Price in Jaipur - Business Today",
+      "source": "Business Today",
       "score": 0.0
     }
   ]
