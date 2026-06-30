@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-06-29 19:29:47",
-  "sentiment_score": -0.08,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-06-30 19:28:32",
+  "sentiment_score": -0.01,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold price crash: Why Indian households are rushing to sell their old gold jewellery - The Times of India",
-      "source": "The Times of India",
-      "score": -0.4019
-    },
-    {
-      "title": "Gold Price Today Live: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
+      "title": "Gold Price Today: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: MCX Gold Hits Near \u20b91.44 Lakh as Silver Crashes by \u20b98,000 per kg Amid Stronger Dollar Across Delhi, Mumbai, Chennai, Hyderabad, Kerala & More | Check City-Wise Rates of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.3818
-    },
-    {
-      "title": "Gold, Silver Rate Today Live Updates: Gold, silver likely to continue being under pressure on global uncertainties; international prices decline - The Times of India",
-      "source": "The Times of India",
-      "score": -0.5574
-    },
-    {
-      "title": "Gold Rate Today, June 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, June 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price isn\u2019t behaving as expected after India\u2019s record tariff hike - FXStreet",
+      "title": "Gold, silver prices today, 29 June: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold prices fall: Indians sell old jewellery as fears of deeper correction grow - India Today",
+      "source": "India Today",
+      "score": -0.4215
+    },
+    {
+      "title": "Gold price in India: Rates on June 30 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, June 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold price today: Gold drops sharply across India; Silver slides \u20b95,000 per kg on June 30 - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: MCX Gold Falls to \u20b91.40 Lakh as Silver Crashes by \u20b945,000 per kg Amid Stronger Dollar Across Delhi, Mumbai, Chennai, Hyderabad, Kerala & More | Check City-Wise Rates of 24K, 22K, 18K - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.3818
     }
   ]
 }
