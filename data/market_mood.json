@@ -1,42 +1,37 @@
 {
-  "last_updated": "2026-06-30 19:28:32",
-  "sentiment_score": -0.01,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-01 19:26:37",
+  "sentiment_score": -0.08,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Price Today: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
+      "title": "Gold Rate Today Live Updates: Latest 22K and 24K Gold Prices Across Indian Cities - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, June 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Rate Today in Gujarat 1st July 2026 : 22 & 24 Carat, Gold Price in Gujarat - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 29 June: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "title": "Gold, silver prices today, 1 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
       "source": "livemint.com",
       "score": 0.0
     },
     {
-      "title": "Gold prices fall: Indians sell old jewellery as fears of deeper correction grow - India Today",
+      "title": "Gold prices fall, but buyers disappear as demand drops 70% - India Today",
       "source": "India Today",
-      "score": -0.4215
+      "score": -0.4767
     },
     {
-      "title": "Gold price in India: Rates on June 30 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold rate today (June 30, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold price today: Gold drops sharply across India; Silver slides \u20b95,000 per kg on June 30 - Mathrubhumi English",
-      "source": "Mathrubhumi English",
+      "title": "Gold Rate Today in Visakhapatnam 1st July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
+      "source": "Business Today",
       "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today: MCX Gold Falls to \u20b91.40 Lakh as Silver Crashes by \u20b945,000 per kg Amid Stronger Dollar Across Delhi, Mumbai, Chennai, Hyderabad, Kerala & More | Check City-Wise Rates of 24K, 22K, 18K - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.3818
     }
   ]
 }
