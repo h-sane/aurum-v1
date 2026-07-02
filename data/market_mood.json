@@ -1,35 +1,30 @@
 {
-  "last_updated": "2026-07-01 19:26:37",
-  "sentiment_score": -0.08,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-07-02 19:05:09",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today Live Updates: Latest 22K and 24K Gold Prices Across Indian Cities - Moneycontrol.com",
+      "title": "Gold Rate Today Live Updates: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Gujarat 1st July 2026 : 22 & 24 Carat, Gold Price in Gujarat - Business Today",
-      "source": "Business Today",
+      "title": "India Gold price today: Gold rises, according to FXStreet data - Mitrade",
+      "source": "Mitrade",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 1 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold prices fall, but buyers disappear as demand drops 70% - India Today",
-      "source": "India Today",
-      "score": -0.4767
-    },
-    {
-      "title": "Gold rate today (June 30, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, - The Economic Times",
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 1, 2026) at IBJA, Malabar Gold & Diamonds, - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Visakhapatnam 1st July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
+      "title": "Gold Rate Today in Visakhapatnam 2nd July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
+      "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Punjab 2nd July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
       "source": "Business Today",
       "score": 0.0
     }
