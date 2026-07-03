@@ -1,31 +1,36 @@
 {
-  "last_updated": "2026-07-02 19:05:09",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-03 18:57:50",
+  "sentiment_score": 0.1,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today Live Updates: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
-      "source": "Moneycontrol.com",
+      "title": "Gold Rate Today, July 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "India Gold price today: Gold rises, according to FXStreet data - Mitrade",
-      "source": "Mitrade",
-      "score": 0.0
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 1, 2026) at IBJA, Malabar Gold & Diamonds, - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in Visakhapatnam 2nd July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
+      "title": "Gold Rate Today in Visakhapatnam 3rd July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
       "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Punjab 2nd July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
+      "title": "Gold Rate Today in Punjab 3rd July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
       "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver rates jump up to 2% on MCX as US Fed rate hike bets ease; experts highlight key levels to watch - livemint.com",
+      "source": "livemint.com",
+      "score": 0.5994
+    },
+    {
+      "title": "Gold Rate Today in Gujarat 3rd July 2026 : 22 & 24 Carat, Gold Price in Gujarat - Business Today",
+      "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, July 3: Price surges by up to \u20b93,220 per 10 gm; check 24, 22, 18 carat price in your city - Upstox",
+      "source": "Upstox",
       "score": 0.0
     }
   ]
