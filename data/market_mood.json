@@ -1,36 +1,46 @@
 {
-  "last_updated": "2026-07-03 18:57:50",
-  "sentiment_score": 0.1,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-07-04 18:52:01",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today, July 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, July 4: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Visakhapatnam 3rd July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
-      "source": "Business Today",
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 3, 2026) at IBJA, Malabar Gold & Diamonds, - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Punjab 3rd July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
-      "source": "Business Today",
+      "title": "Gold Price Today Live: City-Wise 22K and 24K Gold Prices Across India - Moneycontrol.com",
+      "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Gold, silver rates jump up to 2% on MCX as US Fed rate hike bets ease; experts highlight key levels to watch - livemint.com",
+      "title": "Gold Rate Today July 3: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 2 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
       "source": "livemint.com",
-      "score": 0.5994
-    },
-    {
-      "title": "Gold Rate Today in Gujarat 3rd July 2026 : 22 & 24 Carat, Gold Price in Gujarat - Business Today",
-      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, July 3: Price surges by up to \u20b93,220 per 10 gm; check 24, 22, 18 carat price in your city - Upstox",
-      "source": "Upstox",
+      "title": "Gold rate today (July 2, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 1, 2026) at IBJA, Malabar Gold & Diamonds, - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, July 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     }
   ]
