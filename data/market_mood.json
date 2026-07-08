@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-07 19:29:54",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-08 19:02:01",
+  "sentiment_score": -0.07,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold rate today (July 6, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
+      "title": "Gold, Silver Rate Today Live Updates: Spot gold hits one-week low, slips to $4,100 per ounce - The Times of India",
+      "source": "The Times of India",
+      "score": -0.2732
     },
     {
-      "title": "Gold Rate Today, July 7: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold, silver prices today, 8 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
     },
     {
@@ -19,8 +19,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 7 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
+      "title": "Gold Rate Today, July 8: Prices continue to trend lower; check 24, 22, 18 carat rates - Upstox",
+      "source": "Upstox",
+      "score": -0.296
+    },
+    {
+      "title": "Gold Rate Today, July 7: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
@@ -29,12 +34,12 @@
       "score": 0.0
     },
     {
-      "title": "Gold rate today (July 7, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold Rate Today, July 8: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today \u2014 5 July: Check retail rates of 24K, 22K gold, 18K, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "title": "Gold, silver prices today, 7 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
       "source": "livemint.com",
       "score": 0.0
     }
