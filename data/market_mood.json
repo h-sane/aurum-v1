@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-07-08 19:02:01",
-  "sentiment_score": -0.07,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-07-09 19:17:06",
+  "sentiment_score": 0.05,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
-    {
-      "title": "Gold, Silver Rate Today Live Updates: Spot gold hits one-week low, slips to $4,100 per ounce - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold, silver prices today, 8 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today Live Updates: Today's 22K and 24K Gold Prices in Major Indian Cities - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, July 8: Prices continue to trend lower; check 24, 22, 18 carat rates - Upstox",
-      "source": "Upstox",
-      "score": -0.296
-    },
     {
       "title": "Gold Rate Today, July 7: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on July 7 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold, Silver Rate Today Highlights: Gold falls Rs 350 for fourth straight session; Silver drops to Rs 7,800 - The Times of India",
+      "source": "The Times of India",
+      "score": 0.2263
+    },
+    {
+      "title": "Gold Rate Today in Delhi 9th July 2026 : 22 & 24 Carat, Gold Price in Delhi - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, July 8: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold rate today (July 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 7 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
+      "title": "India's gold prices ease but remain above global rates - MSN",
+      "source": "MSN",
+      "score": 0.1901
+    },
+    {
+      "title": "Gold Rate Today, July 8, 2026: Gold Prices Slide Rs 1,360 per 10 gram - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Punjab 9th July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
+      "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Maharashtra 9th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra - Business Today",
+      "source": "Business Today",
       "score": 0.0
     }
   ]
