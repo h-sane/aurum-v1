@@ -1,16 +1,26 @@
 {
-  "last_updated": "2026-07-10 19:12:32",
-  "sentiment_score": -0.03,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-11 18:41:19",
+  "sentiment_score": -0.06,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today, July 10: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 10, 2026) at Tanishq, Malabar Gold & Diamo - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, July 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Visakhapatnam 10th July 2026 : 22 & 24 Carat, Gold Price in Visakhapatnam - Business Today",
-      "source": "Business Today",
+      "title": "Gold, Silver Rate Today Highlights: Yellow metal steadies but remains on track for weekly loss; silver rebounds - The Times of India",
+      "source": "The Times of India",
+      "score": -0.4497
+    },
+    {
+      "title": "Gold, silver prices today, 10 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
     },
     {
@@ -19,19 +29,19 @@
       "score": 0.0
     },
     {
+      "title": "Gold Rate Today, July 10: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
       "title": "Gold rate today (July 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Punjab 10th July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
-      "source": "Business Today",
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 8, 2026) at Malabar Gold & Diamonds, Tanis - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
-    },
-    {
-      "title": "Silver becomes \u20b91,780/kg cheaper today, falling \u20b93,416 this month: Gold gets \u20b92,183/10 gm costlier in July;... - Bhaskar English",
-      "source": "Bhaskar English",
-      "score": -0.1531
     }
   ]
 }
