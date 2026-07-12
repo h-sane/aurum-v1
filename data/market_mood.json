@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11 18:41:19",
-  "sentiment_score": -0.06,
+  "last_updated": "2026-07-12 18:44:52",
+  "sentiment_score": -0.17,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
@@ -34,14 +34,9 @@
       "score": 0.0
     },
     {
-      "title": "Gold rate today (July 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 8, 2026) at Malabar Gold & Diamonds, Tanis - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
+      "title": "Gold Rate Today: MCX Gold Steady at \u20b91.45 Lakh as Silver Drops \u20b95,000 Amid US-Iran War Tensions \u2013 Check 24K, 22K, 18K Gold Prices Across Delhi, Mumbai, Chennai, Kerala, Surat, Pune & More - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.765
     }
   ]
 }
