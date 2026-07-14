@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-13 19:07:59",
-  "sentiment_score": -0.15,
+  "last_updated": "2026-07-14 18:57:54",
+  "sentiment_score": -0.12,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold, silver prices today, 13 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "title": "Gold, silver prices today, 14 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
       "source": "livemint.com",
       "score": 0.0
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 11, 2026) at Tanishq, Malabar Gold & Diamo - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold price in India: Rates on July 14 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -19,24 +19,19 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, July 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today July 13: Gold gets costlier or cheaper? Check 18, 22, 24 carat Gold prices in Chennai - India.Com",
-      "source": "India.Com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today: MCX Gold Drops Below \u20b91.44 Lakh as Silver Falls \u20b95,400 Amid US-Iran War Tensions \u2013 Check 24K, 22K, 18K Gold Prices Across Delhi, Mumbai, Chennai, Kerala, Surat, Pune & More - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": -0.765
-    },
-    {
       "title": "Gold Rate Today, July 13: Prices drop by up to \u20b91,420/10 gm; check 24, 22, 18 carat rates - Upstox",
       "source": "Upstox",
       "score": -0.2732
+    },
+    {
+      "title": "Gold price drops 1%, silver rates crash over 2% on MCX as inflation fears, rate hike concerns revive - livemint.com",
+      "source": "livemint.com",
+      "score": -0.4767
+    },
+    {
+      "title": "Gold, silver prices today, 13 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
+      "score": 0.0
     }
   ]
 }
