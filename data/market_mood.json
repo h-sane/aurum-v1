@@ -1,11 +1,21 @@
 {
-  "last_updated": "2026-07-16 18:52:27",
-  "sentiment_score": 0.01,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-17 18:49:27",
+  "sentiment_score": -0.07,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold rate today (July 13, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities - The Economic Times",
+      "title": "India gold market update: Mixed demand signals | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": -0.128
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 17, 2026) at Tanishq, Malabar Gold & Diamo - The Economic Times",
       "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 17 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
     },
     {
@@ -14,24 +24,14 @@
       "score": -0.2732
     },
     {
+      "title": "Gold Rate Today July 17: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
+    },
+    {
       "title": "Gold price in India: Rates on July 16 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, 14 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today (July 14, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, July 16, 2026: Gold Prices Increase Rs 790 per 10 gram in India on Thursday - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": 0.3182
     }
   ]
 }
