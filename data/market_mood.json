@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17 18:49:27",
-  "sentiment_score": -0.07,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-07-18 18:42:20",
+  "sentiment_score": -0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
       "title": "India gold market update: Mixed demand signals | Post by Kavita Chacko | Insights - World Gold Council",
@@ -19,11 +19,6 @@
       "score": 0.0
     },
     {
-      "title": "Gold Silver Rate Today Highlights: Silver tumbles to eight-month low, down over 50% from January peak - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
-    },
-    {
       "title": "Gold Rate Today July 17: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
       "source": "BusinessLine",
       "score": 0.0
@@ -31,6 +26,11 @@
     {
       "title": "Gold price in India: Rates on July 16 - FXStreet",
       "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today (July 16, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     }
   ]
