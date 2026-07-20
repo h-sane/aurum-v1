@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-19 18:44:56",
-  "sentiment_score": 0.02,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-20 19:20:59",
+  "sentiment_score": -0.06,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
       "title": "Gold prices in India remain under pressure despite escalating West Asia tensions | Akashvani News - News On AIR",
@@ -9,8 +9,18 @@
       "score": -0.5994
     },
     {
-      "title": "Gold Rate Today in Karnataka 19th July 2026 : 22 & 24 Carat, Gold Price in Karnataka - Business Today",
+      "title": "India gold market update: Mixed demand signals | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": -0.128
+    },
+    {
+      "title": "Gold Rate Today in Karnataka 20th July 2026 : 22 & 24 Carat, Gold Price in Karnataka - Business Today",
       "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today (July 20, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
@@ -24,19 +34,9 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on July 15 - FXStreet",
+      "title": "Gold price in India: Rates on July 20 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, 17 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today Live, Latest 22 And 24 Carat Gold Price In India - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
     }
   ]
 }
