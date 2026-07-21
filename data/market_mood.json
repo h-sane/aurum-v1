@@ -1,41 +1,36 @@
 {
-  "last_updated": "2026-07-20 19:20:59",
-  "sentiment_score": -0.06,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-07-21 19:00:10",
+  "sentiment_score": 0.1,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold prices in India remain under pressure despite escalating West Asia tensions | Akashvani News - News On AIR",
-      "source": "News On AIR",
-      "score": -0.5994
-    },
-    {
-      "title": "India gold market update: Mixed demand signals | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
-      "score": -0.128
-    },
-    {
-      "title": "Gold Rate Today in Karnataka 20th July 2026 : 22 & 24 Carat, Gold Price in Karnataka - Business Today",
-      "source": "Business Today",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today (July 20, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan - The Economic Times",
+      "title": "Gold rate today (July 21, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan - The Economic Times",
       "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, July 16, 2026: Gold Prices Increase Rs 790 per 10 gram in India on Thursday - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold Rate Today July 17: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold price in India: Rates on July 21 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on July 20 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold Rate Today, July 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Price Today in India (July 21): Gold Prices Stay Firm Across India, MCX Trades Higher \u2013 Check Latest 24K, 22K, 18K Gold Prices Across Delhi, Mumbai, Chennai, Kerala, Lucknow, Pune & More - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Yellow metal price rises by Rs 1 as hopes for US-Iran diplomacy cool oil rally - The Times of India",
+      "source": "The Times of India",
+      "score": 0.6249
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 18, 2026) at Tanishq, Malabar Gold & Diamo - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     }
   ]
