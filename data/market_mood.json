@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-28 19:02:16",
-  "sentiment_score": -0.01,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-07-29 18:49:55",
+  "sentiment_score": 0.15,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today, July 28 Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, July 29: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Punjab 28th July 2026 : 22 & 24 Carat, Gold Price in Punjab - Business Today",
-      "source": "Business Today",
+      "title": "Gold, silver prices today, 29 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
     },
     {
@@ -19,19 +19,19 @@
       "score": 0.0
     },
     {
-      "title": "Gold and silver prices drop up to 1% on MCX due to profit booking ahead of US Fed policy decision - livemint.com",
-      "source": "livemint.com",
-      "score": 0.2023
+      "title": "Gold Price Today in India (July 29): MCX Gold Falls by 0.88% After Ease in Global Tensions & Strong Performance of USD - Check Latest 24K, 22K, 18K Gold Prices Across Delhi, Mumbai, Chennai, Kolkata, - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.4767
     },
     {
-      "title": "Gold Rate Today, July 28: Prices decline up to \u20b91,690/ 10 gm; check 18, 22, 24 carat rate across jewellers - Upstox",
-      "source": "Upstox",
+      "title": "Gold Rate Today, July 28 Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Prices Drop Rs 750 per 10 gm on US-Iran Ceasefire - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": -0.2732
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On July 29 - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
     }
   ]
 }
