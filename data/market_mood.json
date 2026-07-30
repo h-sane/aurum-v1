@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29 18:49:55",
-  "sentiment_score": 0.15,
+  "last_updated": "2026-07-30 19:05:58",
+  "sentiment_score": 0.07,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
@@ -9,8 +9,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 29 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
+      "title": "Gold Rate Today in Gujarat 30th July 2026 : 22 & 24 Carat, Gold Price in Gujarat - businesstoday.in",
+      "source": "businesstoday.in",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today July 30: Check latest Gold prices in Mumbai, Ahmedabad, Chennai Delhi, Bengaluru, Hyderabad, Kolkata & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
@@ -19,19 +24,24 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Today in India (July 29): MCX Gold Falls by 0.88% After Ease in Global Tensions & Strong Performance of USD - Check Latest 24K, 22K, 18K Gold Prices Across Delhi, Mumbai, Chennai, Kolkata, - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "score": 0.4767
+      "title": "Gold price rises Rs 1,000 on fresh retail buying, silver slips by Rs 600 - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.3182
     },
     {
-      "title": "Gold Rate Today, July 28 Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "High prices dent gold demand in India, volume falls 6%, value rises 50% in April-June quarter: WGC - The Hindu",
+      "source": "The Hindu",
+      "score": 0.2263
+    },
+    {
+      "title": "Gold, silver prices today, 29 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
+      "source": "livemint.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On July 29 - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
+      "title": "Gold Prices Jump in India After Two-Day Decline - hdfcsky.com",
+      "source": "hdfcsky.com",
+      "score": 0.0
     }
   ]
 }
