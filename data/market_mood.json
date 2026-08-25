@@ -1,47 +1,42 @@
 {
-  "last_updated": "2026-07-31 19:03:19",
-  "sentiment_score": 0.03,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-08-25 18:20:45",
+  "sentiment_score": 0.07,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold rate today (July 30, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, July 31: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, August 25: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on July 31 - FXStreet",
-      "source": "FXStreet",
+      "title": "LIVE | Gold Price Today (August 25): MCX Gold Near \u20b91.64 Lakh, Silver Crashes \u20b92,534 Amid Fed Hike, Trump-Iran Tensions \u2013 Check Latest 24K, 22K, 18K Gold Rate Across Delhi, Mumbai, Kerala & Chennai - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.4019
+    },
+    {
+      "title": "Gold rates on August 25: Prices slip across purities; check latest city-wise rates - Mathrubhumi English",
+      "source": "Mathrubhumi English",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 31 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
+      "title": "Gold Rate Today in Karnataka 25th August 2026 : 22 & 24 Carat, Gold Price in Karnataka - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, July 29: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 25 - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 29 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com",
-      "source": "livemint.com",
-      "score": 0.0
-    },
-    {
-      "title": "High prices dent gold demand in India, volume falls 6%, value rises 50% in April-June quarter: WGC - The Hindu",
-      "source": "The Hindu",
-      "score": 0.2263
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: Gold futures slip to Rs 1.41 lakh/10gm on firm US dollar - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
+      "title": "Gold Rate Today In Delhi, Check Live 22 And 24 Carat Gold Price - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
     }
   ]
 }
