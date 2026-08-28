@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-26 19:30:09",
-  "sentiment_score": 0.09,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-08-28 01:50:31",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today, August 25, 2026: 24K Slips \u20b922 and Seven Cities Quote One Number - The Eastern Herald",
-      "source": "The Eastern Herald",
-      "score": 0.0772
+      "title": "Gold and silver price today, 27 Aug: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities - Livemint",
+      "source": "Livemint",
+      "score": 0.0
     },
     {
       "title": "Gold rate today (August 25, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from Malabar Gold & Diam - The Economic Times",
@@ -24,19 +24,19 @@
       "score": 0.0
     },
     {
-      "title": "Gold rate today (August 24, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from Malabar Gold & Diam - The Economic Times",
-      "source": "The Economic Times",
+      "title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today in India (August 26): MCX Gold Hits \u20b91.63 Lakh, Remains Steady \u2013 Check Latest City-Wise Gold Rates Across Delhi, Mumbai, Pune, Bangalore, Chennai & More - The Sunday Guardian",
-      "source": "The Sunday Guardian",
+      "title": "Gold Rate Today in Punjab 28th August 2026 : 22 & 24 Carat, Todays Gold Price in Punjab - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices likely to extend gains next week as investors await US data - The Times of India",
-      "source": "The Times of India",
-      "score": 0.5423
+      "title": "Gold price in India: Rates on August 27 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
     }
   ]
 }
