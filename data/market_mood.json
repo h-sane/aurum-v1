@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-08-30 20:10:19",
-  "sentiment_score": 0.0,
+  "last_updated": "2026-08-31 22:06:45",
+  "sentiment_score": -0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today in Noida 31st August 2026 : 22 & 24 Carat, Todays Gold Price in Noida - Business Today",
-      "source": "Business Today",
+      "title": "Gold Rate Today, August 29: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, August 29: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold, silver prices today, 31 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+      "source": "Livemint",
       "score": 0.0
     },
     {
@@ -19,9 +19,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on August 27 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
+      "title": "Gold Rate Today (August 31): Gold Steady Near \u20b91.56 Lakh, Silver Holds Around \u20b92.5 Lakh Amid Market Uncertainty; Check 24K, 22K And 18K Gold Rates Across Delhi, Mumbai, Chennai, Kerala, Surat And More - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": -0.34
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Gold faces fresh volatility after Rs 6,000 weekly plunge; US jobs data, Fed in focus - The Times of India",
+      "source": "The Times of India",
+      "score": 0.3182
     },
     {
       "title": "Gold Rate Today, August 29, 2026: 24K Falls to \u20b915,824 Per Gram as Jackson Hole Rattles Bullion Markets - The Eastern Herald",
@@ -29,13 +34,8 @@
       "score": 0.0
     },
     {
-      "title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today: Check 22K, 24K gold prices in Delhi, Mumbai & Chennai - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold Rate Today in Gujarat 1st September 2026 : 22 & 24 Carat, Todays Gold Price in Gujarat - Business Today",
+      "source": "Business Today",
       "score": 0.0
     }
   ]
