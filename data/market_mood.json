@@ -1,11 +1,26 @@
 {
-  "last_updated": "2026-09-02 20:12:10",
-  "sentiment_score": 0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-09-03 20:13:09",
+  "sentiment_score": 0.06,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today in Noida 2nd September 2026 : 22 & 24 Carat, Todays Gold Price in Noida - businesstoday.in",
-      "source": "businesstoday.in",
+      "title": "Gold Rate Today, September 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 3 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai, Kolkata, Bengaluru on September 3 - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold rate today (September 1, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from Malabar Gold & Di - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
@@ -14,33 +29,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today September 2: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold Rate Today, September 1: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On September 2 - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
-    },
-    {
-      "title": "Why Is Gold Price Falling Today? Key Global Reasons You Should Know Behind The Fall - Jagran Josh",
-      "source": "Jagran Josh",
-      "score": -0.1531
-    },
-    {
-      "title": "Gold Prices Fall for 2nd Day; 24K Opens at \u20b91,56,770 Nationwide - hdfcsky.com",
-      "source": "hdfcsky.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in Visakhapatnam 2nd September 2026 : 22 & 24 Carat, Todays Gold Price in Visakhapatnam - businesstoday.in",
-      "source": "businesstoday.in",
-      "score": 0.0
-    },
-    {
-      "title": "Gold prices today: Check 22K, 24K rates in Delhi, Bengaluru, Chennai, Mumbai | Business News - Hindustan Times",
-      "source": "Hindustan Times",
+      "title": "Gold Rate Today, September 3, 2026: Check 24K, 22K Gold Prices In India, City-Wise Rates For Delhi, Mumbai, Chennai, Kolkata And More - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "score": 0.0
     }
   ]
