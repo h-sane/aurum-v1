@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-03 20:13:09",
-  "sentiment_score": 0.06,
+  "last_updated": "2026-09-04 19:58:14",
+  "sentiment_score": 0.1,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today, September 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Rate Today, September 2: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - indianexpress.com",
+      "source": "indianexpress.com",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 3 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+      "title": "Gold, silver prices today, 4 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
       "source": "Livemint",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai, Kolkata, Bengaluru on September 3 - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
+      "title": "Gold Prices in India Today (September 4): 24K Gold Prices Rise to \u20b915,666 Per Gram, 22K to \u20b914,360 Per Gram on Janmashtami \u2013 Check City Wise Rates in Delhi, Mumbai, Bangalore & More - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "score": 0.4767
     },
     {
       "title": "Gold rate today (September 1, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from Malabar Gold & Di - The Economic Times",
@@ -24,18 +24,8 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 2 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-      "source": "Livemint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, September 1: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, September 3, 2026: Check 24K, 22K Gold Prices In India, City-Wise Rates For Delhi, Mumbai, Chennai, Kolkata And More - The Sunday Guardian",
-      "source": "The Sunday Guardian",
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai, Kolkata, Bengaluru on September 3 - ndtvprofit.com",
+      "source": "ndtvprofit.com",
       "score": 0.0
     }
   ]
