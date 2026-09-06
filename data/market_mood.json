@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-05 19:38:15",
-  "sentiment_score": 0.09,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-09-06 19:40:46",
+  "sentiment_score": 0.0,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold Rate Today in Maharashtra 6th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+      "source": "Business Today",
+      "score": 0.0
+    },
     {
       "title": "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On September 4 - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
     },
     {
       "title": "Gold, silver prices today, 4 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
@@ -19,13 +19,18 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 3 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-      "source": "Livemint",
+      "title": "Gold Up 0.84% Nationwide; Chennai\u2019s 18K Price Jumps Sharply - HDFC Sky",
+      "source": "HDFC Sky",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today in India (September 5): Gold Rates Fall After Sharp Rally, 24K Gold Falls to \u20b91.55 Lakh \u2013 Check Latest City-Wise Gold Rates in Delhi, Mumbai, Pune, Bengaluru & More - The Sunday Guardian",
-      "source": "The Sunday Guardian",
+      "title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices on September 6: Check latest rates in Delhi, Mumbai, Kolkata, other cities - Business Today",
+      "source": "Business Today",
       "score": 0.0
     }
   ]
