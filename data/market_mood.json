@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-09-06 19:40:46",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-09-07 20:51:46",
+  "sentiment_score": -0.14,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today in Maharashtra 6th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+      "title": "Gold Rate Today in Gujarat 7th September 2026 : 22 & 24 Carat, Todays Gold Price in Gujarat - Business Today",
       "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, 4 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+      "title": "Gold, silver prices today, 7 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
       "source": "Livemint",
       "score": 0.0
     },
     {
-      "title": "Gold Up 0.84% Nationwide; Chennai\u2019s 18K Price Jumps Sharply - HDFC Sky",
-      "source": "HDFC Sky",
+      "title": "Gold Rate Today September 7: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
+      "title": "Gold Rate Today September 7: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices on September 6: Check latest rates in Delhi, Mumbai, Kolkata, other cities - Business Today",
-      "source": "Business Today",
-      "score": 0.0
+      "title": "Narendra Modi fails to dull gold\u2019s lustre in India - Financial Times",
+      "source": "Financial Times",
+      "score": -0.6705
+    },
+    {
+      "title": "Gold and silver prices: Rates drop on MCX amid weak global cues; strong U.S. jobs data fuel US Fed rate hike chatter - Livemint",
+      "source": "Livemint",
+      "score": -0.1779
     }
   ]
 }
