@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-12 19:46:04",
-  "sentiment_score": 0.0,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-09-13 19:56:36",
+  "sentiment_score": -0.12,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today, September 12: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Rate Today in Delhi 13th September 2026 : 22 & 24 Carat, Todays Gold Price in Delhi - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Delhi 12th September 2026 : 22 & 24 Carat, Todays Gold Price in Delhi - businesstoday.in",
-      "source": "businesstoday.in",
+      "title": "Gold Rate Today, September 12: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
@@ -24,12 +24,17 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Today, September 12: Yellow metal prices jump - Check retail rates of 24K, 22K, 18K Gold in Delhi, - india.com",
-      "source": "india.com",
+      "title": "Fed, crude, dollar and Iran war: 4 factors that could move gold next week - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "score": -0.8225
+    },
+    {
+      "title": "Gold rates today in Hyderabad falls, On Sept 12 - INDToday",
+      "source": "INDToday",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today September 10: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
+      "title": "Gold Rate Today September 11: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
       "source": "BusinessLine",
       "score": 0.0
     }
