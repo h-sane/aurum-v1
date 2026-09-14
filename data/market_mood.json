@@ -1,41 +1,46 @@
 {
-  "last_updated": "2026-09-13 19:56:36",
-  "sentiment_score": -0.12,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-09-14 21:06:36",
+  "sentiment_score": -0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today in Delhi 13th September 2026 : 22 & 24 Carat, Todays Gold Price in Delhi - Business Today",
+      "title": "Gold Rate Today in Noida 15th September 2026 : 22 & 24 Carat, Todays Gold Price in Noida - Business Today",
       "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, September 12: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold rate today (September 14, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold - economictimes.com",
+      "source": "economictimes.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, September 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on September 11 - FXStreet",
+      "title": "Gold price in India: Rates on September 14 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Fed, crude, dollar and Iran war: 4 factors that could move gold next week - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "score": -0.8225
-    },
-    {
-      "title": "Gold rates today in Hyderabad falls, On Sept 12 - INDToday",
-      "source": "INDToday",
+      "title": "Gold and silver price today, September 14: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today September 11: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold and silver prices crash up to 2% on MCX- What is driving precious metals down? - Livemint",
+      "source": "Livemint",
+      "score": 0.25
+    },
+    {
+      "title": "Fed, crude, dollar and Iran war: 4 factors that could move gold next week - The Times of India",
+      "source": "The Times of India",
+      "score": -0.8225
+    },
+    {
+      "title": "Ganesh Chaturthi 2026 Gold Prices: Check 24K, 22K Gold Rates In Mumbai, Delhi, Chennai, Kolkata, Bengaluru - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Planning to buy gold today on Ganesh Chaturthi? Check prices in Mumbai, Pune, Nagpur, Nashik - Livemint",
+      "source": "Livemint",
       "score": 0.0
     }
   ]
