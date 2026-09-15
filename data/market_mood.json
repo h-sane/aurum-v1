@@ -1,46 +1,41 @@
 {
-  "last_updated": "2026-09-14 21:06:36",
-  "sentiment_score": -0.02,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-09-15 20:32:29",
+  "sentiment_score": 0.06,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today in Noida 15th September 2026 : 22 & 24 Carat, Todays Gold Price in Noida - Business Today",
+      "title": "Gold Rate Today, September 15: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Delhi 15th September 2026 : 22 & 24 Carat, Todays Gold Price in Delhi - Business Today",
       "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold rate today (September 14, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold - economictimes.com",
-      "source": "economictimes.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on September 14 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold and silver price today, September 14: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other... - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold and silver prices crash up to 2% on MCX- What is driving precious metals down? - Livemint",
-      "source": "Livemint",
-      "score": 0.25
-    },
-    {
-      "title": "Fed, crude, dollar and Iran war: 4 factors that could move gold next week - The Times of India",
-      "source": "The Times of India",
-      "score": -0.8225
-    },
-    {
-      "title": "Ganesh Chaturthi 2026 Gold Prices: Check 24K, 22K Gold Rates In Mumbai, Delhi, Chennai, Kolkata, Bengaluru - NDTV Profit",
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On September 15 - NDTV Profit",
       "source": "NDTV Profit",
       "score": 0.4404
     },
     {
-      "title": "Planning to buy gold today on Ganesh Chaturthi? Check prices in Mumbai, Pune, Nagpur, Nashik - Livemint",
-      "source": "Livemint",
+      "title": "Gold Rate Today in Chennai 15th September 2026 : 22 & 24 Carat, Todays Gold Price in Chennai - Business Today",
+      "source": "Business Today",
+      "score": 0.0
+    },
+    {
+      "title": "Gold and silver rate today (September 15, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Ma - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: 24K Price Rises \u20b9280 on Sept 15 - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on September 15 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     }
   ]
