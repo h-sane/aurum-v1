@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-18 20:04:23",
-  "sentiment_score": 0.15,
+  "last_updated": "2026-09-19 19:41:21",
+  "sentiment_score": 0.28,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today, September 18: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Rate Today in Maharashtra 19th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
@@ -14,18 +14,28 @@
       "score": 0.7269
     },
     {
-      "title": "Gold price in India: Rates on September 18 - FXStreet",
+      "title": "Gold Rate Today, September 18: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Greater Mumbai 16th September 2026 : 22 & 24 Carat, Todays Gold Price in Greater Mumbai - Business Today",
+      "source": "Business Today",
+      "score": 0.6124
+    },
+    {
+      "title": "Gold Rate Today September 19: Festive demand may support prices - Check 18K, 22K, 24K gold rates in Delhi, Mu - India.com",
+      "source": "India.com",
+      "score": 0.6369
+    },
+    {
+      "title": "Gold price in India: Rates on September 17 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "India's Gold Rush Gets A Reality Check As Prices Fall 20% From Record High - NDTV",
-      "source": "NDTV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, September 17: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold and silver rate today (September 19, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from IBJA, - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     }
   ]
