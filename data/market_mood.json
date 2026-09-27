@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-26 20:16:43",
-  "sentiment_score": 0.09,
+  "last_updated": "2026-09-27 20:31:46",
+  "sentiment_score": 0.12,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today, September 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in Telangana 26th September 2026 : 22 & 24 Carat, Todays Gold Price in Telangana - Business Today",
+      "title": "Gold Rate Today in Visakhapatnam 28th September 2026 : 22 & 24 Carat, Todays Gold Price in Visakhapatnam - Business Today",
       "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate in Amritsar Today (25th September 2026), 22 & 24 Carat Gold Price in Amritsar - ClearTax",
-      "source": "ClearTax",
+      "title": "Gold Rate in Amritsar Today (26th September 2026), 22 & 24 Carat Gold Price in Amritsar - cleartax.in",
+      "source": "cleartax.in",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today, September 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
@@ -24,19 +24,9 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Greater Mumbai 26th September 2026 : 22 & 24 Carat, Todays Gold Price in Greater Mumbai - Business Today",
+      "title": "Gold Rate Today in Greater Mumbai 27th September 2026 : 22 & 24 Carat, Todays Gold Price in Greater Mumbai - Business Today",
       "source": "Business Today",
       "score": 0.6124
-    },
-    {
-      "title": "Gold Rate Today: Check 22K, 24K Gold prices in Delhi, Mumbai & Chennai - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in Bengaluru 26th September 2026 : 22 & 24 Carat, Todays Gold Price in Bengaluru - Business Today",
-      "source": "Business Today",
-      "score": 0.0
     }
   ]
 }
