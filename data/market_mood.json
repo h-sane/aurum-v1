@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-09-28 22:41:40",
-  "sentiment_score": 0.03,
+  "last_updated": "2026-09-29 21:35:15",
+  "sentiment_score": -0.05,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold rate today (September 28, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
     {
       "title": "Gold Rate Today, September 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Why are gold prices crashing today? MCX Gold down Rs 3,200/10 grams, plunges over 2% - top reasons for fa - The Times of India",
-      "source": "The Times of India",
-      "score": 0.2023
+      "title": "Gold and silver price today, Sept 29: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities - Livemint",
+      "source": "Livemint",
+      "score": 0.0
     },
     {
       "title": "Gold and silver price today, Sept 28: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities - Livemint",
@@ -19,23 +24,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Drops in India on September 28, 2026: Check Latest 22K and 24K Rates - KalingaTV",
+      "title": "Gold Prices Drop Further in India; Check September 29 Rates - KalingaTV",
       "source": "KalingaTV",
-      "score": 0.0
+      "score": -0.2732
     },
     {
       "title": "Gold, Silver rate today live updates: Gold tumbles over 2%; MCX plunges Rs 3,171 as global prices slide - The Times of India",
       "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, September 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today in Karnataka 29th September 2026 : 22 & 24 Carat, Todays Gold Price in Karnataka - Business Today",
-      "source": "Business Today",
       "score": 0.0
     }
   ]
