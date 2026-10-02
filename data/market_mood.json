@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01 22:04:31",
-  "sentiment_score": 0.09,
+  "last_updated": "2026-10-02 21:30:02",
+  "sentiment_score": 0.08,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
@@ -9,13 +9,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold and silver price today, Oct 1: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities - Livemint",
-      "source": "Livemint",
+      "title": "Gold rate today (October 1, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & D - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold rate today (September 29, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold and silver price today, Oct 1: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities - Livemint",
+      "source": "Livemint",
       "score": 0.0
     },
     {
@@ -24,8 +24,13 @@
       "score": 0.4696
     },
     {
-      "title": "Gold and silver price today, Sept 29: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities - Livemint",
-      "source": "Livemint",
+      "title": "India gold market update: Recovery taking shape | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today in Noida 2nd October 2026 : 22 & 24 Carat, Todays Gold Price in Noida - Business Today",
+      "source": "Business Today",
       "score": 0.0
     }
   ]
