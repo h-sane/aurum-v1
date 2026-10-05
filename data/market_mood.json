@@ -1,16 +1,26 @@
 {
-  "last_updated": "2026-10-04 20:34:03",
-  "sentiment_score": 0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-10-05 23:25:03",
+  "sentiment_score": 0.06,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams? - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rate Today in Noida 5th October 2026 : 22 & 24 Carat, Todays Gold Price in Noida - Business Today",
+      "source": "Business Today",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in Noida 4th October 2026 : 22 & 24 Carat, Todays Gold Price in Noida - Business Today",
-      "source": "Business Today",
+      "title": "Gold Rate Today In Delhi, Check Live 22 And 24 Carat Gold Price - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold and silver price today, Oct 5: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams? - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
@@ -19,28 +29,18 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate in Amritsar Today (3rd October 2026), 22 & 24 Carat Gold Price in Amritsar - ClearTax",
-      "source": "ClearTax",
+      "title": "Gold Price Today, (Oct 5): 24K Gold at \u20b91.49 Lakh, 22K Near \u20b91.37 - APAC Media",
+      "source": "APAC Media",
       "score": 0.0
     },
     {
-      "title": "Gold Prices Today Stable In Hyderabad On 4 October, 2026 - INDToday",
-      "source": "INDToday",
-      "score": 0.296
+      "title": "Gold Price Today, October 5, 2026: Rate of 24K Falls \u20b91,100 per 10 gm - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": 0.0
     },
     {
-      "title": "Gold Rate Today October 4: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "title": "Today\u2019s Gold Rate in India October 4: Gold prices steady in Delhi, Mumbai, Kolkata, Chennai, Bengaluru - BusinessLine",
       "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today October 4: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today (October 3, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from IBJA, Malabar Gold - economictimes.com",
-      "source": "economictimes.com",
       "score": 0.0
     }
   ]
