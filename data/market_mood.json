@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-09 21:56:25",
+  "last_updated": "2026-10-10 20:47:23",
   "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today, October 9: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, October 10: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
@@ -14,8 +14,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, October 7: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold Rate Today, October 9: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today October 10: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
@@ -29,13 +34,8 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today October 9: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "title": "Gold Rate Today October 4: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
       "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Price Today: 24K Rate Jumps \u20b9550 per 10 gm, Snaps Two-Day Fall - HDFC Sky",
-      "source": "HDFC Sky",
       "score": 0.0
     }
   ]
