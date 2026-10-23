@@ -1,17 +1,32 @@
 {
-  "last_updated": "2026-10-22 20:55:27",
-  "sentiment_score": 0.04,
+  "last_updated": "2026-10-23 20:43:20",
+  "sentiment_score": 0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold Rate Today, October 23: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today (October 21, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Malabar G - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on October 23 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
     {
       "title": "Wedding Season 2026: Gold prices crashed over 5% in a month \u2014 Should you buy jewellery now or wait? Experts suggest - Livemint",
       "source": "Livemint",
       "score": 0.0
     },
     {
-      "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.4019
+      "title": "Gold rate and silver rate today (October 22, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from - The Economic Times",
+      "source": "The Economic Times",
+      "score": 0.0
     },
     {
       "title": "Gold Rate Today, October 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
@@ -19,23 +34,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on October 22 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold prices fall 26% from peak: Should buyers expect further correction or a rebound? - Moneycontrol.com",
+      "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Gold Price Today, October 22, 2026: Why Are Gold Rates Falling Ahead Of Dhanteras And Diwali? Check The 30-Day Trend - Jagran Josh",
-      "source": "Jagran Josh",
-      "score": -0.1531
-    },
-    {
-      "title": "Gold prices dip ahead of Diwali: Will the fall continue? - India Today",
-      "source": "India Today",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, October 20: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold, Silver Rate Today Live: Gold falls over 1% as oil prices fuel inflation concerns; silver also slips - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     }
   ]
