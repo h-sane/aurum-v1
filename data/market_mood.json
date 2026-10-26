@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-10-25 20:04:58",
-  "sentiment_score": 0.05,
+  "last_updated": "2026-10-26 21:59:26",
+  "sentiment_score": 0.17,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold Rate Today, October 23: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold, Silver Rate Today Live Updates: Gold rises to Rs 1,46,300 per 10 gram in Delhi as silver remains steady - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold and silver price today, October 26: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on October 26 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Why is gold price under pressure ahead of Dhanteras, Diwali? What should interested buyers do? Experts's views, target - Livemint",
+      "source": "Livemint",
+      "score": 0.2168
+    },
+    {
+      "title": "Gold price crashes over \u20b938,600 from record high \u2014 What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded - Livemint",
+      "source": "Livemint",
       "score": 0.0
     },
     {
@@ -14,34 +34,14 @@
       "score": 0.0
     },
     {
-      "title": "Gold prices fall 26% from peak: Should buyers expect further correction or a rebound? - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate and silver rate today (October 22, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, October 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
       "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
       "source": "World Gold Council",
       "score": 0.4019
     },
     {
-      "title": "Gold price in India: Rates on October 22 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on October 19 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
+      "title": "India gold market update: Cautious festive optimism | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.7269
     }
   ]
 }
