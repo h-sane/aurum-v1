@@ -1,30 +1,35 @@
 {
-  "last_updated": "2026-10-26 21:59:26",
-  "sentiment_score": 0.17,
+  "last_updated": "2026-10-27 21:31:43",
+  "sentiment_score": 0.07,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Today Live Updates: Gold rises to Rs 1,46,300 per 10 gram in Delhi as silver remains steady - The Times of India",
+      "title": "Gold Rate Today, October 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Gold rises 1% as lower oil prices support bullion ahead of Fed policy meeting - The Times of India",
       "source": "The Times of India",
+      "score": 0.128
+    },
+    {
+      "title": "Gold price in India to touch \u20b92 lakh per 10 gm by end of 2027? Is it the right time to buy before Dhanteras, Diwali? - Livemint",
+      "source": "Livemint",
       "score": 0.0
     },
     {
-      "title": "Gold and silver price today, October 26: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on October 26 - FXStreet",
+      "title": "Gold price in India: Rates on October 27 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Why is gold price under pressure ahead of Dhanteras, Diwali? What should interested buyers do? Experts's views, target - Livemint",
-      "source": "Livemint",
-      "score": 0.2168
+      "title": "Gold price rises in India on October 27; silver remains unchanged - Mathrubhumi English",
+      "source": "Mathrubhumi English",
+      "score": 0.0
     },
     {
-      "title": "Gold price crashes over \u20b938,600 from record high \u2014 What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded - Livemint",
+      "title": "Gold, silver prices today, 27 October: Check retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Kolkata, Chennai - Livemint",
       "source": "Livemint",
       "score": 0.0
     },
@@ -37,11 +42,6 @@
       "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
       "source": "World Gold Council",
       "score": 0.4019
-    },
-    {
-      "title": "India gold market update: Cautious festive optimism | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.7269
     }
   ]
 }
