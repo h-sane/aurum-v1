@@ -1,11 +1,16 @@
 {
-  "last_updated": "2026-10-28 21:57:30",
-  "sentiment_score": 0.06,
+  "last_updated": "2026-10-29 22:06:35",
+  "sentiment_score": 0.14,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Today Live Updates: Gold prices declined Rs 646 to Rs 1,43,492 per 10 grams in futures trade - The Times of India",
-      "source": "The Times of India",
+      "title": "US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in - Livemint",
+      "source": "Livemint",
+      "score": 0.2023
+    },
+    {
+      "title": "Gold Rate Today, October 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
@@ -14,18 +19,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India to touch \u20b92 lakh per 10 gm by end of 2027? Is it the right time to buy before Dhanteras, Diwali? - Livemint",
-      "source": "Livemint",
+      "title": "Gold Rate Today October 29: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today in West Bengal 28th October 2026 : 22 & 24 Carat, Todays Gold Price in West Bengal - Business Today",
-      "source": "Business Today",
-      "score": 0.0
-    },
-    {
-      "title": "Gold and silver rate today (October 28, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Gold price in India: Rates on October 29 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
@@ -34,13 +34,13 @@
       "score": 0.4404
     },
     {
-      "title": "Gold price in India: Rates on October 28 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
+      "title": "US interest rates unchanged, held at 3.75%-4%: Gold could reach \u20b91.78 lakh/10 gm by year-end, said expert - Bhaskar English",
+      "source": "Bhaskar English",
+      "score": 0.4767
     },
     {
-      "title": "Gold Rate Today October 28: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
+      "title": "India Gold price today: FXStreet data shows a decline - www.tmgm.com",
+      "source": "www.tmgm.com",
       "score": 0.0
     }
   ]
