@@ -1,47 +1,47 @@
 {
-  "last_updated": "2026-10-29 22:06:35",
-  "sentiment_score": 0.14,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-10-30 21:44:35",
+  "sentiment_score": -0.05,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
+    {
+      "title": "Gold Rate Today, October 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
     {
       "title": "US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in - Livemint",
       "source": "Livemint",
       "score": 0.2023
     },
     {
-      "title": "Gold Rate Today, October 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold and silver price today, October 30: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities - Moneycontrol.com",
+      "source": "Moneycontrol.com",
       "score": 0.0
     },
     {
-      "title": "Will Gold Prices Fall Further? Why Shoppers Are Holding Back Ahead Of Diwali - NDTV",
-      "source": "NDTV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today October 29: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on October 29 - FXStreet",
+      "title": "Gold price in India: Rates on October 30 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today Live, Latest 22 And 24 Carat Gold Price In India - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
-    },
-    {
-      "title": "US interest rates unchanged, held at 3.75%-4%: Gold could reach \u20b91.78 lakh/10 gm by year-end, said expert - Bhaskar English",
-      "source": "Bhaskar English",
-      "score": 0.4767
-    },
-    {
-      "title": "India Gold price today: FXStreet data shows a decline - www.tmgm.com",
-      "source": "www.tmgm.com",
+      "title": "Gold and silver price today, Oct 30: Check retail rates of 24K, 22K gold and 999 silver ahead of Dhanteras, Diwali - Livemint",
+      "source": "Livemint",
       "score": 0.0
+    },
+    {
+      "title": "India gold price, October 30: MCX rate crashes below \u20b91.42 lakh ahead of Dhanteras - What's triggering sell-off? - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "India gold price today, October 28, 2026: Check 24K, 22K and 18K gold rates per 10 grams before buying jewellery - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold hits one-year low, silver slips below $50 as inflation fears bite - The Times of India",
+      "source": "The Times of India",
+      "score": -0.5994
     }
   ]
 }
