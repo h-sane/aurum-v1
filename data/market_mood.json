@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01 21:25:51",
-  "sentiment_score": 0.01,
+  "last_updated": "2026-11-03 00:07:03",
+  "sentiment_score": 0.04,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
@@ -9,8 +9,8 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today October 31: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Gold rate today (November 2, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
@@ -19,13 +19,13 @@
       "score": 0.0
     },
     {
-      "title": "Gold Price Today, October 31, 2026: Gold Rates Drop Ahead of Diwali; Check City-Wise Prices - Jagran Josh",
-      "source": "Jagran Josh",
-      "score": -0.2732
+      "title": "Gold Rate Today October 31: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on October 30 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold, Silver Rate Today Live Updates: Gold rebounds after previous session's sharp sell-off; silver also rises - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
@@ -34,14 +34,9 @@
       "score": 0.2732
     },
     {
-      "title": "Gold, silver rates today Bangalore 31 Oct: Latest prices, up-down movement for precious metal investors in Garden City - Livemint",
+      "title": "Gold, silver prices today, 2 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
       "source": "Livemint",
-      "score": 0.5719
-    },
-    {
-      "title": "Gold rate in India today: MCX gold falls 2.5% in a week - Buy at low price or avoid ahead of Diwali, Dhanteras 2026? - Livemint",
-      "source": "Livemint",
-      "score": -0.5106
+      "score": 0.0
     }
   ]
 }
