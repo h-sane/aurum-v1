@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-04 22:57:15",
-  "sentiment_score": -0.07,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-11-05 22:58:06",
+  "sentiment_score": 0.1,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
       "title": "Gold Rate Today, November 4: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
@@ -9,7 +9,12 @@
       "score": 0.0
     },
     {
-      "title": "Gold, silver rate Bangalore 3 Nov: Latest update on price movement for investors in Silicon Valley of India today - Livemint",
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On November 5 - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Tanishq gold rate today in India Nov 3 Tuesday: Price of 24 carat, 22 carat, 18 carat - Check latest metal movement - Livemint",
       "source": "Livemint",
       "score": 0.0
     },
@@ -19,24 +24,19 @@
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today, November 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Highlights: Gold rebounds from session low as oil prices slide, midterms loom - The Times of India",
+      "title": "Gold, Silver Rate Today Live Updates: Dhanteras gold and silver sales may rise 20-30 per cent by value - The Times of India",
       "source": "The Times of India",
-      "score": -0.4588
+      "score": 0.34
     },
     {
-      "title": "Tanishq gold rate today in India Nov 3 Tuesday: Price of 24 carat, 22 carat, 18 carat - Check latest metal movement - Livemint",
-      "source": "Livemint",
-      "score": 0.0
+      "title": "Gold prices may have crashed globally but gold smuggling in India has jumped to 50 tonnes from 3 tonnes i - The Times of India",
+      "source": "The Times of India",
+      "score": -0.631
     },
     {
-      "title": "Gold, silver prices today, 2 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-      "source": "Livemint",
-      "score": 0.0
+      "title": "Gold price optimism cools among Indians: Should investors change their investment strategy? - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.5423
     }
   ]
 }
