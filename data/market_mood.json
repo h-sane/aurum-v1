@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-06 22:28:22",
-  "sentiment_score": -0.06,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-11-07 21:09:25",
+  "sentiment_score": 0.13,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
-    {
-      "title": "Gold Rate Today On Dhanteras 2026 Live Updates: MCX Gold futures drop ahead of Diwali - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
-    },
     {
       "title": "Gold Rate Today, 6 November: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities on Dhanteras - The Indian Express",
       "source": "The Indian Express",
@@ -19,29 +14,34 @@
       "score": 0.0
     },
     {
+      "title": "India's gold demand picks up as Diwali coincides with price dip - Reuters",
+      "source": "Reuters",
+      "score": -0.128
+    },
+    {
+      "title": "Gold Prices in India Could Reach Rs 1.68 Lakh, MOFSL Says - Multibagg AI",
+      "source": "Multibagg AI",
+      "score": 0.0258
+    },
+    {
       "title": "Gold, silver prices today, 6 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
       "source": "Livemint",
       "score": 0.0
     },
     {
-      "title": "Gold price today on Dhanteras: Prices fall sharply; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
+      "title": "Gold Rate Today In Gairsain, Check Live 22 And 24 Carat Gold Price - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
     },
     {
-      "title": "Gold and Silver Prices Today, 6 November 2026: Check 22K, 24K Gold and Silver Rates in Major Cities - India Infoline",
-      "source": "India Infoline",
-      "score": 0.0
+      "title": "Gold Price Correction Boosts Dhanteras Sales - Rediff",
+      "source": "Rediff",
+      "score": 0.3182
     },
     {
-      "title": "Gold prices may have crashed globally but gold smuggling in India has jumped to 50 tonnes from 3 tonnes i - The Times of India",
-      "source": "The Times of India",
-      "score": -0.631
-    },
-    {
-      "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
-      "source": "World Gold Council",
-      "score": 0.4019
+      "title": "Gold prices surge 4.5 per cent for strongest weekly gain since August as crude oil plunges - Telangana Today",
+      "source": "Telangana Today",
+      "score": 0.3818
     }
   ]
 }
