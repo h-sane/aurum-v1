@@ -1,22 +1,37 @@
 {
-  "last_updated": "2026-11-07 21:09:25",
-  "sentiment_score": 0.13,
+  "last_updated": "2026-11-08 21:25:25",
+  "sentiment_score": 0.08,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
+    {
+      "title": "Gold prices crash 24% globally but fall only 20% in India: Why domestic buyers aren't seeing the full price correction - Livemint",
+      "source": "Livemint",
+      "score": -0.2144
+    },
     {
       "title": "Gold Rate Today, 6 November: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities on Dhanteras - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today November 6: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "title": "Gold Rate Today November 8: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
       "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "India's gold demand picks up as Diwali coincides with price dip - Reuters",
-      "source": "Reuters",
-      "score": -0.128
+      "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference - NDTV Profit",
+      "source": "NDTV Profit",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold rate on Diwali: 24K at \u20b91,43,570 per 10g, check prices in Delhi, Mumbai, Bengaluru, others | Business News - Hindustan Times",
+      "source": "Hindustan Times",
+      "score": 0.0
+    },
+    {
+      "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.4019
     },
     {
       "title": "Gold Prices in India Could Reach Rs 1.68 Lakh, MOFSL Says - Multibagg AI",
@@ -24,24 +39,9 @@
       "score": 0.0258
     },
     {
-      "title": "Gold, silver prices today, 6 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-      "source": "Livemint",
+      "title": "Gold Rate Today November 6: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today In Gairsain, Check Live 22 And 24 Carat Gold Price - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
-    },
-    {
-      "title": "Gold Price Correction Boosts Dhanteras Sales - Rediff",
-      "source": "Rediff",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold prices surge 4.5 per cent for strongest weekly gain since August as crude oil plunges - Telangana Today",
-      "source": "Telangana Today",
-      "score": 0.3818
     }
   ]
 }
