@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 21:25:25",
+  "last_updated": "2026-11-10 00:55:40",
   "sentiment_score": 0.08,
   "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
@@ -9,39 +9,34 @@
       "score": -0.2144
     },
     {
-      "title": "Gold Rate Today, 6 November: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities on Dhanteras - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold Prices Rise Day After Diwali, JP Morgan Predicts 46% Jump By 2026-End. Should You Buy? - NDTV",
+      "source": "NDTV",
+      "score": 0.368
+    },
+    {
+      "title": "Gold and silver rates today (November 9, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJ - The Economic Times",
+      "source": "The Economic Times",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today November 8: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
+      "title": "Decline in gold price pushes jewellery sales on Dhanteras - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "India Gold price today: FXStreet data shows Gold prices rising - www.tmgm.com",
+      "source": "www.tmgm.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today November 6: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
       "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference - NDTV Profit",
-      "source": "NDTV Profit",
-      "score": 0.4404
-    },
-    {
-      "title": "Gold rate on Diwali: 24K at \u20b91,43,570 per 10g, check prices in Delhi, Mumbai, Bengaluru, others | Business News - Hindustan Times",
-      "source": "Hindustan Times",
       "score": 0.0
     },
     {
       "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights - World Gold Council",
       "source": "World Gold Council",
       "score": 0.4019
-    },
-    {
-      "title": "Gold Prices in India Could Reach Rs 1.68 Lakh, MOFSL Says - Multibagg AI",
-      "source": "Multibagg AI",
-      "score": 0.0258
-    },
-    {
-      "title": "Gold Rate Today November 6: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
     }
   ]
 }
