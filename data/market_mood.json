@@ -1,42 +1,47 @@
 {
-  "last_updated": "2026-11-11 23:46:23",
-  "sentiment_score": 0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-11-12 22:55:58",
+  "sentiment_score": 0.11,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
+    {
+      "title": "As gold falls from Rs 1.8 lakh peak to Rs 1.42 lakh per 10 grams, Indians buy 30% more, spending Rs 72,00 - The Times of India",
+      "source": "The Times of India",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 12 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on November 12 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, Silver Rate Today Highlights: Silver slips to near Rs 2,300 per kg as strong dollar puts pressure on precious metals - The Times of India",
+      "source": "The Times of India",
+      "score": 0.7003
+    },
+    {
+      "title": "What's gold price future in India? Will it touch \u20b91.50 lakh per 10 grams again by December 2026? Experts' view - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
     {
       "title": "Global gold price drop 2026: Yellow metal slips 6% in dollar terms, but top Indian gold ETFs still deliver 7.5% returns - Livemint",
       "source": "Livemint",
       "score": 0.1655
     },
     {
-      "title": "Gold Rate Today: 24K Gold Falls Rs 2,620 to Rs 1.42 Lakh - HDFC Sky",
-      "source": "HDFC Sky",
+      "title": "Gold rate today, November 12: 22K, 24K prices fall again; gold now \u20b96220 below pre-Diwali highs - Upstox",
+      "source": "Upstox",
       "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on November 11 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Prices Rise Day After Diwali, JP Morgan Predicts 46% Jump By 2026-End. Should You Buy? - NDTV",
-      "source": "NDTV",
-      "score": 0.368
-    },
-    {
-      "title": "Gold Rate Today November 11: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "India Gold price today: FXStreet data show Gold moving lower - www.tmgm.com",
-      "source": "www.tmgm.com",
-      "score": -0.296
-    },
-    {
-      "title": "Why is the glittering gold losing its sparkle? - The Economic Times",
-      "source": "The Economic Times",
-      "score": 0.0516
     }
   ]
 }
