@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-12 22:55:58",
-  "sentiment_score": 0.11,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-11-13 22:58:07",
+  "sentiment_score": -0.07,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "As gold falls from Rs 1.8 lakh peak to Rs 1.42 lakh per 10 grams, Indians buy 30% more, spending Rs 72,00 - The Times of India",
-      "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, silver prices today, 12 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+      "title": "Gold, silver prices today, 13 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
       "source": "Livemint",
       "score": 0.0
-    },
-    {
-      "title": "Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's... - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on November 12 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: Silver slips to near Rs 2,300 per kg as strong dollar puts pressure on precious metals - The Times of India",
-      "source": "The Times of India",
-      "score": 0.7003
-    },
-    {
-      "title": "What's gold price future in India? Will it touch \u20b91.50 lakh per 10 grams again by December 2026? Experts' view - Livemint",
-      "source": "Livemint",
-      "score": 0.0
-    },
-    {
-      "title": "Global gold price drop 2026: Yellow metal slips 6% in dollar terms, but top Indian gold ETFs still deliver 7.5% returns - Livemint",
-      "source": "Livemint",
-      "score": 0.1655
     },
     {
       "title": "Gold rate today, November 12: 22K, 24K prices fall again; gold now \u20b96220 below pre-Diwali highs - Upstox",
       "source": "Upstox",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on November 13 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: Check 22K, 24K gold prices in Delhi, Mumbai & Chennai - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: 24K Gold Falls Rs 2,620 to Rs 1.42 Lakh - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": 0.0
+    },
+    {
+      "title": "Rate-hike bets keep gold on track for worst week in four months - Reuters",
+      "source": "Reuters",
+      "score": -0.6249
+    },
+    {
+      "title": "India gold demand stays firm as lower prices draw festive buying - Kitco",
+      "source": "Kitco",
+      "score": 0.0772
+    },
+    {
+      "title": "Gold Rates Today in Hyderabad on Novemer 13, 2026 - INDToday",
+      "source": "INDToday",
       "score": 0.0
     }
   ]
