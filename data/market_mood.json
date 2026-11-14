@@ -1,11 +1,21 @@
 {
-  "last_updated": "2026-11-13 22:58:07",
-  "sentiment_score": -0.07,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-11-14 21:44:42",
+  "sentiment_score": 0.01,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold, silver prices today, 13 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+      "title": "Gold Rate Today, November 14: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
       "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "As gold falls from Rs 1.8 lakh peak to Rs 1.42 lakh per 10 grams, Indians buy 30% more, spending Rs 72,00 - The Times of India",
+      "source": "The Times of India",
       "score": 0.0
     },
     {
@@ -14,33 +24,23 @@
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on November 13 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
+      "title": "Gold\u2019s sharp weekly correction: Persistent selling pressure erases over 5% of market value - The New Indian Express",
+      "source": "The New Indian Express",
+      "score": 0.0516
     },
     {
-      "title": "Gold Rate Today: Check 22K, 24K gold prices in Delhi, Mumbai & Chennai - BusinessLine",
+      "title": "Gold Rate Today: Check gold prices in Coimbatore, Jaipur, Lucknow & more - BusinessLine",
       "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "Gold Rate Today: 24K Gold Falls Rs 2,620 to Rs 1.42 Lakh - HDFC Sky",
-      "source": "HDFC Sky",
+      "title": "Gold Prices Today In Hyderabad On Nov. 14, 2026 - INDToday",
+      "source": "INDToday",
       "score": 0.0
     },
     {
-      "title": "Rate-hike bets keep gold on track for worst week in four months - Reuters",
-      "source": "Reuters",
-      "score": -0.6249
-    },
-    {
-      "title": "India gold demand stays firm as lower prices draw festive buying - Kitco",
-      "source": "Kitco",
-      "score": 0.0772
-    },
-    {
-      "title": "Gold Rates Today in Hyderabad on Novemer 13, 2026 - INDToday",
-      "source": "INDToday",
+      "title": "Gold price in India: Rates on November 12 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     }
   ]
