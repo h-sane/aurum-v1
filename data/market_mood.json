@@ -1,47 +1,47 @@
 {
-  "last_updated": "2026-11-14 21:44:42",
-  "sentiment_score": 0.01,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-11-15 22:11:07",
+  "sentiment_score": -0.08,
+  "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today, November 14: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe - The Times of India",
+      "source": "The Times of India",
+      "score": -0.2732
+    },
+    {
+      "title": "Gold Rate Today, November 13: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
       "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+      "title": "Gold rate in this UP city sees major crash; price plunges over \u20b96,611 in just 3 days, slips below \u20b91.36 lakh mark - Livemint",
       "source": "Livemint",
+      "score": -0.4019
+    },
+    {
+      "title": "Gold Rate Today November 15: Check latest Gold prices in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune & Other Cities - BusinessLine",
+      "source": "BusinessLine",
       "score": 0.0
     },
     {
-      "title": "As gold falls from Rs 1.8 lakh peak to Rs 1.42 lakh per 10 grams, Indians buy 30% more, spending Rs 72,00 - The Times of India",
-      "source": "The Times of India",
+      "title": "Gold Rates Today In Hyderabad On Nov. 15, 2026 - INDToday",
+      "source": "INDToday",
       "score": 0.0
     },
     {
-      "title": "Gold rate today, November 12: 22K, 24K prices fall again; gold now \u20b96220 below pre-Diwali highs - Upstox",
-      "source": "Upstox",
+      "title": "India Gold price today: FXStreet data shows Gold prices moving higher - www.tmgm.com",
+      "source": "www.tmgm.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on November 13 - FXStreet",
+      "source": "FXStreet",
       "score": 0.0
     },
     {
       "title": "Gold\u2019s sharp weekly correction: Persistent selling pressure erases over 5% of market value - The New Indian Express",
       "source": "The New Indian Express",
       "score": 0.0516
-    },
-    {
-      "title": "Gold Rate Today: Check gold prices in Coimbatore, Jaipur, Lucknow & more - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Prices Today In Hyderabad On Nov. 14, 2026 - INDToday",
-      "source": "INDToday",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on November 12 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
     }
   ]
 }
