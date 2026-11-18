@@ -1,42 +1,37 @@
 {
-  "last_updated": "2026-11-17 01:12:06",
-  "sentiment_score": -0.04,
-  "market_status": "NEUTRAL \u26aa",
+  "last_updated": "2026-11-18 00:06:10",
+  "sentiment_score": 0.11,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
-    {
-      "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
-    },
     {
       "title": "Gold Rate Today: 24K Gold Falls to Rs 1,36,800 - HDFC Sky",
       "source": "HDFC Sky",
       "score": 0.0
     },
     {
-      "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
-      "source": "Livemint",
+      "title": "Gold Rate Today, November 17: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on November 16 - FXStreet",
+      "title": "Gold price in India: Rates on November 17 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Today Live Updates: Mumbai bullion closing rates see silver at Rs 1,70,251/kg, gold at Rs 1,34,971 - The Times of India",
+      "title": "Gold, Silver Rate Today Highlights: Gold steadies near one-year low as strong dollar, silver also stables - The Times of India",
       "source": "The Times of India",
-      "score": 0.0
+      "score": 0.296
     },
     {
-      "title": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
-      "source": "Livemint",
-      "score": 0.0
+      "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe - The Times of India",
+      "source": "The Times of India",
+      "score": -0.2732
     },
     {
-      "title": "Gold rate today: 24K, 22K and 18K prices across Delhi, Kerala, Chennai and other cities - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "score": 0.0
+      "title": "India gold market update: Gold demand gets festive boost | Post by Kavita Chacko | Insights - World Gold Council",
+      "source": "World Gold Council",
+      "score": 0.6369
     }
   ]
 }
