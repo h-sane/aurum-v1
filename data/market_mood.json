@@ -1,37 +1,42 @@
 {
-  "last_updated": "2026-11-18 00:06:10",
-  "sentiment_score": 0.11,
-  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
+  "last_updated": "2026-11-19 23:58:00",
+  "sentiment_score": 0.02,
+  "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold Rate Today: 24K Gold Falls to Rs 1,36,800 - HDFC Sky",
-      "source": "HDFC Sky",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, November 17: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in India: Rates on November 17 - FXStreet",
-      "source": "FXStreet",
-      "score": 0.0
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: Gold steadies near one-year low as strong dollar, silver also stables - The Times of India",
+      "title": "Gold, Silver Rate Today Highlights: Gold closes at Rs 1,29,531, silver at Rs 1,60,439 per kg in Mumbai - The Times of India",
       "source": "The Times of India",
-      "score": 0.296
+      "score": 0.0
     },
     {
-      "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe - The Times of India",
-      "source": "The Times of India",
-      "score": -0.2732
+      "title": "Gold Rate Today In India: Will Gold Rates Fall Below \u20b91 Lakh? What Does The Price Crash Mean For Indian Buyers? Check City-Wise Rates - Jagran Josh",
+      "source": "Jagran Josh",
+      "score": -0.4696
+    },
+    {
+      "title": "Gold, silver prices today, 19 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+      "source": "Livemint",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today November 18: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
+      "source": "BusinessLine",
+      "score": 0.0
+    },
+    {
+      "title": "Gold rate today 22k 19 November: Check city prices of Chennai, Bangalore, Coimbatore, Hyderabad, Mumbai, Surat, Jaipur - Livemint",
+      "source": "Livemint",
+      "score": 0.0
     },
     {
       "title": "India gold market update: Gold demand gets festive boost | Post by Kavita Chacko | Insights - World Gold Council",
       "source": "World Gold Council",
       "score": 0.6369
+    },
+    {
+      "title": "Gold price in India: Rates on November 19 - FXStreet",
+      "source": "FXStreet",
+      "score": 0.0
     }
   ]
 }
