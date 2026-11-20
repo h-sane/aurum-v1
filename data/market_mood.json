@@ -1,32 +1,17 @@
 {
-  "last_updated": "2026-11-19 23:58:00",
-  "sentiment_score": 0.02,
+  "last_updated": "2026-11-20 23:26:53",
+  "sentiment_score": -0.0,
   "market_status": "NEUTRAL \u26aa",
   "headlines": [
     {
-      "title": "Gold, Silver Rate Today Highlights: Gold closes at Rs 1,29,531, silver at Rs 1,60,439 per kg in Mumbai - The Times of India",
+      "title": "Gold Rate Today in India, 20 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
+      "source": "Kotak Neo",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price crash: From Rs 1.80 lakh to below Rs 1.25 lakh, will gold now plunge to Rs 1 lakh per 10 gms? - The Times of India",
       "source": "The Times of India",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today In India: Will Gold Rates Fall Below \u20b91 Lakh? What Does The Price Crash Mean For Indian Buyers? Check City-Wise Rates - Jagran Josh",
-      "source": "Jagran Josh",
-      "score": -0.4696
-    },
-    {
-      "title": "Gold, silver prices today, 19 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-      "source": "Livemint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today November 18: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
-      "source": "BusinessLine",
-      "score": 0.0
-    },
-    {
-      "title": "Gold rate today 22k 19 November: Check city prices of Chennai, Bangalore, Coimbatore, Hyderabad, Mumbai, Surat, Jaipur - Livemint",
-      "source": "Livemint",
-      "score": 0.0
+      "score": -0.4019
     },
     {
       "title": "India gold market update: Gold demand gets festive boost | Post by Kavita Chacko | Insights - World Gold Council",
@@ -34,8 +19,28 @@
       "score": 0.6369
     },
     {
-      "title": "Gold price in India: Rates on November 19 - FXStreet",
-      "source": "FXStreet",
+      "title": "Gold prices near \u20b91.2 lakh, down 32% from peak: 3 in 4 years ended with positive returns since 1980. Will 2026 follow? - Livemint",
+      "source": "Livemint",
+      "score": 0.5574
+    },
+    {
+      "title": "Why have gold prices fallen by 25% in nine months, and could they dip further? - The Indian Express",
+      "source": "The Indian Express",
+      "score": -0.3612
+    },
+    {
+      "title": "Gold Rate Today In India: Will Gold Rates Fall Below \u20b91 Lakh? What Does The Price Crash Mean For Indian Buyers? Check City-Wise Rates - Jagran Josh",
+      "source": "Jagran Josh",
+      "score": -0.4696
+    },
+    {
+      "title": "Gold prices fall in India today, FXStreet data show - www.tmgm.com",
+      "source": "www.tmgm.com",
+      "score": 0.0
+    },
+    {
+      "title": "Gold Rate Today: 24K Gold Falls Rs 5,120 to Rs 1.25 Lakh - HDFC Sky",
+      "source": "HDFC Sky",
       "score": 0.0
     }
   ]
