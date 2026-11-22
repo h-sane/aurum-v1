@@ -1,12 +1,27 @@
 {
-  "last_updated": "2026-11-21 22:30:41",
-  "sentiment_score": -0.22,
+  "last_updated": "2026-11-22 22:54:07",
+  "sentiment_score": -0.15,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold price crash: From Rs 1.80 lakh to below Rs 1.25 lakh, will gold now plunge to Rs 1 lakh per 10 gms? - The Times of India",
+      "title": "Why have gold prices fallen by 25% in nine months, and could they dip further? - The Indian Express",
+      "source": "The Indian Express",
+      "score": -0.3612
+    },
+    {
+      "title": "Gold rate today in India at 14-month low; will it hit \u20b91 lakh? Experts list out 3 reasons for gold price drop in 2026 - Livemint",
+      "source": "Livemint",
+      "score": -0.4939
+    },
+    {
+      "title": "Gold falls 4.49% to Rs 1.21 lakh, silver plunges 6.6% in a single day to Rs 1.47 lakh; wedding shoppers g - The Times of India",
       "source": "The Times of India",
-      "score": -0.4019
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 22 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+      "source": "Livemint",
+      "score": 0.0
     },
     {
       "title": "Gold Rate Today, November 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
@@ -14,29 +29,19 @@
       "score": 0.0
     },
     {
-      "title": "Golden lessons from past gold price fluctuations amid current gold price crash \u2014 32% down from its peak in 2026 - Livemint",
-      "source": "Livemint",
+      "title": "Gold Rate Today India vs. Dubai : Which Country Gives You the Better Deal on Price and Purity? - Flickonclick",
+      "source": "Flickonclick",
+      "score": 0.4404
+    },
+    {
+      "title": "Gold price crash: From Rs 1.80 lakh to below Rs 1.25 lakh, will gold now plunge to Rs 1 lakh per 10 gms? - The Times of India",
+      "source": "The Times of India",
       "score": -0.4019
     },
     {
-      "title": "Gold becomes cheaper across India on November 21, 2026, Check price in your city - Kalinga TV",
-      "source": "Kalinga TV",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today In India (21 Nov 2026):9th Straight Drop! - Flickonclick",
-      "source": "Flickonclick",
-      "score": -0.126
-    },
-    {
-      "title": "Gold, Silver rates slashes today, Nov 21, 2026 in Delhi, Mumbai, check gold prices of 18K, 22K, 24K - The Hans India",
-      "source": "The Hans India",
-      "score": -0.2023
-    },
-    {
-      "title": "Gold, Silver Rate Today Highlights: Gold heads for steepest weekly fall in eight months; what lies ahead? - The Times of India",
-      "source": "The Times of India",
-      "score": -0.4215
+      "title": "Golden lessons from past gold price fluctuations amid current gold price crash \u2014 32% down from its peak in 2026 - Livemint",
+      "source": "Livemint",
+      "score": -0.4019
     }
   ]
 }
