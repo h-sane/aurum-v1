@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-25 01:41:27",
-  "sentiment_score": -0.08,
+  "last_updated": "2026-11-26 01:13:53",
+  "sentiment_score": -0.05,
   "market_status": "FEAR (Low Demand) \ud83d\udd34",
   "headlines": [
     {
-      "title": "Gold Rate Today, November 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "source": "The Indian Express",
+      "title": "Gold, silver prices today 25 November, Wed: Latest 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata and others - Livemint",
+      "source": "Livemint",
       "score": 0.0
     },
     {
@@ -14,33 +14,28 @@
       "score": -0.4019
     },
     {
-      "title": "Gold price crash with 31% correction: Why investors should wait for November 25, December 4 and 9 - What\u2019s special? - Livemint",
-      "source": "Livemint",
+      "title": "Gold Rate Today in India, 26 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
+      "source": "Kotak Neo",
       "score": 0.0
     },
     {
-      "title": "Gold price in India: Rates on November 24 - FXStreet",
+      "title": "Gold prices crash 27% in 3 months: Golden opportunity to invest in jewellery or should households wait? What experts say - Livemint",
+      "source": "Livemint",
+      "score": 0.0258
+    },
+    {
+      "title": "Gold Prices Today, November 25, 2026: 24K Rate Falls \u20b91,980 per 10 gm from Monday; Kalyan Jewellers Slips 2.25% - HDFC Sky",
+      "source": "HDFC Sky",
+      "score": 0.0
+    },
+    {
+      "title": "Gold price in India: Rates on November 25 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rate Nov 24 Highlights: Gold climbs to Rs 1.28 lakh per 10 grams, silver at Rs 1.75 lakh per kg; check city-wise rates - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.0
-    },
-    {
-      "title": "Gold price in Bangalore today, 24 November Tuesday: Check latest 24K, 22K and 20K gold rates in Silicon Valley of India - Livemint",
-      "source": "Livemint",
-      "score": 0.0
-    },
-    {
-      "title": "Gold Rate Today, 23 November 2026: Gold prices spike to Rs 1,24,677 per 10 grams after hitting 14-month low - The Indian Express",
-      "source": "The Indian Express",
-      "score": -0.2732
-    },
-    {
-      "title": "Gold, silver prices today 24 Nov, Tuesday: Check 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata and others - Livemint",
-      "source": "Livemint",
+      "title": "Gold Price Today: Gold Falls \u20b9290, Silver Slips \u20b9340; Check City-Wise Prices - India Infoline",
+      "source": "India Infoline",
       "score": 0.0
     }
   ]
