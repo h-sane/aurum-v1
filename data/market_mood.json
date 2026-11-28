@@ -1,42 +1,37 @@
 {
-  "last_updated": "2026-11-27 01:13:16",
-  "sentiment_score": -0.13,
-  "market_status": "FEAR (Low Demand) \ud83d\udd34",
+  "last_updated": "2026-11-28 00:46:10",
+  "sentiment_score": 0.06,
+  "market_status": "RISK-ON (High Demand) \ud83d\udfe2",
   "headlines": [
     {
-      "title": "Which state sells 22k, 24k gold at the lowest price in India? What buyers should know - Livemint",
+      "title": "Gold Rate Today, November 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
+      "source": "The Indian Express",
+      "score": 0.0
+    },
+    {
+      "title": "Gold, silver prices today, 27 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
       "source": "Livemint",
-      "score": -0.3818
+      "score": 0.0
     },
     {
-      "title": "Gold Rate Today: Gold Prices Crash Over \u20b94,000 in India; Will the Yellow Metal Lose More Shine? Check 24K Rates in 20 Cities And 30-Day Trend - Jagran Josh",
-      "source": "Jagran Josh",
-      "score": -0.6597
-    },
-    {
-      "title": "Gold price in India: Rates on November 26 - FXStreet",
+      "title": "Gold price in India: Rates on November 27 - FXStreet",
       "source": "FXStreet",
       "score": 0.0
     },
     {
-      "title": "Gold Prices Today, November 26, 2026: Gold Rises in India; Check City-Wise Gold and Silver Rates - India Infoline",
-      "source": "India Infoline",
+      "title": "Gold, Silver Rates Today (November 27) - Highlights: Silver gains 4.7% near Rs 1.55 lakh, gold nearly 3% above Rs 1.25 lakh; triggers driving bullion - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "score": 0.34
+    },
+    {
+      "title": "Gold price today 27 November 2026: MCX gold rate jumps but still 31% down from record high; is it the right time to buy? - Livemint",
+      "source": "Livemint",
       "score": 0.0
     },
     {
-      "title": "Gold, Silver Rates Today (November 25) - Highlights: Gold briefly slips below Rs 1.20 lakh; silver falls 3.50% as dollar, rupee strengthen - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "score": 0.3182
-    },
-    {
-      "title": "Gold rate today: 24K gold rises Rs 261/g, silver price today - Mathrubhumi English",
+      "title": "Gold rate today in India (November 27, 2026): 24K, 22K, 18K gold prices; check city-wise rates - Mathrubhumi English",
       "source": "Mathrubhumi English",
       "score": 0.0
-    },
-    {
-      "title": "RBI brings 60 tonnes of gold home from overseas vaults in six months amid falling global prices: What numbers tell us - Livemint",
-      "source": "Livemint",
-      "score": -0.1531
     }
   ]
 }
